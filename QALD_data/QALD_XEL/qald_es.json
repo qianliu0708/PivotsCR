@@ -1,0 +1,5437 @@
+[
+    {
+        "context": "¿Qué libros de Kerouac han sido publicados por Viking Press?",
+        "id": 1,
+        "keywords": [
+            "libro",
+            "Kerouac",
+            "publicado",
+            "Viking Press"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Book>",
+            "<http://dbpedia.org/resource/Jack_Kerouac>",
+            "<http://dbpedia.org/resource/Viking_Press>"
+        ]
+    },
+    {
+        "context": "¿Quién creó Wikipedia?",
+        "id": 2,
+        "keywords": [
+            "Wikipedia",
+            "creador"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Wikipedia>"
+        ]
+    },
+    {
+        "context": "¿En qué país nace el Nilo?",
+        "id": 4,
+        "keywords": [
+            "Nilo",
+            "país",
+            "orígen"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Nile>"
+        ]
+    },
+    {
+        "context": "¿Por qué río cruza la Brooklyn Bridge?",
+        "id": 5,
+        "keywords": [
+            "río",
+            "cruza",
+            "Brooklyn Bridge"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Brooklyn_Bridge>"
+        ]
+    },
+    {
+        "context": "¿Cómo de alta es Claudia Schiffer?",
+        "id": 6,
+        "keywords": [
+            "Claudia Schiffer",
+            "altura"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Claudia_Schiffer>"
+        ]
+    },
+    {
+        "context": "¿Qué series televisivas ideó Walt Disney?",
+        "id": 7,
+        "keywords": [
+            "serie televisica",
+            "ideó",
+            "Walt Disney"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Walt_Disney>",
+            "<http://dbpedia.org/ontology/TelevisionShow>"
+        ]
+    },
+    {
+        "context": "Dame todas las cuidades en New Jersey que tengan más de 100000 habitantes.",
+        "id": 8,
+        "keywords": [
+            "New Jersey",
+            "ciudad",
+            "habitantes",
+            "más de 100000"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/City>",
+            "<http://dbpedia.org/resource/New_Jersey>"
+        ]
+    },
+    {
+        "context": "¿Qué actores nacieron en Alemania?",
+        "id": 9,
+        "keywords": [
+            "Actores",
+            "nacidos",
+            "Alemania"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Actor>"
+        ]
+    },
+    {
+        "context": "¿Qué países tienes más de dos lenguas oficiales?",
+        "id": 10,
+        "keywords": [
+            "país",
+            "lengua oficial",
+            "más de dos"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Country>"
+        ]
+    },
+    {
+        "context": "¿Cuándo fue construída la estatua de la libertad?",
+        "id": 11,
+        "keywords": [
+            "estatua de la libertad",
+            "construída"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Statue_of_Liberty>"
+        ]
+    },
+    {
+        "context": "Dame todas las personas que hayan nacido en Viena y hayan muerto en Berlin.",
+        "id": 12,
+        "keywords": [
+            "personas",
+            "nacidas en Viena",
+            "muertas en Berlin"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Berlin>",
+            "<http://dbpedia.org/resource/Vienna>"
+        ]
+    },
+    {
+        "context": "Dame todas las películas con Tom Cruise",
+        "id": 13,
+        "keywords": [
+            "películas",
+            "Tom Cruise"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Tom_Cruise>"
+        ]
+    },
+    {
+        "context": "¿Qué altura tiene Michael Jordan?",
+        "id": 14,
+        "keywords": [
+            "altura",
+            "Michael Jordan"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Michael_Jordan>"
+        ]
+    },
+    {
+        "context": "Dame todas las razas de pastor alemán.",
+        "id": 15,
+        "keywords": [
+            "razas de pastor alemán"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/German_Shepherd>"
+        ]
+    },
+    {
+        "context": "¿Cuál es la idioma oficial de Surinam?",
+        "id": 16,
+        "keywords": [
+            "Surinam",
+            "idioma oficial"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Suriname>"
+        ]
+    },
+    {
+        "context": "¿Quién compuso la música para Harold y Maude?",
+        "id": 17,
+        "keywords": [
+            "Harold y Maude",
+            "música",
+            "compositor"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Harold_and_Maude>"
+        ]
+    },
+    {
+        "context": "¿Quen escribió el libro Los pilares de la Tierra?",
+        "id": 18,
+        "keywords": [
+            "escritor",
+            "libro",
+            "Pilares de la Tierra"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Pillars_of_the_Earth>"
+        ]
+    },
+    {
+        "context": "¿Qué idiomas se hablan en Estonia?",
+        "id": 19,
+        "keywords": [
+            "idiomas",
+            "Estonia"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Estonia>"
+        ]
+    },
+    {
+        "context": "¿Son las ranas verdes un tipo de anfibio?",
+        "id": 20,
+        "keywords": [
+            "rana verde",
+            "anfibio"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Hylidae>",
+            "<http://dbpedia.org/resource/Amphibian>"
+        ]
+    },
+    {
+        "context": "¿Cuándo ingresó Letonia a la unión europea?",
+        "id": 21,
+        "keywords": [
+            "Letonia",
+            "ingreso",
+            "unión europea"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Latvia>"
+        ]
+    },
+    {
+        "context": "¿Dónde vive el primer ministor de España?",
+        "id": 22,
+        "keywords": [
+            "primer ministro",
+            "España",
+            "vive"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Prime_Minister_of_Spain>"
+        ]
+    },
+    {
+        "context": "¿Qué países tienen más de diez cuevas?",
+        "id": 23,
+        "keywords": [
+            "país",
+            "cuevas",
+            "más de diez"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Country>",
+            "<http://dbpedia.org/ontology/Cave>"
+        ]
+    },
+    {
+        "context": "¿Quién es el creador de Goofy?",
+        "id": 24,
+        "keywords": [
+            "creador",
+            "Goofy"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Goofy>"
+        ]
+    },
+    {
+        "context": "Dame todos los club de fútbol de España.",
+        "id": 25,
+        "keywords": [
+            "España",
+            "club de fútbol"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/SoccerClub>"
+        ]
+    },
+    {
+        "context": "¿Qué otras armas desarrolló el inventor del Uzi?",
+        "id": 26,
+        "keywords": [
+            "Uzi",
+            "inventor",
+            "otras armas"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Uzi>",
+            "<http://dbpedia.org/ontology/Weapon>"
+        ]
+    },
+    {
+        "context": "¿Qué cuevas tienen más de 3 entradas?",
+        "id": 27,
+        "keywords": [
+            "cueva",
+            "entrada",
+            "más de 3"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Cave>"
+        ]
+    },
+    {
+        "context": "¿Qué países han introducido el Euro?",
+        "id": 28,
+        "keywords": [
+            "países",
+            "introducido",
+            "Euro"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Country>"
+        ]
+    },
+    {
+        "context": "¿De qué país viene el creador de Nijntje?",
+        "id": 29,
+        "keywords": [
+            "Njintje",
+            "creados",
+            "país"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Miffy>"
+        ]
+    },
+    {
+        "context": "Dame todos los nombres propios femeninos.",
+        "id": 30,
+        "keywords": [
+            "nombre propio",
+            "femenino"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Female>",
+            "<http://dbpedia.org/ontology/GivenName>"
+        ]
+    },
+    {
+        "context": "¿Fue Margaret Thatcher química?",
+        "id": 31,
+        "keywords": [
+            "Margret Thatcher",
+            "química"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Margaret_Thatcher>",
+            "<http://dbpedia.org/resource/Chemist>"
+        ]
+    },
+    {
+        "context": "¿Qué ciudades alemanas tienen más de 250000 habitantes?",
+        "id": 32,
+        "keywords": [
+            "cuidad",
+            "Alemania",
+            "habitantes",
+            "más de 250000"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Germany>"
+        ]
+    },
+    {
+        "context": "¿Fué Marc Chagall judío?",
+        "id": 33,
+        "keywords": [
+            "Marc Chagall",
+            "judío"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Marc_Chagall>"
+        ]
+    },
+    {
+        "context": "¿Qué presidentes nacieron en 1945?",
+        "id": 34,
+        "keywords": [
+            "presidentes nacidos 1945"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/President>"
+        ]
+    },
+    {
+        "context": "¿Cuántas tiendas Aldi hay?",
+        "id": 35,
+        "keywords": [
+            "pertenece",
+            "Aldi"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Aldi>"
+        ]
+    },
+    {
+        "context": "¿Estuvo el el presidente de los estados unidos Jackson involucrado en una guerra?",
+        "id": 36,
+        "keywords": [
+            "presidente de los estados unidos",
+            "Jackson",
+            "guerra"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Andrew_Jackson>"
+        ]
+    },
+    {
+        "context": "¿Cuál es la capital de Canadá?",
+        "id": 37,
+        "keywords": [
+            "capital",
+            "Canadá"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Canada>"
+        ]
+    },
+    {
+        "context": "¿En qué museo está expuesto el Grito de Munch?",
+        "id": 38,
+        "keywords": [
+            "museo",
+            "El Grito",
+            "Munch"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Scream>"
+        ]
+    },
+    {
+        "context": "¿Qué discográfica grabó el primer album de Elvis?",
+        "id": 39,
+        "keywords": [
+            "discográfica",
+            "primer album de Elvis"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Elvis_Presley>",
+            "<http://dbpedia.org/ontology/Album>"
+        ]
+    },
+    {
+        "context": "¿Tienen el príncipe Harry y el prínciple William la misma madre?",
+        "id": 40,
+        "keywords": [
+            "príncipe Harry",
+            "príncipe William",
+            "la misma madre"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Prince_Harry_of_Wales>",
+            "<http://dbpedia.org/resource/Prince_William,_Duke_of_Cambridge>"
+        ]
+    },
+    {
+        "context": "¿En qué conflictos militares participó Lawrence de Arabia?",
+        "id": 41,
+        "keywords": [
+            "Lawrence de Arabia",
+            "conflicto militar"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/T._E._Lawrence>"
+        ]
+    },
+    {
+        "context": "¿Qué estados tienen frontera con Illinois?",
+        "id": 42,
+        "keywords": [
+            "estado",
+            "frontera",
+            "Illinois"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Illinois>"
+        ]
+    },
+    {
+        "context": "Dame todas la islas que pertenezcan a Japón.",
+        "id": 43,
+        "keywords": [
+            "islias",
+            "Japón"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Island>",
+            "<http://dbpedia.org/resource/Japan>"
+        ]
+    },
+    {
+        "context": "¿Cuál es la montaña más alta de Australia?",
+        "id": 44,
+        "keywords": [
+            "Australia",
+            "montaña más alta"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Mountain>",
+            "<http://dbpedia.org/resource/Australia>"
+        ]
+    },
+    {
+        "context": "¿Cuántos aeropuertos hay en California?",
+        "id": 45,
+        "keywords": [
+            "aeropuertos",
+            "california"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Airport>"
+        ]
+    },
+    {
+        "context": "¿Quién desarrolló Minecraft?",
+        "id": 46,
+        "keywords": [
+            "Minecraft",
+            "desarrolló"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Minecraft>"
+        ]
+    },
+    {
+        "context": "¿Qué jugadores de ajedrez murieron en sus lugares de nacimiento?",
+        "id": 47,
+        "keywords": [
+            "jugadores de ajedrez",
+            "murieron",
+            "lugar de nacimiento"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/ChessPlayer>"
+        ]
+    },
+    {
+        "context": "Dame todos los coches producidos en Alemania.",
+        "id": 49,
+        "keywords": [
+            "coches",
+            "producidos",
+            "Alemania"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Automobile>"
+        ]
+    },
+    {
+        "context": "¿Quién fué la mujer del presidente americano Lincoln?",
+        "id": 50,
+        "keywords": [
+            "presidente Americano",
+            "Lincoln",
+            "mujer"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Abraham_Lincoln>"
+        ]
+    },
+    {
+        "context": "¿Es Michele Obama la esposa de Barack Obama?",
+        "id": 52,
+        "keywords": [
+            "Michelle Obama",
+            "esposa",
+            "Barack Obama"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Michelle_Obama>",
+            "<http://dbpedia.org/resource/Barack_Obama>"
+        ]
+    },
+    {
+        "context": "Dame todos los actores de películas dirigidas por William Shatner.",
+        "id": 53,
+        "keywords": [
+            "actor",
+            "película",
+            "director",
+            "William Shatner"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/William_Shatner>"
+        ]
+    },
+    {
+        "context": "Dame una lista de los hijos de Margaret Thatcher.",
+        "id": 54,
+        "keywords": [
+            "Margaret Thatcher",
+            "hijos"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Margaret_Thatcher>"
+        ]
+    },
+    {
+        "context": "¿Quién es el editor de Forbes?",
+        "id": 55,
+        "keywords": [
+            "Forbes",
+            "editor"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Forbes>"
+        ]
+    },
+    {
+        "context": "Dame todos los actores que hayan actuado en Last Action Hero.",
+        "id": 56,
+        "keywords": [
+            "actores",
+            "Last Action Hero"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Last_Action_Hero>"
+        ]
+    },
+    {
+        "context": "¿En qué lenguaje de programación esta programado GIMP?",
+        "id": 57,
+        "keywords": [
+            "GIMP",
+            "lenguaje de programación"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/GIMP>"
+        ]
+    },
+    {
+        "context": "¿En qué país se encuentra el lago Limerick?",
+        "id": 58,
+        "keywords": [
+            "lago Limerick",
+            "país"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Limerick_Lake>"
+        ]
+    },
+    {
+        "context": "Dame todos los videojuegos de Mean Hamster Software.",
+        "id": 59,
+        "keywords": [
+            "videojuego",
+            "Mean Hamster Software"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/VideoGame>",
+            "<http://dbpedia.org/resource/Mean_Hamster_Software>"
+        ]
+    },
+    {
+        "context": "¿Quién ha producido películas en las que actua Natalie Portman?",
+        "id": 60,
+        "keywords": [
+            "producente",
+            "perlículas",
+            "actua",
+            "Natalie Portman"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Natalie_Portman>"
+        ]
+    },
+    {
+        "context": "¿En qué películas actúan Julia Roberts y Richard Gere?",
+        "id": 61,
+        "keywords": [
+            "película",
+            "actores",
+            "Julia Roberts",
+            "Richard Gere"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Richard_Gere>",
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Julia_Roberts>"
+        ]
+    },
+    {
+        "context": "¿Cuál es la segunda montaña más alta de la tierra?",
+        "id": 64,
+        "keywords": [
+            "montaña",
+            "seguna más alta"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Mountain>"
+        ]
+    },
+    {
+        "context": "Dame todos los libros de Wiliam Goldman con más de 300 páginas.",
+        "id": 65,
+        "keywords": [
+            "libro",
+            "William Goldman",
+            "más de 300 páginas"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Book>",
+            "<http://dbpedia.org/resource/William_Goldman>"
+        ]
+    },
+    {
+        "context": "Dame todas las películas danesas.",
+        "id": 66,
+        "keywords": [
+            "película",
+            "Dinamarca"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Denmark>"
+        ]
+    },
+    {
+        "context": "¿Cuál es la cuidad más grande de Australia?",
+        "id": 67,
+        "keywords": [
+            "Australia",
+            "ciudad más grande"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Australia>"
+        ]
+    },
+    {
+        "context": "¿Quién pintó el Cristo en la tormenta en el lago de Galilea?",
+        "id": 68,
+        "keywords": [
+            "Cristo en la tormenta en el lago de Galilea",
+            "pintor"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Storm_on_the_Sea_of_Galilee>"
+        ]
+    },
+    {
+        "context": "Dame todas las plataformas de lanzamiento operadas por la NASA.",
+        "id": 69,
+        "keywords": [
+            "plataforma de lanzamiento",
+            "operada por la NASA"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/NASA>",
+            "<http://dbpedia.org/ontology/LaunchPad>"
+        ]
+    },
+    {
+        "context": "Dame los cumpleaños de los actores de la serie de televisión Charmed.",
+        "id": 70,
+        "keywords": [
+            "serie televisiva",
+            "Charmed",
+            "actores",
+            "cumpleaños"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Charmed>"
+        ]
+    },
+    {
+        "context": "¿En qué ciudad murió John F. Kennedy?",
+        "id": 71,
+        "keywords": [
+            "cuidad",
+            "John F. Kennedy",
+            "murió"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/City>",
+            "<http://dbpedia.org/resource/John_F._Kennedy>"
+        ]
+    },
+    {
+        "context": "¿Quién ha producido más películas?",
+        "id": 72,
+        "keywords": [
+            "películas",
+            "producido más"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>"
+        ]
+    },
+    {
+        "context": "¿Quién creó el comic Capitán América?",
+        "id": 73,
+        "keywords": [
+            "creador",
+            "comic",
+            "Capitán América"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Captain_America>"
+        ]
+    },
+    {
+        "context": "¿Hay algún videojuego que se llame Battle Chess?",
+        "id": 74,
+        "keywords": [
+            "videojuego",
+            "Battle Chess"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/VideoGame>"
+        ]
+    },
+    {
+        "context": "¿Qué montañas son más altas que el Nanga Parbat?",
+        "id": 75,
+        "keywords": [
+            "montañas",
+            "más altas",
+            "Nanga Parbat"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Nanga_Parbat>",
+            "<http://dbpedia.org/ontology/Mountain>"
+        ]
+    },
+    {
+        "context": "Dame todos los episodios de la prímera época de la serie de HBO Los Sporanos.",
+        "id": 76,
+        "keywords": [
+            "serie televisiva de HBO",
+            "Los Sopranos",
+            "primera época",
+            "episodios"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Sopranos>"
+        ]
+    },
+    {
+        "context": "¿La mujer del presidente Obama se llama Michelle?",
+        "id": 78,
+        "keywords": [
+            "mujer",
+            "presidente",
+            "Obama",
+            "se lamma",
+            "Michelle"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Barack_Obama>"
+        ]
+    },
+    {
+        "context": "¿Cuál es la montaña más alta?",
+        "id": 79,
+        "keywords": [
+            "montaña",
+            "más alta"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Mountain>"
+        ]
+    },
+    {
+        "context": "¿Quién son los padres de la esposa de Juan Carlos I?",
+        "id": 80,
+        "keywords": [
+            "padres",
+            "esposa",
+            "Juan Carlos I"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Juan_Carlos_I_of_Spain>"
+        ]
+    },
+    {
+        "context": "Dame todos las empresas canadienses productoras de música Grunge.",
+        "id": 81,
+        "keywords": [
+            "empresa productora de música",
+            "canadiense",
+            "Grunge"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Canada>",
+            "<http://dbpedia.org/ontology/RecordLabel>",
+            "<http://dbpedia.org/resource/Grunge>"
+        ]
+    },
+    {
+        "context": "¿Cuál es el nombre de soltera de Angela Merkel?",
+        "id": 82,
+        "keywords": [
+            "nombre de soltera",
+            "Angela Merkel"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Angela_Merkel>"
+        ]
+    },
+    {
+        "context": "¿Cuál es el río más largo?",
+        "id": 83,
+        "keywords": [
+            "río",
+            "más largo"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/River>"
+        ]
+    },
+    {
+        "context": "¿Tuvo Sócrates influencia sobre Aristóteles?",
+        "id": 84,
+        "keywords": [
+            "Sócrates",
+            "influencia",
+            "Aristóteles"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Socrates>",
+            "<http://dbpedia.org/resource/Aristotle>"
+        ]
+    },
+    {
+        "context": "¿En qué películas dirigidas por Garry Mashall actuó Julia Roberts?",
+        "id": 85,
+        "keywords": [
+            "película",
+            "director",
+            "Garry Marshall",
+            "actuar",
+            "Julia Roberts"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Julia_Roberts>",
+            "<http://dbpedia.org/resource/Garry_Marshall>"
+        ]
+    },
+    {
+        "context": "¿Actúa Christian Bale en Velvet Goldmine?",
+        "id": 86,
+        "keywords": [
+            "Christian Bale",
+            "actúa",
+            "Velvet Goldmine"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Velvet_Goldmine>",
+            "<http://dbpedia.org/resource/Christian_Bale>"
+        ]
+    },
+    {
+        "context": "¿Quién desarrolló el videojuego Warcraft?",
+        "id": 87,
+        "keywords": [
+            "videojuego",
+            "Warcraft",
+            "desarrollar"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/World_of_Warcraft>"
+        ]
+    },
+    {
+        "context": "¿Por qué países fluye el río Yenisei?",
+        "id": 88,
+        "keywords": [
+            "países",
+            "fluye",
+            "río Yenisei"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Yenisei_River>"
+        ]
+    },
+    {
+        "context": "Dame todos los juegos de GMT.",
+        "id": 89,
+        "keywords": [
+            "juegos",
+            "GMT"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/GMT_Games>"
+        ]
+    },
+    {
+        "context": "¿Qué empresas fueron fundadas en 1930?",
+        "id": 90,
+        "keywords": [
+            "empresas",
+            "fundadas",
+            "1930"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Organisation>"
+        ]
+    },
+    {
+        "context": "¿Cuántos empleados tiene IBM?",
+        "id": 91,
+        "keywords": [
+            "IBM",
+            "empleados"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/IBM>"
+        ]
+    },
+    {
+        "context": "¿Cúando fué fundada la provincia de Alberta?",
+        "id": 92,
+        "keywords": [
+            "provincia",
+            "Alberta",
+            "fundada"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Alberta>"
+        ]
+    },
+    {
+        "context": "Dame todas las cosmonautas.",
+        "id": 93,
+        "keywords": [
+            "cosmonautas"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Astronaut>"
+        ]
+    },
+    {
+        "context": "¿Quién es el alcalde de Tel Aviv?",
+        "id": 94,
+        "keywords": [
+            "Tel Aviv",
+            "alcalde"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Tel_Aviv>"
+        ]
+    },
+    {
+        "context": "¿Qué barcos fueron bautizados en honor a Benjamin Franklin?",
+        "id": 95,
+        "keywords": [
+            "barco",
+            "bautizado",
+            "honor",
+            "Benjamin Franklin"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Benjamin_Franklin>"
+        ]
+    },
+    {
+        "context": "¿Cuántos empleados tiene Google?",
+        "id": 96,
+        "keywords": [
+            "Google",
+            "empleados"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Google>"
+        ]
+    },
+    {
+        "context": "¿Tiene Breaking Bad más episodios que Game of Thrones?",
+        "id": 97,
+        "keywords": [
+            "Breaking Bad",
+            "episodios",
+            "más que",
+            "Game of Thrones"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Game_of_Thrones>",
+            "<http://dbpedia.org/resource/Breaking_Bad>"
+        ]
+    },
+    {
+        "context": "Dame una lista de todos los líderes de un grupo que tocan la trompeta.",
+        "id": 98,
+        "keywords": [
+            "líder de grupo",
+            "tocar",
+            "trompeta"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Bandleader>",
+            "<http://dbpedia.org/resource/Trumpet>"
+        ]
+    },
+    {
+        "context": "¿Cuándo murió Michael Jackson?",
+        "id": 99,
+        "keywords": [
+            "Michael Jackson",
+            "muerto"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Michael_Jackson>"
+        ]
+    },
+    {
+        "context": "¿Cuántos habitantes tiene Maribor?",
+        "id": 102,
+        "keywords": [
+            "Maribor",
+            "habitantes"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Maribor>"
+        ]
+    },
+    {
+        "context": "¿La proinsulina es una proteina?",
+        "id": 104,
+        "keywords": [
+            "proinsulina",
+            "protein"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Protein>",
+            "<http://dbpedia.org/resource/Proinsulin>"
+        ]
+    },
+    {
+        "context": "¿Qué premios ha ganado WikiLeaks?",
+        "id": 105,
+        "keywords": [
+            "Wikileaks",
+            "premios"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/WikiLeaks>"
+        ]
+    },
+    {
+        "context": "¿Qué país tiene más idiomas oficiales?",
+        "id": 106,
+        "keywords": [
+            "país",
+            "idiomas oficiales",
+            "más"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Country>"
+        ]
+    },
+    {
+        "context": "Dame todos los países comunistas.",
+        "id": 107,
+        "keywords": [
+            "países comunistas"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Country>"
+        ]
+    },
+    {
+        "context": "¿Qué instrumentos tocaba Cat Stevens?",
+        "id": 108,
+        "keywords": [
+            "Cat Stevens",
+            "instrumento",
+            "tocaba"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Cat_Stevens>"
+        ]
+    },
+    {
+        "context": "Dame todos los libros escritos por Danielle Steel.",
+        "id": 109,
+        "keywords": [
+            "libors",
+            "escritos",
+            "Danielle Steel"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Book>",
+            "<http://dbpedia.org/resource/Danielle_Steel>"
+        ]
+    },
+    {
+        "context": "¿Obtuvo Tesla el premio nobel de física?",
+        "id": 110,
+        "keywords": [
+            "Tesla",
+            "premio nobel",
+            "física"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Nikola_Tesla>",
+            "<http://dbpedia.org/resource/Nobel_Prize_in_Physics>"
+        ]
+    },
+    {
+        "context": "¿A quién le pertenecen los Universal Studios?",
+        "id": 111,
+        "keywords": [
+            "Universal Studios",
+            "dueño"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Universal_Studios>"
+        ]
+    },
+    {
+        "context": "¿Quién es el gobernador de Wyoming?",
+        "id": 112,
+        "keywords": [
+            "gobernador",
+            "Wyoming"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Wyoming>"
+        ]
+    },
+    {
+        "context": "¿Cúando se fundaron los Hells Angels?",
+        "id": 113,
+        "keywords": [
+            "Hells Angels",
+            "fundación"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Hells_Angels>"
+        ]
+    },
+    {
+        "context": "Dame todas las bibliotecas que fueron establecidas antes de 1400.",
+        "id": 114,
+        "keywords": [
+            "bibliotecas",
+            "establecidas",
+            "antes de 1400"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Library>"
+        ]
+    },
+    {
+        "context": "¿Es la cuidad más grande de Egipto también capital?",
+        "id": 115,
+        "keywords": [
+            "cuidad más grande",
+            "Egipto",
+            "capital"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Egypt>"
+        ]
+    },
+    {
+        "context": "¿Cuánta gente vive en la capital de Australia?",
+        "id": 117,
+        "keywords": [
+            "Australia",
+            "capital",
+            "habitantes"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Australia>"
+        ]
+    },
+    {
+        "context": "Dame todas las caras B de los Ramones.",
+        "id": 118,
+        "keywords": [
+            "Ramones",
+            "cara B"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Ramones>"
+        ]
+    },
+    {
+        "context": "Dame todas las películas del producente Hal Roach.",
+        "id": 119,
+        "keywords": [
+            "película",
+            "producente",
+            "Hal Roach"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Hal_Roach>",
+            "<http://dbpedia.org/ontology/Film>"
+        ]
+    },
+    {
+        "context": "Dame todos los astronautas de Apolo 14?",
+        "id": 120,
+        "keywords": [
+            "astronautas",
+            "Apolo 14"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Apollo_14>"
+        ]
+    },
+    {
+        "context": "¿Cuál es el prefijo de Berlin?",
+        "id": 121,
+        "keywords": [
+            "prefijo",
+            "Berlin"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Berlin>"
+        ]
+    },
+    {
+        "context": "¿Qué productos de software han sido desarrollados por empresas fundadas en California?",
+        "id": 122,
+        "keywords": [
+            "empresas",
+            "fundadas",
+            "California",
+            "desarrolar",
+            "productos de software"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Software>",
+            "<http://dbpedia.org/ontology/Company>"
+        ]
+    },
+    {
+        "context": "¿Cuál es la moneda de la república checa?",
+        "id": 123,
+        "keywords": [
+            "moneda",
+            "república checa"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Czech_Republic>"
+        ]
+    },
+    {
+        "context": "¿Qué patrimonios de la humanidad fueron reconocidos en los últimos dos años?",
+        "id": 125,
+        "keywords": [
+            "patrimonios de la humanidad",
+            "reconocidos",
+            "últimos dos años"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/WorldHeritageSite>"
+        ]
+    },
+    {
+        "context": "¿Por qué ciudades pasa el río Weser?",
+        "id": 126,
+        "keywords": [
+            "cuidad",
+            "pasa",
+            "Weser"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Weser>"
+        ]
+    },
+    {
+        "context": "Dame todas las películas que haya dirigido Francis Ford Coppola.",
+        "id": 129,
+        "keywords": [
+            "película",
+            "director",
+            "Francis Ford Coppola"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Francis_Ford_Coppola>"
+        ]
+    },
+    {
+        "context": "¿Qué partido gobierna en Lisboa?",
+        "id": 130,
+        "keywords": [
+            "Lisboa",
+            "gobierna",
+            "partido"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Lisbon>"
+        ]
+    },
+    {
+        "context": "Dame todas las empresas de Munich?",
+        "id": 131,
+        "keywords": [
+            "empresas",
+            "Munich"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Company>"
+        ]
+    },
+    {
+        "context": "¿Fué la crisis de cuba antes de la invasión de bahía de cochinos?",
+        "id": 132,
+        "keywords": [
+            "crísis de cuba",
+            "anterior a la invasión de bahía de cochinos?"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Bay_of_Pigs_Invasion>",
+            "<http://dbpedia.org/resource/Cuban_missile_crisis>"
+        ]
+    },
+    {
+        "context": "¿Quién fué el vicepresidente de John F. Kennedy?",
+        "id": 133,
+        "keywords": [
+            "John F. Kennedy",
+            "vicepresidente"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/John_F._Kennedy>"
+        ]
+    },
+    {
+        "context": "¿Quién es el conductor de Formula 1 con más carreras?",
+        "id": 134,
+        "keywords": [
+            "Fconductor",
+            "órmula 1",
+            "carreras",
+            "más"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/FormulaOneRacer>"
+        ]
+    },
+    {
+        "context": "Dame todos los políticos que sean metodístas.",
+        "id": 135,
+        "keywords": [
+            "políticos",
+            "metodístas"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Methodism>",
+            "<http://dbpedia.org/ontology/Politician>"
+        ]
+    },
+    {
+        "context": "Dame todos los clubs de la Premier League.",
+        "id": 136,
+        "keywords": [
+            "Premier League",
+            "club"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/SoccerClub>",
+            "<http://dbpedia.org/resource/Premier_League>"
+        ]
+    },
+    {
+        "context": "¿Qué monárcas estaban casados con una persona alemana?",
+        "id": 137,
+        "keywords": [
+            "monarcha",
+            "casado",
+            "alemán"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Monarch>"
+        ]
+    },
+    {
+        "context": "¿Enseñame todas las canciones de Bruce Springsteen que aparecieron entre 1980 y 1990.",
+        "id": 138,
+        "keywords": [
+            "canción",
+            "Bruce Springsteen",
+            "aparecida entre 1980 y 1990"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Song>",
+            "<http://dbpedia.org/resource/Bruce_Springsteen>"
+        ]
+    },
+    {
+        "context": "Dame todos los miembros de la banda Prodigy.",
+        "id": 139,
+        "keywords": [
+            "miembros de la banda Prodigy"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Prodigy>"
+        ]
+    },
+    {
+        "context": "Dame todas las organizaciones benéficas de Australia.",
+        "id": 140,
+        "keywords": [
+            "organizaciones benéficas",
+            "Australia"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Nonprofit_organization>"
+        ]
+    },
+    {
+        "context": "¿De qué murió Bruce Carver?",
+        "id": 141,
+        "keywords": [
+            "Bruce Caver",
+            "muerte"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Bruce_Carver>"
+        ]
+    },
+    {
+        "context": "¿En qué país nace el Ganges?",
+        "id": 142,
+        "keywords": [
+            "Ganges",
+            "país",
+            "orígen"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Ganges>"
+        ]
+    },
+    {
+        "context": "¿Cúantos hombres y mujeres trabajan para los bomberos de Nueva York?",
+        "id": 143,
+        "keywords": [
+            "hombres",
+            "mujeres",
+            "bomberos",
+            "Nueva York"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/New_York_City_Fire_Department>"
+        ]
+    },
+    {
+        "context": "¿Tienen el príncipe Harry y el prínciple William la misma madre?",
+        "id": 146,
+        "keywords": [
+            "príncipe Harry",
+            "príncipe William",
+            "la misma madre"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Prince_Harry>",
+            "<http://dbpedia.org/resource/Prince_William,_Duke_of_Cambridge>"
+        ]
+    },
+    {
+        "context": "¿En qué ciudad del reino unido se encuentra el cuartel genetal del MI6?",
+        "id": 147,
+        "keywords": [
+            "MI6",
+            "cuartel general",
+            "ciudad",
+            "reino unido"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/United_Kingdom>",
+            "<http://dbpedia.org/resource/Secret_Intelligence_Service>"
+        ]
+    },
+    {
+        "context": "Dame todas las películas danesas.",
+        "id": 150,
+        "keywords": [
+            "película",
+            "Dinamarca"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Denmark>"
+        ]
+    },
+    {
+        "context": "¿Es Rita Wilson la esposa de Tom Hanks?",
+        "id": 151,
+        "keywords": [
+            "Rita Wilson",
+            "esposa",
+            "Tom Hanks"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Rita_Wilson>",
+            "<http://dbpedia.org/resource/Tom_Hanks>"
+        ]
+    },
+    {
+        "context": "¿En qué películas con Clint Eastwood están dirigidas por él mismo?",
+        "id": 152,
+        "keywords": [
+            "películas",
+            "Clint Eastwood",
+            "director"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Clint_Eastwood>"
+        ]
+    },
+    {
+        "context": "¿Qué películas ha rodado Kurosawa?",
+        "id": 154,
+        "keywords": [
+            "película",
+            "rodada",
+            "Kurosawa?"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Akira_Kurosawa>"
+        ]
+    },
+    {
+        "context": "¿Qué series televisivas ideó John Cleese?",
+        "id": 155,
+        "keywords": [
+            "serie televisica",
+            "ideó",
+            "John Cleese"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/TelevisionShow>",
+            "<http://dbpedia.org/resource/John_Cleese>"
+        ]
+    },
+    {
+        "context": "¿Qué premios ha ganado Douglas Hofstadter?",
+        "id": 156,
+        "keywords": [
+            "Douglas Hofstadter",
+            "premios"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Douglas_Hofstadter>"
+        ]
+    },
+    {
+        "context": "¿Con quién está casada la hija de Robert Kennedy?",
+        "id": 157,
+        "keywords": [
+            "Robert Kennedy",
+            "hija",
+            "casada"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Robert_F._Kennedy>"
+        ]
+    },
+    {
+        "context": "¿Quién es el dueño de Rolls-Royce?",
+        "id": 158,
+        "keywords": [
+            "Rolls-Royce",
+            "dueño"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Rolls-Royce_Motors>"
+        ]
+    },
+    {
+        "context": "¿Quién diseñó la Brooklyn Bridge?",
+        "id": 159,
+        "keywords": [
+            "diseñador",
+            "Brooklyn Bridge"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Brooklyn_Bridge>"
+        ]
+    },
+    {
+        "context": "¿Cuál es el punto más alto del montes Urales?",
+        "id": 160,
+        "keywords": [
+            "los montes Urales",
+            "punto más alto"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Ural_Mountains>"
+        ]
+    },
+    {
+        "context": "Dame todos los cancilleres alemanos.",
+        "id": 162,
+        "keywords": [
+            "cancilleres",
+            "alemanos"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Person>"
+        ]
+    },
+    {
+        "context": "¿La mujer del presidente Lincoln se llama Mary?",
+        "id": 164,
+        "keywords": [
+            "mujer",
+            "presidente",
+            "Lincoln",
+            "se lamma",
+            "Mary"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Abraham_Lincoln>"
+        ]
+    },
+    {
+        "context": "¿Cuántos habitantes tiene la ciudad más grande de Canadá?",
+        "id": 166,
+        "keywords": [
+            "número de habitantes",
+            "ciudad más grande de Canadá"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Canada>"
+        ]
+    },
+    {
+        "context": "¿Quién fue el primero en ascender al Monte Everest?",
+        "id": 167,
+        "keywords": [
+            "primero",
+            "ascender",
+            "Monte Everest"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Mount_Everest>"
+        ]
+    },
+    {
+        "context": "¿Cuál es el color oficial de la Universidad de Oxford?",
+        "id": 169,
+        "keywords": [
+            "Universidad de Oxford",
+            "color oficial"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/University_of_Oxford>"
+        ]
+    },
+    {
+        "context": "¿A qué estilo artístico pertenece el pinto de Los Tres Bailarines?",
+        "id": 170,
+        "keywords": [
+            "estilo artístico",
+            "pintor",
+            "Los Tres Bailarines"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Three_Dancers>"
+        ]
+    },
+    {
+        "context": "Dame todos los animales extintos",
+        "id": 171,
+        "keywords": [
+            "animales extintos"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Animal>"
+        ]
+    },
+    {
+        "context": "¿Tiene el lugar de nacimiento de Abraham Lincol una página web?",
+        "id": 172,
+        "keywords": [
+            "Abraham Lincoln",
+            "lugar de nacimiento",
+            "página web"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Abraham_Lincoln>"
+        ]
+    },
+    {
+        "context": "¿Quién es el jugador mas jóven de dardos?",
+        "id": 173,
+        "keywords": [
+            "jugador más jóven dardos"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/DartsPlayer>"
+        ]
+    },
+    {
+        "context": "¿Dónde nació Bach?",
+        "id": 174,
+        "keywords": [
+            "Bach",
+            "lugar de nacimiento"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Johann_Sebastian_Bach>"
+        ]
+    },
+    {
+        "context": "¿En qué páises se paga con el Franco CFA?",
+        "id": 175,
+        "keywords": [
+            "país",
+            "moneda",
+            "Franco CFA"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/West_African_CFA_franc>"
+        ]
+    },
+    {
+        "context": "¿Cuáles son los 10 mejores videojuegos de rol de acción según la IGN?",
+        "id": 176,
+        "keywords": [
+            "10 mejores videojuegos de rol de acción",
+            "IGN"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Category:Action_role-playing_video_games>"
+        ]
+    },
+    {
+        "context": "¿Desemboca el Isar en un lago?",
+        "id": 178,
+        "keywords": [
+            "Isar",
+            "desemboca",
+            "lago"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Isar>",
+            "<http://dbpedia.org/ontology/Lake>"
+        ]
+    },
+    {
+        "context": "Dame todas las películas producidas por Steven Spielberg con un presupuesto de al menos 80 milliones de dólares.",
+        "id": 179,
+        "keywords": [
+            "películas",
+            "productor",
+            "Steven Spielberg",
+            "presupuesto de al menos 80 milliones de dólares"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Steven_Spielberg>"
+        ]
+    },
+    {
+        "context": "Dame todos los escritores que hayan recibido el premio nobel de literatura.",
+        "id": 180,
+        "keywords": [
+            "escritores",
+            "premio nobel de literatura"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Writer>",
+            "<http://dbpedia.org/resource/Nobel_Prize_in_Literature>"
+        ]
+    },
+    {
+        "context": "Dame todas las taikonautas.",
+        "id": 181,
+        "keywords": [
+            "taikonautas"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/China>",
+            "<http://dbpedia.org/ontology/Astronaut>"
+        ]
+    },
+    {
+        "context": "¿Cuántas páginas tiene Guerra y Paz?",
+        "id": 182,
+        "keywords": [
+            "número paginas",
+            "Guerra y Paz"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/War_and_Peace>"
+        ]
+    },
+    {
+        "context": "¿Qué puente tiene el mayor largo del vano?",
+        "id": 183,
+        "keywords": [
+            "puente",
+            "mayor largo del vano"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Bridge>"
+        ]
+    },
+    {
+        "context": "¿Quién es el jugador más alto de los Atlanta Falcons?",
+        "id": 185,
+        "keywords": [
+            "jugador más alto",
+            "Atlanta Falcons"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Atlanta_Falcons>"
+        ]
+    },
+    {
+        "context": "¿Qué ríos desembocan en un lago alemán?",
+        "id": 186,
+        "keywords": [
+            "ríos",
+            "desembocan",
+            "lago alemán"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Lake>",
+            "<http://dbpedia.org/resource/Germany>",
+            "<http://dbpedia.org/ontology/River>"
+        ]
+    },
+    {
+        "context": "¿Qué cohetes han sido lanzados desde Baionur?",
+        "id": 188,
+        "keywords": [
+            "cohetes",
+            "salida",
+            "Baikonur"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Baikonur_Cosmodrome>",
+            "<http://dbpedia.org/ontology/Rocket>"
+        ]
+    },
+    {
+        "context": "¿Qué papa fue el sucesor de Juan Pablo II?",
+        "id": 189,
+        "keywords": [
+            "Papa",
+            "sucesor",
+            "Juan Pablo II"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Pope_John_Paul_II>"
+        ]
+    },
+    {
+        "context": "Dame todos los partidos políticos holandeses",
+        "id": 190,
+        "keywords": [
+            "partidos políticos holandeses"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Netherlands>",
+            "<http://dbpedia.org/ontology/PoliticalParty>"
+        ]
+    },
+    {
+        "context": "¿Cuándo es Halloween?",
+        "id": 191,
+        "keywords": [
+            "fecha",
+            "Halloween"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Halloween>"
+        ]
+    },
+    {
+        "context": "Dame todos los oceanógrafos suecos.",
+        "id": 192,
+        "keywords": [
+            "oceanógrafos suecos"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Oceanography>",
+            "<http://dbpedia.org/resource/Sweden>"
+        ]
+    },
+    {
+        "context": "Dame todos los actores nacidos en Berlin.",
+        "id": 193,
+        "keywords": [
+            "actores",
+            "nacidos",
+            "Berlin"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Berlin>",
+            "<http://dbpedia.org/ontology/Actor>"
+        ]
+    },
+    {
+        "context": "¿Cuál fue la última película con Alec Guinness?",
+        "id": 194,
+        "keywords": [
+            "última película",
+            "Alec Guinness"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Alec_Guinness>",
+            "<http://dbpedia.org/ontology/Film>"
+        ]
+    },
+    {
+        "context": "¿Que poeta ha escrito el mayor número de libros?",
+        "id": 195,
+        "keywords": [
+            "poeta",
+            "mayor número",
+            "libros"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Book>",
+            "<http://dbpedia.org/resource/Poet>"
+        ]
+    },
+    {
+        "context": "¿Cuál ha sido la posición de ranking más baja de Brasil en el ranking mundial de la FIFA?",
+        "id": 198,
+        "keywords": [
+            "Brasil",
+            "posición más baja",
+            "ranking mundial de la FIFA"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Brazil_national_football_team>"
+        ]
+    },
+    {
+        "context": "¿Qué ingredientes son necesarios para una tarta de zanahorias?",
+        "id": 199,
+        "keywords": [
+            "ingredientes",
+            "tarta de zanahorias?"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Carrot_cake>"
+        ]
+    },
+    {
+        "context": "¿La Coca Cola es una bebida?",
+        "id": 200,
+        "keywords": [
+            "Coca Cola",
+            "bebida"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Beverage>",
+            "<http://dbpedia.org/resource/Cola>"
+        ]
+    },
+    {
+        "context": "¿Quién ha estado casado con Tom Cruise?",
+        "id": 201,
+        "keywords": [
+            "esposas",
+            "Tom Cruise"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Tom_Cruise>"
+        ]
+    },
+    {
+        "context": "¿Cuál es la película de Tim Burton con el mayor presupuesto?",
+        "id": 202,
+        "keywords": [
+            "película de Tim Burton",
+            "mayor presupuesto"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Tim_Burton>"
+        ]
+    },
+    {
+        "context": "¿Cuánto pesa el satélite más ligero de Júpiter?",
+        "id": 203,
+        "keywords": [
+            "peso",
+            "satélite más ligero",
+            "Júpiter"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Jupiter>"
+        ]
+    },
+    {
+        "context": "¿Qué actor ha actuado en el mayor número de películas?",
+        "id": 204,
+        "keywords": [
+            "actor",
+            "mayor número de películas"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/ontology/Actor>"
+        ]
+    },
+    {
+        "context": "¿Está James Bond casado?",
+        "id": 205,
+        "keywords": [
+            "James Bond",
+            "casado"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/James_Bond>"
+        ]
+    },
+    {
+        "context": "Dame todos los grupos australianos de metalcore.",
+        "id": 206,
+        "keywords": [
+            "grupos australianos metalcore"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Band>",
+            "<http://dbpedia.org/resource/Metalcore>"
+        ]
+    },
+    {
+        "context": "Dame todos los actores nacidos en Paris después de 1950.",
+        "id": 207,
+        "keywords": [
+            "actores",
+            "nacidos en Paris",
+            "después de 1950"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Actor>",
+            "<http://dbpedia.org/resource/Paris>"
+        ]
+    },
+    {
+        "context": "¿Cuáles son los cuatro jugadores de baloncesto de categoría MVP más jóvenes?",
+        "id": 208,
+        "keywords": [
+            "cuatro jugadores de baloncesto más jóvenes",
+            "categoría MVP"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/BasketballPlayer>"
+        ]
+    },
+    {
+        "context": "¿Qué empresas tienen mas de 1 millón de empleados?",
+        "id": 209,
+        "keywords": [
+            "empresas",
+            "mas de un millón",
+            "empleados"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Company>"
+        ]
+    },
+    {
+        "context": "Dame todos los nadadores nacidos en Moscú",
+        "id": 210,
+        "keywords": [
+            "nadadores",
+            "nacidos",
+            "Moscú"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Moscow>",
+            "<http://dbpedia.org/ontology/Swimmer>"
+        ]
+    },
+    {
+        "context": "Muéstrame el libro escrito por Muhammad Ali.",
+        "id": 211,
+        "keywords": [
+            "libro",
+            "autor",
+            "Muhammad Ali"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Muhammad_Ali>",
+            "<http://dbpedia.org/ontology/Book>"
+        ]
+    },
+    {
+        "context": "¿Cuantos museos hay en Paris?",
+        "id": 212,
+        "keywords": [
+            "cuantos",
+            "museos",
+            "Paris"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Museum>",
+            "<http://dbpedia.org/resource/Paris>"
+        ]
+    },
+    {
+        "context": "¿Que ciudad tiene la mayor población?",
+        "id": 213,
+        "keywords": [
+            "ciudad",
+            "mayor población"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/City>"
+        ]
+    },
+    {
+        "context": "¿Que ciudad tiene la menor población?",
+        "id": 214,
+        "keywords": [
+            "ciudad",
+            "menor población"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/City>"
+        ]
+    },
+    {
+        "context": "Dame todos los programas de televisión con Neil Patrick Harris.",
+        "id": 215,
+        "keywords": [
+            "programas de televisión",
+            "Neil Patrick Harris"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/TelevisionShow>",
+            "<http://dbpedia.org/resource/Neil_Patrick_Harris>"
+        ]
+    },
+    {
+        "context": "Dame una lista de los clubs de futbol que juegan en Bundesliga.",
+        "id": 216,
+        "keywords": [
+            "clubs de futbol",
+            "Bundesliga"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/SoccerClub>",
+            "<http://dbpedia.org/resource/Bundesliga>"
+        ]
+    },
+    {
+        "context": "¿En que país esta el monte Everest?",
+        "id": 217,
+        "keywords": [
+            "país",
+            "monte Everest"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Country>",
+            "<http://dbpedia.org/resource/Mount_Everest>"
+        ]
+    },
+    {
+        "context": "¿Quien es el fundador de Penguin Books?",
+        "id": 218,
+        "keywords": [
+            "fundador",
+            "Penguin Books"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Penguin_Books>"
+        ]
+    },
+    {
+        "context": "¿Que lenguajes de programación influenciaron el Javascript?",
+        "id": 219,
+        "keywords": [
+            "lenguajes de programación",
+            "influenciaron",
+            "Javascript"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/ProgrammingLanguage>",
+            "<http://dbpedia.org/resource/JavaScript>"
+        ]
+    },
+    {
+        "context": "¿Tuvo hijos el Che Guevara?",
+        "id": 220,
+        "keywords": [
+            "hijos",
+            "Che Guevara"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Che_Guevara>"
+        ]
+    },
+    {
+        "context": "Dame todos los musicales con música de Elton John.",
+        "id": 221,
+        "keywords": [
+            "musicales",
+            "música",
+            "Elton John"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Elton_John>",
+            "<http://dbpedia.org/ontology/Musical>"
+        ]
+    },
+    {
+        "context": "Muéstrame todas las cervecerías en Australia.",
+        "id": 222,
+        "keywords": [
+            "cervecerías",
+            "Australia"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Brewery>"
+        ]
+    },
+    {
+        "context": "¿Cuando se completo el Titanic?",
+        "id": 223,
+        "keywords": [
+            "fecha de acabado",
+            "Titanic"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/RMS_Titanic>"
+        ]
+    },
+    {
+        "context": "¿Cuanto costo Pulp Fiction?",
+        "id": 224,
+        "keywords": [
+            "costo",
+            "Pulp Fiction"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Pulp_Fiction>"
+        ]
+    },
+    {
+        "context": "¿Cuantos hidrates de carbono tienen la manteca de cacahuete?",
+        "id": 226,
+        "keywords": [
+            "hidrates de carbono",
+            "manteca de cacahuete"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Peanut_butter>"
+        ]
+    },
+    {
+        "context": "¿Que libro tiene el mayor numero de paginas?",
+        "id": 227,
+        "keywords": [
+            "libro",
+            "mayor numero paginas"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Book>"
+        ]
+    },
+    {
+        "context": "¿Cuantos puentes cruzan el Siena?",
+        "id": 228,
+        "keywords": [
+            "puentes",
+            "cruzan",
+            "Siena"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Bridge>",
+            "<http://dbpedia.org/resource/Seine>"
+        ]
+    },
+    {
+        "context": "¿Quien es el alcalde de la capital de la Polinesia Francesa?",
+        "id": 229,
+        "keywords": [
+            "alcalde",
+            "capital Polinesia Francesa"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/French_Polynesia>"
+        ]
+    },
+    {
+        "context": "¿Cuando murió el creador de Drácula?",
+        "id": 230,
+        "keywords": [
+            "muerte",
+            "creador",
+            "Drácula"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Count_Dracula>"
+        ]
+    },
+    {
+        "context": "¿Donde están situadas las Casas del Parlamento?",
+        "id": 231,
+        "keywords": [
+            "localización",
+            "casas del parlamento"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Palace_of_Westminster>"
+        ]
+    },
+    {
+        "context": "Muéstrame todos los edificios góticos en Kent.",
+        "id": 232,
+        "keywords": [
+            "edificios góticos",
+            "Kent"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Kent>",
+            "<http://dbpedia.org/resource/English_Gothic_architecture>",
+            "<http://dbpedia.org/ontology/Building>"
+        ]
+    },
+    {
+        "context": "¿Quien fue el papa que fundo la televisión Vaticana?",
+        "id": 233,
+        "keywords": [
+            "papa",
+            "fundo",
+            "televisión Vaticana"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Vatican_Television_Center>",
+            "<http://dbpedia.org/ontology/Pope>"
+        ]
+    },
+    {
+        "context": "¿Cuál es la población total de Melbourne, Florida?",
+        "id": 234,
+        "keywords": [
+            "población total",
+            "Melbourne Florida"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Melbourne,_Florida>"
+        ]
+    },
+    {
+        "context": "¿Qué aeropuertos sirve Air China?",
+        "id": 235,
+        "keywords": [
+            "aeropuertos",
+            "Air China"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Air_China>"
+        ]
+    },
+    {
+        "context": "¿En que año nació Rachel Stevens?",
+        "id": 236,
+        "keywords": [
+            "año",
+            "nació",
+            "Rachel Stevens"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Rachel_Stevens>"
+        ]
+    },
+    {
+        "context": "¿Dónde fue JFK asesinado?",
+        "id": 237,
+        "keywords": [
+            "JFK",
+            "asesinado"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/John_F._Kennedy>"
+        ]
+    },
+    {
+        "context": "¿Qué científicos son conocidos por el proyecto Manhattan y el premio Nobel de la Paz?",
+        "id": 239,
+        "keywords": [
+            "científico",
+            "conocidos",
+            "proyecto Manhattan",
+            "premio Nobel de la Paz"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Manhattan_Project>",
+            "<http://dbpedia.org/ontology/Scientist>",
+            "<http://dbpedia.org/resource/Nobel_Peace_Prize>"
+        ]
+    },
+    {
+        "context": "¿Cuáles son las especialidades del UNC Health Care?",
+        "id": 240,
+        "keywords": [
+            "especialidades",
+            "UNC Health Care"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/UNC_Health_Care>"
+        ]
+    },
+    {
+        "context": "¿Quién es el dueño de Facebook?",
+        "id": 241,
+        "keywords": [
+            "dueño",
+            "Facebook"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Facebook>"
+        ]
+    },
+    {
+        "context": "¿De que región es el vino Melon de Bourgogne?",
+        "id": 242,
+        "keywords": [
+            "región",
+            "Melon de Bourgogne"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Melon_de_Bourgogne>"
+        ]
+    },
+    {
+        "context": "¿Quién fue influenciado por Socrates?",
+        "id": 243,
+        "keywords": [
+            "influenciado",
+            "Socrates"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Socrates>"
+        ]
+    },
+    {
+        "context": "¿Quién fue el presidente de Pakistán en 1978?",
+        "id": 244,
+        "keywords": [
+            "presidente",
+            "Pakistán",
+            "1978"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/President_of_Pakistan>"
+        ]
+    },
+    {
+        "context": "¿Quién estuvo casado con el presidente Chirac?",
+        "id": 245,
+        "keywords": [
+            "casado con",
+            "presidented Chirac"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Jacques_Chirac>"
+        ]
+    },
+    {
+        "context": "¿Cuál es el área metropolitana mas larga en el estado de Washington?",
+        "id": 246,
+        "keywords": [
+            "área metropolitana",
+            "mas larga",
+            "estado de Washington"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Washington_(state)>"
+        ]
+    },
+    {
+        "context": "¿Dónde en Francia se produce el vino espumoso?",
+        "id": 247,
+        "keywords": [
+            "produce",
+            "Francia",
+            "vino espumoso"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/France>",
+            "<http://dbpedia.org/resource/Sparkling_wine>"
+        ]
+    },
+    {
+        "context": "¿Dónde murió Hillel Slovak?",
+        "id": 248,
+        "keywords": [
+            "Hillel Slovak",
+            "donde murió"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Hillel_Slovak>"
+        ]
+    },
+    {
+        "context": "¿En que ciudad termina la ruta Chilena 68?",
+        "id": 249,
+        "keywords": [
+            "ciudad",
+            "termina",
+            "ruta Chilena 68"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Chile_Route_68>"
+        ]
+    },
+    {
+        "context": "¿Cómo de alta es Amazon Eve?",
+        "id": 282,
+        "keywords": [
+            "Amazon Eve",
+            "altura"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Amazon_Eve>"
+        ]
+    },
+    {
+        "context": "¿Qué armas crearon Heckler y Koch?",
+        "id": 287,
+        "keywords": [
+            "Uzi",
+            "inventor",
+            "otras armas"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Heckler_&_Koch>",
+            "<http://dbpedia.org/ontology/Weapon>"
+        ]
+    },
+    {
+        "context": "¿Quién creó Batman?",
+        "id": 316,
+        "keywords": [
+            "creador",
+            "comic",
+            "Capitán América"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Batman>"
+        ]
+    },
+    {
+        "context": "¿Qué monárcas estaban casados con una persona alemana?",
+        "id": 344,
+        "keywords": [
+            "monarcha",
+            "casado",
+            "alemán"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Politician>"
+        ]
+    },
+    {
+        "context": "¿Cúando se fundó Jack Wolfskin?",
+        "id": 394,
+        "keywords": [
+            "Jack Wolfskin",
+            "fundada"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Jack_Wolfskin>"
+        ]
+    },
+    {
+        "context": "Dame todos los nietos de Elvis Presley.",
+        "id": 404,
+        "keywords": [
+            "Elvis Presley",
+            "nietos"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Elvis_Presley>"
+        ]
+    },
+    {
+        "context": "¿Cuándo fue disparado Olof Palme?",
+        "id": 439,
+        "keywords": [
+            "fecha",
+            "disparo",
+            "Olof Palme"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Olof_Palme>"
+        ]
+    },
+    {
+        "context": "Dame todos los musicales con música de Leonard Bernstein.",
+        "id": 453,
+        "keywords": [
+            "musicales",
+            "música",
+            "Leonard Bernstein"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Leonard_Bernstein>",
+            "<http://dbpedia.org/ontology/Musical>"
+        ]
+    },
+    {
+        "context": "¿Qué aeropuertos sirve Yeti Airlines?",
+        "id": 467,
+        "keywords": [
+            "aeropuertos",
+            "Yeti Airlines"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Yeti_Airlines>"
+        ]
+    },
+    {
+        "context": "¿Cuál es la zona horaria en San Pedro de Atacama?",
+        "id": 481,
+        "keywords": [
+            "zona horaria",
+            "San Pedro de Atacama"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/San_Pedro_de_Atacama>"
+        ]
+    },
+    {
+        "context": "Dame todos los días festivos en Suecia.",
+        "id": 483,
+        "keywords": [
+            "días festivos",
+            "Suecia"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Holiday>",
+            "<http://dbpedia.org/resource/Sweden>"
+        ]
+    },
+    {
+        "context": "¿Quien es el premio Pilitzer mas joven?",
+        "id": 484,
+        "keywords": [
+            "mas joven",
+            "premio Pulitzer"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Pulitzer_Prize>"
+        ]
+    },
+    {
+        "context": "¿Que jugadores de futbol han nacido en Malta?",
+        "id": 485,
+        "keywords": [
+            "jugadores de futbol",
+            "nacidos",
+            "Malta"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Malta>",
+            "<http://dbpedia.org/ontology/SoccerPlayer>"
+        ]
+    },
+    {
+        "context": "¿Fue Arnold Schwarzenegger a la universidad?",
+        "id": 486,
+        "keywords": [
+            "Arnold Schwarzenegger",
+            "universidad"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/University>",
+            "<http://dbpedia.org/resource/Arnold_Schwarzenegger>"
+        ]
+    },
+    {
+        "context": "¿Qué lenguajes de programación fueron influenciados por el Perl?",
+        "id": 487,
+        "keywords": [
+            "lenguajes de programación",
+            "influenciados",
+            "Perl"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/ProgrammingLanguage>"
+        ]
+    },
+    {
+        "context": "¿Es Barack Obama demócrata?",
+        "id": 488,
+        "keywords": [
+            "Barack Obama",
+            "demócrata"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Democratic_Party_(United_States)>",
+            "<http://dbpedia.org/resource/Barack_Obama>"
+        ]
+    },
+    {
+        "context": "¿Cuántos hijos tiene Eddie Murphy?",
+        "id": 489,
+        "keywords": [
+            "hijos",
+            "Eddie Murphy"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Eddie_Murphy>"
+        ]
+    },
+    {
+        "context": "¿Cuál es el hijo mas mayor de Meryl Streep?",
+        "id": 490,
+        "keywords": [
+            "hijo mas mayor",
+            "Meryl Streep"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Meryl_Streep>"
+        ]
+    },
+    {
+        "context": "¿Quién asesino a John Lennon?",
+        "id": 491,
+        "keywords": [
+            "asesino",
+            "John Lennon"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Death_of_John_Lennon>",
+            "<http://dbpedia.org/ontology/Person>"
+        ]
+    },
+    {
+        "context": "¿Cuántos científicos se han graduado en un Universidad de la Ivy League?",
+        "id": 493,
+        "keywords": [
+            "científicos",
+            "graduado",
+            "Universidad Ivy League"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Ivy_League>",
+            "<http://dbpedia.org/ontology/Scientist>"
+        ]
+    },
+    {
+        "context": "¿Que tipo de uva crece en Oregon?",
+        "id": 494,
+        "keywords": [
+            "tipo uva",
+            "crece",
+            "Oregon"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Oregon_wine>"
+        ]
+    },
+    {
+        "context": "¿Quien protagoniza peliculas españolas producidas por Benicio del Toro?",
+        "id": 495,
+        "keywords": [
+            "protagonista",
+            "peliculas españolas",
+            "productor",
+            "Benicio del Toro"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Spain>",
+            "<http://dbpedia.org/resource/Benicio_del_Toro>",
+            "<http://dbpedia.org/ontology/Person>",
+            "<http://dbpedia.org/ontology/Film>"
+        ]
+    },
+    {
+        "context": "¿Quien es el manager de Real Madrid?",
+        "id": 496,
+        "keywords": [
+            "manager",
+            "Real Madrid"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Real_Madrid_C.F.>"
+        ]
+    },
+    {
+        "context": "¿Cual es la moneda de China?",
+        "id": 497,
+        "keywords": [
+            "moneda",
+            "China"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/China>"
+        ]
+    },
+    {
+        "context": "¿Que peliculas protagonizadas por Mickey Rourke han sido dirigidas por Guy Ritchie?",
+        "id": 498,
+        "keywords": [
+            "peliculas",
+            "protagonizadas",
+            "Mickey Rourke",
+            "dirigidas",
+            "Guy Ritchie"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Guy_Ritchie>",
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Mickey_Rourke>"
+        ]
+    },
+    {
+        "context": "¿Es Darth Vader el padre de Luke?",
+        "id": 499,
+        "keywords": [
+            "Darth Vader",
+            "padre",
+            "Luke"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Darth_Vader>"
+        ]
+    },
+    {
+        "context": "¿Cuantas compañías han sido fundadas por el fundador de Facebook?",
+        "id": 500,
+        "keywords": [
+            "compañías",
+            "fundadas",
+            "fundador Facebook"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Facebook>"
+        ]
+    },
+    {
+        "context": "¿Cuántas compañías fueron fundadas en el mismo año que Google?",
+        "id": 501,
+        "keywords": [
+            "compañías",
+            "fundadas",
+            "mismo año Google"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Google>",
+            "<http://dbpedia.org/ontology/Company>"
+        ]
+    },
+    {
+        "context": "¿Cuántas compañías son miembros del la Star Alliance?",
+        "id": 502,
+        "keywords": [
+            "Cuántas compañías",
+            "miembros",
+            "Star Alliance"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Star_Alliance>",
+            "<http://dbpedia.org/ontology/Airline>"
+        ]
+    },
+    {
+        "context": "¿Qué músico ha escrito el mayor numero de libros?",
+        "id": 503,
+        "keywords": [
+            "músico",
+            "escrito",
+            "mayor numero de libros"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Book>",
+            "<http://dbpedia.org/resource/Musician>"
+        ]
+    },
+    {
+        "context": "Muestrame todas las personas nacidas en Halloween",
+        "id": 504,
+        "keywords": [
+            "personas nacidas Halloween"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Person>",
+            "<http://dbpedia.org/resource/Halloween>"
+        ]
+    },
+    {
+        "context": "¿En que país se sitúa la Meca?",
+        "id": 505,
+        "keywords": [
+            "pais Meca"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Mecca>"
+        ]
+    },
+    {
+        "context": "¿Cual es la ganancia en neto de Apple?",
+        "id": 506,
+        "keywords": [
+            "ganancias neta",
+            "Apple?"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Apple_Inc.>"
+        ]
+    },
+    {
+        "context": "¿Cuándo se disolvió la dinastía de Ming?",
+        "id": 507,
+        "keywords": [
+            "disolvió",
+            "dinastía de Ming"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Ming_dynasty>"
+        ]
+    },
+    {
+        "context": "¿Qué museo en Nueva York tiene el mayor numero de visitantes?",
+        "id": 508,
+        "keywords": [
+            "museo Nueva York",
+            "mayor numero visitantes"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Museum>",
+            "<http://dbpedia.org/resource/New_York_City>"
+        ]
+    },
+    {
+        "context": "¿Es el lago Baikal mayor que el lago Great Bear?",
+        "id": 509,
+        "keywords": [
+            "lago Baikal mayor que lago Great Bear?"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Great_Bear_Lake>",
+            "<http://dbpedia.org/resource/Lake_Baikal>"
+        ]
+    },
+    {
+        "context": "¿Cuál es la montaña mas alta en Italia?",
+        "id": 510,
+        "keywords": [
+            "la montaña mas alta Italia"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Mountain>",
+            "<http://dbpedia.org/resource/Italy>"
+        ]
+    },
+    {
+        "context": "¿Dónde estudio el arquitecto de la torre Eiffel?",
+        "id": 511,
+        "keywords": [
+            "donde estudio",
+            "arquitecto",
+            "torre Eiffel"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Eiffel_Tower>"
+        ]
+    },
+    {
+        "context": "¿Qué partidos Griegos están a favor de Europa?",
+        "id": 512,
+        "keywords": [
+            "partidos Griegos",
+            "a favor de Europa"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Pro-Europeanism>",
+            "<http://dbpedia.org/resource/Greece>",
+            "<http://dbpedia.org/ontology/PoliticalParty>"
+        ]
+    },
+    {
+        "context": "¿Quién es el alcalde de Rotterdam?",
+        "id": 513,
+        "keywords": [
+            "alcalde de Rotterdam"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Rotterdam>"
+        ]
+    },
+    {
+        "context": "¿Cómo de alta el faro de Colombo?",
+        "id": 514,
+        "keywords": [
+            "alta",
+            "Faro de Colombo?"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Colombo_Lighthouse>"
+        ]
+    },
+    {
+        "context": "¿Cuántos grupos étnicos viven en Eslovenia?",
+        "id": 516,
+        "keywords": [
+            "grupos étnicos Eslovenia"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Slovenia>"
+        ]
+    },
+    {
+        "context": "Lista los siete reyes de Roma.",
+        "id": 517,
+        "keywords": [
+            "siete reyes Roma"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/King_of_Rome>"
+        ]
+    },
+    {
+        "context": "¿Quiénes fueron los padres de la reina Victoria?",
+        "id": 518,
+        "keywords": [
+            "padres",
+            "reina Victoria?"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Queen_Victoria>"
+        ]
+    },
+    {
+        "context": "¿Quien es el jugador mas pesado del los Chicago Bulls?",
+        "id": 519,
+        "keywords": [
+            "jugador",
+            "pesado",
+            "Chicago Bulls"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Person>"
+        ]
+    },
+    {
+        "context": "¿Que volcanos han erupcionado en Japon desde el 2000?",
+        "id": 520,
+        "keywords": [
+            "volcanos",
+            "erupcionado Japon desde 2000"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Volcano>",
+            "<http://dbpedia.org/resource/Japan>"
+        ]
+    },
+    {
+        "context": "Quien es el jugador de baloncesto mas alto?",
+        "id": 521,
+        "keywords": [
+            "jugador baloncesto",
+            "mas alto"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/BasketballPlayer>"
+        ]
+    },
+    {
+        "context": "¿Quién es el anfitrión de los especiales de la BBC Wildlife?",
+        "id": 522,
+        "keywords": [
+            "anfitrión",
+            "BBC Wildlife"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/BBC_Wildlife_Specials>"
+        ]
+    },
+    {
+        "context": "¿En qué ciudad esta la fábrica de cerveza Heineken?",
+        "id": 523,
+        "keywords": [
+            "ciudad",
+            "fábrica cerveza Heineken"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Heineken>"
+        ]
+    },
+    {
+        "context": "¿Cuándo comenzó la operación Overlord?",
+        "id": 524,
+        "keywords": [
+            "comienzo",
+            "operación Overlord"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Operation_Overlord>"
+        ]
+    },
+    {
+        "context": "¿Quien desarrolló Slack?",
+        "id": 525,
+        "keywords": [
+            "desarrollador",
+            "Slack"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Slack_(software)>"
+        ]
+    },
+    {
+        "context": "¿Quen escribió el libro Los pilares de la Tierra?",
+        "id": 526,
+        "keywords": [
+            "escritor",
+            "libro",
+            "Pilares de la Tierra"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Pillars_of_the_Earth>"
+        ]
+    },
+    {
+        "context": "¿Quién descubrió Ceres?",
+        "id": 527,
+        "keywords": [
+            "descubridor",
+            "Ceres"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Ceres_(dwarf_planet)>"
+        ]
+    },
+    {
+        "context": "¿Cuál es el país más grande del mundo?",
+        "id": 528,
+        "keywords": [
+            "país",
+            "más grande mundo"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Country>"
+        ]
+    },
+    {
+        "context": "¿Quién es el alcalde de París?",
+        "id": 529,
+        "keywords": [
+            "alcalde París"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Paris>"
+        ]
+    },
+    {
+        "context": "¿Quién es el entrenador del equipo de hockey sobre hielo de Ankara?",
+        "id": 530,
+        "keywords": [
+            "entrenador",
+            "equipo hockey sobre hielo",
+            "Ankara"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Turkish_Ice_Hockey_First_League>",
+            "<http://dbpedia.org/resource/Ankara>"
+        ]
+    },
+    {
+        "context": "¿Cuánto cuesta la película de Lego?",
+        "id": 531,
+        "keywords": [
+            "precio",
+            "película de Lego"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Lego_Movie>"
+        ]
+    },
+    {
+        "context": "¿Dónde empieza Piccadilly?",
+        "id": 532,
+        "keywords": [
+            "principio",
+            "Piccadilly"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Piccadilly>"
+        ]
+    },
+    {
+        "context": "¿Cuántas personas viven en Polonia?",
+        "id": 534,
+        "keywords": [
+            "Cuántas personas",
+            "habitan",
+            "Polonia"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Poland>"
+        ]
+    },
+    {
+        "context": "¿Actúa Christian Bale en Batman Begins?",
+        "id": 535,
+        "keywords": [
+            "Christian Bale",
+            "actúa",
+            "Batman Begins"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Batman_Begins>",
+            "<http://dbpedia.org/resource/Christian_Bale>"
+        ]
+    },
+    {
+        "context": "¿Quién creó Family Guy?",
+        "id": 537,
+        "keywords": [
+            "creador",
+            "Family Guy"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Family_Guy>"
+        ]
+    },
+    {
+        "context": "¿Quién escribió la canción Hotel California?",
+        "id": 538,
+        "keywords": [
+            "autor",
+            "canción Hotel California"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Hotel_California>"
+        ]
+    },
+    {
+        "context": "¿Qué contiene una galleta de chocolate?",
+        "id": 539,
+        "keywords": [
+            "ingredientes",
+            "galleta de chocolate"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Chocolate_chip_cookie>"
+        ]
+    },
+    {
+        "context": "¿juega Neymar en el Real Madrid?",
+        "id": 540,
+        "keywords": [
+            "Neymar",
+            "jugador",
+            "Real Madrid"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Real_Madrid_C.F.>",
+            "<http://dbpedia.org/resource/Neymar>"
+        ]
+    },
+    {
+        "context": "Dame todos los episodios de la prímera época de la serie de HBO Los Sporanos.",
+        "id": 542,
+        "keywords": [
+            "serie televisiva de HBO",
+            "Los Sopranos",
+            "primera época",
+            "episodios"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Sopranos>"
+        ]
+    },
+    {
+        "context": "¿Quién interpreto a Gus Fring en Breaking Bad?",
+        "id": 544,
+        "keywords": [
+            "actor",
+            "Gus Fring",
+            "Breaking Bad"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Gus_Fring>"
+        ]
+    },
+    {
+        "context": "En que imperio antiguo pagaría con granos de cacao?",
+        "id": 545,
+        "keywords": [
+            "imperio antiguo",
+            "pagar",
+            "granos cacao"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Cocoa_bean>"
+        ]
+    },
+    {
+        "context": "¿Qué compañías de electrónica fueron fundadas en Pekín?",
+        "id": 546,
+        "keywords": [
+            "compañías de electrónica",
+            "fundadas",
+            "Pekín"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Electronics>",
+            "<http://dbpedia.org/resource/Beijing>",
+            "<http://dbpedia.org/ontology/Company>"
+        ]
+    },
+    {
+        "context": "¿Cuál es la capital de Camerún?",
+        "id": 547,
+        "keywords": [
+            "capital",
+            "Camerún"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Cameroon>"
+        ]
+    },
+    {
+        "context": "¿Qué forma de gobierno tiene Rusia?",
+        "id": 549,
+        "keywords": [
+            "forma de gobierno",
+            "Rusia"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Russia>"
+        ]
+    },
+    {
+        "context": "¿Qué empresa de la India tiene el mayor número de empleados?",
+        "id": 551,
+        "keywords": [
+            "empresa India",
+            "mayor número empleados"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/India>",
+            "<http://dbpedia.org/ontology/Company>"
+        ]
+    },
+    {
+        "context": "¿Quién es el presidente de Eritrea?",
+        "id": 552,
+        "keywords": [
+            "presidente Eritrea"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Eritrea>"
+        ]
+    },
+    {
+        "context": "¿Qué películas dirigio Stanley Kubrick?",
+        "id": 553,
+        "keywords": [
+            "películas",
+            "director",
+            "Stanley Kubrick"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Stanley_Kubrick>"
+        ]
+    },
+    {
+        "context": "¿Qué subsidiario de Lufthansa vuela en Dortmund y en Berlin?",
+        "id": 555,
+        "keywords": [
+            "subsidiario",
+            "Lufthansa",
+            "vuela",
+            "Dortmund y Berlin"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Dortmund_Airport>",
+            "<http://dbpedia.org/resource/Berlin_Tegel_Airport>",
+            "<http://dbpedia.org/resource/Lufthansa>"
+        ]
+    },
+    {
+        "context": "¿Quién fué el sucesor de John F. Kennedy?",
+        "id": 556,
+        "keywords": [
+            "sucesor",
+            "John F. Kennedy"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/John_F._Kennedy>"
+        ]
+    },
+    {
+        "context": "¿Quién compuso la banda sonora del Titanic de Cameron?",
+        "id": 557,
+        "keywords": [
+            "compositor",
+            "banda sonora",
+            "Titanic de Cameron"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Titanic_(1997_film)>"
+        ]
+    },
+    {
+        "context": "¿En qué zona horaria esta Roma?",
+        "id": 558,
+        "keywords": [
+            "zona horaria",
+            "Roma"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Rome>"
+        ]
+    },
+    {
+        "context": "¿Quiénes son los desarrolladores de DBpedia?",
+        "id": 560,
+        "keywords": [
+            "desarrolladores",
+            "DBpedia"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/DBpedia>"
+        ]
+    },
+    {
+        "context": "¿Quién es el rey de los Países Bajos?",
+        "id": 562,
+        "keywords": [
+            "rey",
+            "Países Bajos"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Netherlands>",
+            "<http://dbpedia.org/ontology/Royalty>"
+        ]
+    },
+    {
+        "context": "¿En que ciudad murió Nikos Kazantzakis?",
+        "id": 563,
+        "keywords": [
+            "ciudad",
+            "murió",
+            "Nikos Kazantzakis?"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Town>",
+            "<http://dbpedia.org/resource/Nikos_Kazantzakis>"
+        ]
+    },
+    {
+        "context": "Dame una lista de todas las aves en peligro de extinción.",
+        "id": 564,
+        "keywords": [
+            "aves",
+            "peligro de extinción"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Bird>"
+        ]
+    },
+    {
+        "context": "¿Qué compañías producen aerodeslizadores?",
+        "id": 565,
+        "keywords": [
+            "compañías",
+            "producen",
+            "aerodeslizadores"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Hovercraft>",
+            "<http://dbpedia.org/ontology/Company>"
+        ]
+    },
+    {
+        "context": "Tuvo hijos Elvis Presley?",
+        "id": 566,
+        "keywords": [
+            "hijos",
+            "Elvis Presley"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Elvis_Presley>"
+        ]
+    },
+    {
+        "context": "¿En qué países se habla japonés?",
+        "id": 567,
+        "keywords": [
+            "países",
+            "habla",
+            "japonés"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Country>",
+            "<http://dbpedia.org/resource/Japanese_language>"
+        ]
+    },
+    {
+        "context": "¿Cuál fue el primer álbum de Queen?",
+        "id": 568,
+        "keywords": [
+            "primer álbum",
+            "Queen"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Queen_(band)>",
+            "<http://dbpedia.org/ontology/Album>"
+        ]
+    },
+    {
+        "context": "¿De qué país es Sitecore?",
+        "id": 569,
+        "keywords": [
+            "país origen",
+            "Sitecore"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Sitecore>"
+        ]
+    },
+    {
+        "context": "¿Quién inspiro a Vincent van Gogh?",
+        "id": 570,
+        "keywords": [
+            "persona",
+            "inpiracion",
+            "Vincent van Gogh"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Vincent_van_Gogh>"
+        ]
+    },
+    {
+        "context": "¿Quién escribió el tema del Juego de Tronos?",
+        "id": 571,
+        "keywords": [
+            "escritor",
+            "tema Juego de Tronos"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Game_of_Thrones>"
+        ]
+    },
+    {
+        "context": "¿Cuándo termino Boris Becker su carrera como actor?",
+        "id": 572,
+        "keywords": [
+            "fin carrera",
+            "actor Boris Becker"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Boris_Becker>"
+        ]
+    },
+    {
+        "context": "¿A qué partido politico pertenece el alcalde de París?",
+        "id": 573,
+        "keywords": [
+            "partido politico",
+            "alcalde de París"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Paris>"
+        ]
+    },
+    {
+        "context": "¿Quien es el supervisor de doctorado de Albert Einstein?",
+        "id": 574,
+        "keywords": [
+            "supervisor doctoral",
+            "Albert Einstein"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Albert_Einstein>"
+        ]
+    },
+    {
+        "context": "¿En qué ciudad vive Sylvester Stallone?",
+        "id": 575,
+        "keywords": [
+            "ciudad",
+            "vive",
+            "Sylvester Stallone"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Sylvester_Stallone>",
+            "<http://dbpedia.org/ontology/City>"
+        ]
+    },
+    {
+        "context": "¿Quién es el hijo de Sonny y Cher?",
+        "id": 576,
+        "keywords": [
+            "hijo",
+            "Sonny y Cher?"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Sonny_Bono>",
+            "<http://dbpedia.org/resource/Cher>"
+        ]
+    },
+    {
+        "context": "¿En qué ciudad se encuentra la sede de las Naciones Unidas?",
+        "id": 577,
+        "keywords": [
+            "ciudad",
+            "la sede de las Naciones Unidas"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Headquarters_of_the_United_Nations>",
+            "<http://dbpedia.org/ontology/City>"
+        ]
+    },
+    {
+        "context": "Muéstrame la autobiografía Hemingway.",
+        "id": 579,
+        "keywords": [
+            "autobiografía Hemingway"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Autobiography>",
+            "<http://dbpedia.org/resource/Ernest_Hemingway>"
+        ]
+    },
+    {
+        "context": "¿Gano Kaurismäki alguna vez el Gran Prix de Cannes?",
+        "id": 583,
+        "keywords": [
+            "Kaurismäki",
+            "ganador",
+            "Grand Prix de Cannes"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Aki_Kaurismäki>",
+            "<http://dbpedia.org/resource/Grand_Prix_(Cannes_Film_Festival)>"
+        ]
+    },
+    {
+        "context": "¿Dónde está enterrado Syngman Rhee?",
+        "id": 584,
+        "keywords": [
+            "Dónde",
+            "enterrado",
+            "Syngman Rhee"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Syngman_Rhee>"
+        ]
+    },
+    {
+        "context": "Muéstrame todos los libros en la serie Fundación de Asimov",
+        "id": 585,
+        "keywords": [
+            "libros",
+            "serie Fundación Asimov"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Foundation_series>"
+        ]
+    },
+    {
+        "context": "¿Cómo de alta el la torre Yokohama Marine?",
+        "id": 586,
+        "keywords": [
+            "alta",
+            "torre Yokohama Marine?"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Yokohama_Marine_Tower>"
+        ]
+    },
+    {
+        "context": "¿Tiene la nueve serie de Battlestar-Galactica más episodios que la anterior?",
+        "id": 587,
+        "keywords": [
+            "nueve serie de Battlestar-Galactica",
+            "más episodios que la anterior"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Battlestar_Galactica_%282004_TV_series%29>",
+            "<http://dbpedia.org/resource/Battlestar_Galactica_%281978_TV_series%29>"
+        ]
+    },
+    {
+        "context": "¿Cuál es el estadio más grande de España?",
+        "id": 589,
+        "keywords": [
+            "estadio más grande España"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Stadium>",
+            "<http://dbpedia.org/resource/Spain>"
+        ]
+    },
+    {
+        "context": "¿Cuáles son los cinco condados de Nueva York?",
+        "id": 590,
+        "keywords": [
+            "cinco condados",
+            "Nueva York"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Borough_(New_York_City)>"
+        ]
+    },
+    {
+        "context": "¿Cuándo murió la princesa Diana?",
+        "id": 591,
+        "keywords": [
+            "fecha fallecimiento",
+            "princesa Diana"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Diana,_Princess_of_Wales>"
+        ]
+    },
+    {
+        "context": "",
+        "id": 710,
+        "keywords": [
+            "Urdu",
+            "persa",
+            "común raíz"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Urdu>",
+            "<http://dbpedia.org/resource/Persian_language>"
+        ]
+    },
+    {
+        "context": "Lista todas juegos de mesa por GMT. ",
+        "id": 748,
+        "keywords": [
+            "juego de mesa",
+            "GMT"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/GMT_Games>"
+        ]
+    },
+    {
+        "context": "Quien desarrollado Skype? ",
+        "id": 749,
+        "keywords": [
+            "desarrollar",
+            "Skype"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Skype>"
+        ]
+    },
+    {
+        "context": "Cual gente fueron nacido en Heraklion? ",
+        "id": 750,
+        "keywords": [
+            "gente",
+            "nacido",
+            "heraklion"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Person>",
+            "<http://dbpedia.org/resource/Heraklion>"
+        ]
+    },
+    {
+        "context": "En cual Nosotros estado es Zona 51 ¿situado? ",
+        "id": 751,
+        "keywords": [
+            "Zona 51",
+            "situado",
+            "Nosotros estado"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/United_States>",
+            "<http://dbpedia.org/resource/Area_51>"
+        ]
+    },
+    {
+        "context": "¿Quién es el alcalde de la cuidad de Nueva York?",
+        "id": 752,
+        "keywords": [
+            "cuidad de Nueva York",
+            "alcalde"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/New_York_City>"
+        ]
+    },
+    {
+        "context": "¿Qué países tienen lugares con más de dos cuevas?",
+        "id": 753,
+        "keywords": [
+            "país",
+            "lugar",
+            "cuevas",
+            "más de dos"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Cave>",
+            "<http://dbpedia.org/ontology/Country>"
+        ]
+    },
+    {
+        "context": "Dónde hizo Abrahán Lincoln el? ",
+        "id": 754,
+        "keywords": [
+            "Abrahán Lincoln",
+            "la"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Abraham_Lincoln>"
+        ]
+    },
+    {
+        "context": "Dame todos los actores de películas dirigidas por William Shatner en las qué también haya actúado el mismo.",
+        "id": 756,
+        "keywords": [
+            "película",
+            "actor",
+            "director",
+            "William Shatner"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/William_Shatner>"
+        ]
+    },
+    {
+        "context": "¿Cuáles son los idiomas oficiales de Las Philipinas?",
+        "id": 757,
+        "keywords": [
+            "Philipinas",
+            "idiomas oficiales"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Philippines>"
+        ]
+    },
+    {
+        "context": "¿Que peliculas protagonizadas por Brad Pitt han sido dirigidas por Guy Ritchie?",
+        "id": 759,
+        "keywords": [
+            "peliculas",
+            "protagonizadas",
+            "Brad Pitt",
+            "dirigidas",
+            "Guy Ritchie"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Guy_Ritchie>",
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Brad_Pitt>"
+        ]
+    },
+    {
+        "context": "Dame todos los nietos de Bruce Lee.",
+        "id": 760,
+        "keywords": [
+            "Bruce Lee",
+            "nietos"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Bruce_Lee>"
+        ]
+    },
+    {
+        "context": "¿Qué empresas fueron fundadas en 1950?",
+        "id": 764,
+        "keywords": [
+            "empresas",
+            "fundadas",
+            "1950"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Organisation>"
+        ]
+    },
+    {
+        "context": "Dame todos los astronautas de Apolo 14?",
+        "id": 765,
+        "keywords": [
+            "astronautas",
+            "Apolo 14"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Apollo_14>"
+        ]
+    },
+    {
+        "context": "Quien escribió el libro los pilares de el ¿Tierra? ",
+        "id": 766,
+        "keywords": [
+            "escribió",
+            "libro",
+            "los pilares de el Tierra"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Pillars_of_the_Earth>"
+        ]
+    },
+    {
+        "context": "¿Qué misiones espaciales partieron desde Baionur?",
+        "id": 768,
+        "keywords": [
+            "misiones espaciales",
+            "salida",
+            "Baikonur"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Baikonur_Cosmodrome>"
+        ]
+    },
+    {
+        "context": "Dame una lista de todos los trompeteros que fueron líderes de un grupo.",
+        "id": 769,
+        "keywords": [
+            "trompetero",
+            "líder de grupo"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Bandleader>",
+            "<http://dbpedia.org/resource/Trumpet>"
+        ]
+    },
+    {
+        "context": "¿Con quién está casada la hija de Ingrid Bergman?",
+        "id": 772,
+        "keywords": [
+            "Ingrid Bergman",
+            "hija",
+            "casada"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Ingrid_Bergman>"
+        ]
+    },
+    {
+        "context": "Cómo de hondo es el Lago Placid?",
+        "id": 773,
+        "keywords": [
+            "Lago Placid",
+            "profundidad"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Lake_Placid_(Texas)>"
+        ]
+    },
+    {
+        "context": "Muéstrame todos los museos en Londres",
+        "id": 774,
+        "keywords": [
+            "museos Londres"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Museum>",
+            "<http://dbpedia.org/resource/London>"
+        ]
+    },
+    {
+        "context": "Muéstrame todos los jugadores de baloncesto que tienes mas de 2 metros de altura",
+        "id": 779,
+        "keywords": [
+            "jugadores baloncesto",
+            "mas 2 metros altura"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/BasketballPlayer>"
+        ]
+    },
+    {
+        "context": "¿En qué películas participa Jesse Eisenberg?",
+        "id": 780,
+        "keywords": [
+            "películas",
+            "Jesse Eisenberg"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Jesse_Eisenberg>"
+        ]
+    },
+    {
+        "context": "Dame todas las organizaciones Suizas sin animo de lucro",
+        "id": 783,
+        "keywords": [
+            "organizaciones Suizas sin animo de lucro"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Nonprofit_organization>"
+        ]
+    },
+    {
+        "context": "¿Qué tipo de música tocaba Lou Reed?",
+        "id": 785,
+        "keywords": [
+            "tipo música",
+            "tocaba",
+            "Lou Reed?"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Lou_Reed>"
+        ]
+    },
+    {
+        "context": "¿Dónde juegan los Red Sox?",
+        "id": 786,
+        "keywords": [
+            ""
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Boston_Red_Sox>"
+        ]
+    },
+    {
+        "context": "Dame las capitales de todos los países que atraviesa el Himalaya.",
+        "id": 793,
+        "keywords": [
+            "capital de países",
+            "atraviesa el Himalaya"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Himalayas>"
+        ]
+    },
+    {
+        "context": "¿Qué películas protagonizan juntos Liz Taylor y Richard Burton?",
+        "id": 801,
+        "keywords": [
+            "películas",
+            "protagonizan juntos",
+            "Liz Taylor",
+            "Richard Burton"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Richard_Burton>",
+            "<http://dbpedia.org/resource/Elizabeth_Taylor>"
+        ]
+    },
+    {
+        "context": "Dame todos los astronautas de la ESA.",
+        "id": 802,
+        "keywords": [
+            "Astronautas ESA"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/European_Space_Agency>",
+            "<http://dbpedia.org/ontology/Astronaut>"
+        ]
+    },
+    {
+        "context": "¿Qué cerveza se ha originado en Irlanda?",
+        "id": 807,
+        "keywords": [
+            "cerveza",
+            "originado",
+            "Irlanda"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Beer_in_Ireland>",
+            "<http://dbpedia.org/resource/Beer>"
+        ]
+    },
+    {
+        "context": "¿Por qué países se extiende el Himalaya?",
+        "id": 808,
+        "keywords": [
+            "Himalaya",
+            "extiende",
+            "países"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Himalayas>"
+        ]
+    },
+    {
+        "context": "¿En qué ciudad fué enterrada la antigua reina de los países bajos Juliana?",
+        "id": 814,
+        "keywords": [
+            "reina de los países bajos",
+            "Juliana",
+            "enterrada",
+            "ciudad"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Juliana_of_the_Netherlands>",
+            "<http://dbpedia.org/ontology/Settlement>"
+        ]
+    },
+    {
+        "context": "¿Que escritores estudiaron en Estambul?",
+        "id": 818,
+        "keywords": [
+            "escritores",
+            "estudiaron",
+            "Estambul"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Writer>"
+        ]
+    },
+    {
+        "context": "¿Qué actor hizo el papel de Chewbacca?",
+        "id": 826,
+        "keywords": [
+            "actor",
+            "papel de Chewbacca"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Chewbacca>"
+        ]
+    },
+    {
+        "context": "¿Qué aerolíneas forman parte del la alianza SkyTeam?",
+        "id": 830,
+        "keywords": [
+            "aerolíneas",
+            "alianza SkyTeam"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Airline>"
+        ]
+    },
+    {
+        "context": "Qué otro libros tener estado escrito por el autor de los Culpa en Nuestra ¿Estrellas? ",
+        "id": 832,
+        "keywords": [
+            "libros",
+            "autor",
+            "los Culpa en Nuestra Estrellas"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/John_Green_(author)>"
+        ]
+    },
+    {
+        "context": "¿Quien escribió Los juegos del hambre?",
+        "id": 839,
+        "keywords": [
+            "autor",
+            "Los juegos del hambre"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Hunger_Games>"
+        ]
+    },
+    {
+        "context": "Qué es el pequeñísimo ciudad por zona en ¿Alemania? ",
+        "id": 853,
+        "keywords": [
+            "pequeñísimo",
+            "ciudad",
+            "Alemania"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Category:Cities_in_Germany>"
+        ]
+    },
+    {
+        "context": "¿Quien actuó como el agente Smith en Matrix?",
+        "id": 858,
+        "keywords": [
+            "actor",
+            "agente Smith",
+            "Matrix"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Agent_Smith>"
+        ]
+    },
+    {
+        "context": "¿En qué estado american se encuentra Fort Knox?",
+        "id": 867,
+        "keywords": [
+            "Fort Knox",
+            "se encuentra",
+            "estado americano"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Fort_Knox>",
+            "<http://dbpedia.org/resource/United_States>"
+        ]
+    },
+    {
+        "context": "Qué es el más grande ciudad en ¿America? ",
+        "id": 879,
+        "keywords": [
+            "más grande",
+            "ciudad",
+            "America"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/United_States>"
+        ]
+    },
+    {
+        "context": "Qué es el alma mater de el canciller de Alemania Angela Merkel? ",
+        "id": 880,
+        "keywords": [
+            "Angela Merkel"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Angela_Merkel>"
+        ]
+    },
+    {
+        "context": "Dónde es el lugar de nacimiento de ¿Goethe? ",
+        "id": 881,
+        "keywords": [
+            "Goethe"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Johann_Wolfgang_von_Goethe>"
+        ]
+    },
+    {
+        "context": "Qué es el más alto montaña en Sajonia ¿Alemania? ",
+        "id": 884,
+        "keywords": [
+            "más alto",
+            "montaña",
+            "Sajonia",
+            "Alemania"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Ore_Mountains>"
+        ]
+    },
+    {
+        "context": "Quien es el corriente federal ministro de financiar en ¿Alemania? ",
+        "id": 885,
+        "keywords": [
+            "federal ministro de financiar",
+            "Alemania"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Federal_Ministry_of_Finance_(Germany)>"
+        ]
+    },
+    {
+        "context": "En cual estado Penn Estado Universidad es ¿situado? ",
+        "id": 887,
+        "keywords": [
+            "Penn Estado Universidad"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Pennsylvania_State_University>"
+        ]
+    },
+    {
+        "context": "Cómo grande es el zona de ¿REINO UNIDO? ",
+        "id": 889,
+        "keywords": [
+            "zona",
+            "Reino Unido"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/United_Kingdom>"
+        ]
+    },
+    {
+        "context": "cómo mucho es el elevación de Düsseldorf Aeropuerto ? ",
+        "id": 890,
+        "keywords": [
+            "Düsseldorf Aeropuerto"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Düsseldorf_Airport>"
+        ]
+    },
+    {
+        "context": "Cómo mucho es el población de Méjico ciudad ? ",
+        "id": 891,
+        "keywords": [
+            "Méjico ciudad"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Mexico_City>"
+        ]
+    },
+    {
+        "context": "cuando estaba el establecimiento fecha de francés quinto ¿república? ",
+        "id": 892,
+        "keywords": [
+            "francés quinto república"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/French_Fifth_Republic>"
+        ]
+    },
+    {
+        "context": "Cuando estaba el último episodio de el televisión serie Amigos aireado? ",
+        "id": 894,
+        "keywords": [
+            "último episodio",
+            "Amigos Televisión espectáculo"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Friends>"
+        ]
+    },
+    {
+        "context": "Quien es Octavo presidente de ¿NOS? ",
+        "id": 895,
+        "keywords": [
+            "Octavo presidente",
+            "Estados Unidos"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/8th_President_of_the_United_States>"
+        ]
+    },
+    {
+        "context": "cómo mucho es el total población de europeo ¿Unión? ",
+        "id": 896,
+        "keywords": [
+            "europeo Unión"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/European_Union>"
+        ]
+    },
+    {
+        "context": "Qué es el nacimiento nombre de Adele? ",
+        "id": 897,
+        "keywords": [
+            "Adele"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Adele>"
+        ]
+    },
+    {
+        "context": "Qué es el población de ¿El Cairo? ",
+        "id": 898,
+        "keywords": [
+            "población",
+            "El Cairo"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Cairo>"
+        ]
+    },
+    {
+        "context": "Dónde es Sungkyunkwan ¿Universidad? ",
+        "id": 901,
+        "keywords": [
+            "Sungkyunkwan",
+            "Universidad"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Sungkyunkwan_University>"
+        ]
+    },
+    {
+        "context": "Quien es el autor de el interpretación de ¿Sueños? ",
+        "id": 902,
+        "keywords": [
+            "Sueños"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Interpretation_of_Dreams>"
+        ]
+    },
+    {
+        "context": "Cuando estaba el muerte de Shakespeare? ",
+        "id": 903,
+        "keywords": [
+            "Shakespeare"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/William_Shakespeare>"
+        ]
+    },
+    {
+        "context": "Dónde es el origen de Carolina ¿segador? ",
+        "id": 905,
+        "keywords": [
+            "Carolina segador"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Carolina_Reaper>"
+        ]
+    },
+    {
+        "context": "Cual especies hace un elefante ¿pertenecer a? ",
+        "id": 908,
+        "keywords": [
+            "especies",
+            "elefante"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Elephant>"
+        ]
+    },
+    {
+        "context": "Con cómo muchos países Corrí tiene fronteras? ",
+        "id": 909,
+        "keywords": [
+            "Corrí",
+            "fronteras"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Geography_of_Iran>"
+        ]
+    },
+    {
+        "context": "cómo grande es el total zona de norte Rhine- Westfalia? ",
+        "id": 911,
+        "keywords": [
+            "norte Rin Westfalia"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/North_Rhine-Westphalia>"
+        ]
+    },
+    {
+        "context": "Qué es Donald Trump principal ¿negocio? ",
+        "id": 912,
+        "keywords": [
+            "Donald Trump",
+            "negocio"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Donald_Trump>"
+        ]
+    },
+    {
+        "context": "Cuando será comienzo el final partido de el fútbol mundo vaso 2018? ",
+        "id": 913,
+        "keywords": [
+            "fútbol mundo vaso 2018"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/2018_FIFA_World_Cup>"
+        ]
+    },
+    {
+        "context": "cómo mucho es el población ¿Irak? ",
+        "id": 914,
+        "keywords": [
+            "Irak"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Iraq>"
+        ]
+    },
+    {
+        "context": "cómo mucho es el población densidad rango de ¿Alemania? ",
+        "id": 915,
+        "keywords": [
+            "Alemania"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Germany>"
+        ]
+    },
+    {
+        "context": "Quien son el escritores de el pared álbum de Rosado Floyd? ",
+        "id": 918,
+        "keywords": [
+            "el pared"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Wall>"
+        ]
+    },
+    {
+        "context": "¿Que animales están en peligro de extinción?",
+        "id": 0,
+        "keywords": [
+            "animales",
+            "peligro de extinción"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Animal>"
+        ]
+    },
+    {
+        "context": "¿Quién estuvo en la misión Apollo 11?",
+        "id": 1,
+        "keywords": [
+            "presente",
+            "misión Apollo 11"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Apollo_11>"
+        ]
+    },
+    {
+        "context": "¿De que se compone la atmósfera de la Luna?",
+        "id": 2,
+        "keywords": [
+            "composición",
+            "atmósfera de la Luna"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Moon>"
+        ]
+    },
+    {
+        "context": "¿Cuándo tiene lugar el Boston Tea Party?",
+        "id": 3,
+        "keywords": [
+            "Boston Tea party",
+            "fecha"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Boston_Tea_Party>"
+        ]
+    },
+    {
+        "context": "¿Quién escribió Harry Potter?",
+        "id": 4,
+        "keywords": [
+            "escritor",
+            "Harry Potter"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Harry_Potter>"
+        ]
+    },
+    {
+        "context": "¿Qué actores participan en Big Bang Theory?",
+        "id": 5,
+        "keywords": [
+            "actores",
+            "Big Bang Theory"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Big_Bang_Theory>"
+        ]
+    },
+    {
+        "context": "¿Quién interpreta la voz de Bart Simpson?",
+        "id": 6,
+        "keywords": [
+            "interprete",
+            "voz",
+            "Bart Simpson"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Bart_Simpson>"
+        ]
+    },
+    {
+        "context": "¿Cuál es el río más largo de China?",
+        "id": 8,
+        "keywords": [
+            "río más largo China"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/China>",
+            "<http://dbpedia.org/ontology/River>"
+        ]
+    },
+    {
+        "context": "¿Cuántas lunas tiene Marte?",
+        "id": 9,
+        "keywords": [
+            "Numero lunas",
+            "Marte"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Mars>"
+        ]
+    },
+    {
+        "context": "Dame una lista de todos los canadienses que residen en los EE.UU.",
+        "id": 10,
+        "keywords": [
+            "canadienses",
+            "residentes EE.UU."
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/United_States>",
+            "<http://dbpedia.org/resource/Canada>"
+        ]
+    },
+    {
+        "context": "¿Cuándo se extinguió el Dodo?",
+        "id": 11,
+        "keywords": [
+            "fecha extinción Dodo"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Dodo>"
+        ]
+    },
+    {
+        "context": "Muestrame todas las películas checas",
+        "id": 12,
+        "keywords": [
+            "películas checas"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Czech_Republic>"
+        ]
+    },
+    {
+        "context": "¿Qué ríos desembocan en el Mar del Norte?",
+        "id": 13,
+        "keywords": [
+            "ríos",
+            "desembocan",
+            "Mar del Norte"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/North_Sea>",
+            "<http://dbpedia.org/ontology/River>"
+        ]
+    },
+    {
+        "context": "¿Qué países tienen más de diez volcanes?",
+        "id": 14,
+        "keywords": [
+            "países",
+            "más diez volcanes"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Country>",
+            "<http://dbpedia.org/ontology/Volcano>"
+        ]
+    },
+    {
+        "context": "Muéstrame rutas de senderismo en el Gran Cañón donde no hay peligro de inundaciones repentinas.",
+        "id": 16,
+        "keywords": [
+            "rutas senderismo",
+            "Gran Cañón",
+            "no peligro",
+            "inundaciones repentinas"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Grand_Canyon>"
+        ]
+    },
+    {
+        "context": "¿Cómo murió Michael Jackson?",
+        "id": 17,
+        "keywords": [
+            "tipo de muerte",
+            "Michael Jackson"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Michael_Jackson>"
+        ]
+    },
+    {
+        "context": "¿Qué día se celebra el Dia de Colombo?",
+        "id": 18,
+        "keywords": [
+            "Dia de Colombo"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Columbus_Day>"
+        ]
+    },
+    {
+        "context": "¿Como de bajo es el jugador activo mas bajo de la NBA?",
+        "id": 19,
+        "keywords": [
+            "tamaño",
+            "jugador mas bajo",
+            "NBA?"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/BasketballPlayer>",
+            "<http://dbpedia.org/resource/National_Basketball_Association>"
+        ]
+    },
+    {
+        "context": "¿Qué idiomas se hablan en Pakistán?",
+        "id": 20,
+        "keywords": [
+            "idiomas",
+            "Pakistán"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Pakistan>"
+        ]
+    },
+    {
+        "context": "Quien se convirtió en presidente después de la muerte de JFK?",
+        "id": 21,
+        "keywords": [
+            "presidente",
+            "tras la muerte",
+            "JFK"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/John_F._Kennedy>"
+        ]
+    },
+    {
+        "context": "¿Por que es famoso Elon Musk?",
+        "id": 22,
+        "keywords": [
+            "famoso por",
+            "Elon Musk"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Elon_Musk>"
+        ]
+    },
+    {
+        "context": "¿En qué zona horaria se encuentra Salt Lake City?",
+        "id": 39,
+        "keywords": [
+            "Salt Lake City",
+            "zona horaria"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Salt_Lake_City>"
+        ]
+    },
+    {
+        "context": "Qué es el más alto montaña en ¿Alemania? ",
+        "id": 40,
+        "keywords": [
+            "más alto",
+            "montaña",
+            "Alemania"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Mountain>",
+            "<http://dbpedia.org/resource/Germany>"
+        ]
+    },
+    {
+        "context": "¿Qué artistas nacieron en la misma fecha que Rachel Stevens?",
+        "id": 43,
+        "keywords": [
+            "artistas",
+            "misma fecha nacimiento",
+            "Rachel Stevens"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Rachel_Stevens>",
+            "<http://dbpedia.org/ontology/Artist>"
+        ]
+    },
+    {
+        "context": "Qué es el profesión de Franco Herbert? ",
+        "id": 44,
+        "keywords": [
+            "profesión",
+            "franco",
+            "Herbert"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Frank_Herbert>"
+        ]
+    },
+    {
+        "context": "¿Qué programa de viajero frecuente tienen la mayoría de las aerolineas? ",
+        "id": 46,
+        "keywords": [
+            "programa de viajero frecuente",
+            "mayor numero aerolineas"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Airline>"
+        ]
+    },
+    {
+        "context": "¿Qué países europeos tienen una monarquía constitucional?",
+        "id": 47,
+        "keywords": [
+            "países europeos",
+            "monarquía constitucional"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Category:Countries_in_Europe>",
+            "<http://dbpedia.org/resource/Constitutional_monarchy>"
+        ]
+    },
+    {
+        "context": "¿Cuál es el apodo de San Francisco?",
+        "id": 48,
+        "keywords": [
+            "San Francisco",
+            "apodo"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/San_Francisco>"
+        ]
+    },
+    {
+        "context": "¿Qué países de la unión europea han introducido el Euro?",
+        "id": 50,
+        "keywords": [
+            "países",
+            "unión europea",
+            "introducido",
+            "Euro"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Country>"
+        ]
+    },
+    {
+        "context": "Cual software tiene estado publicado por Media Hámster ¿Software? ",
+        "id": 51,
+        "keywords": [
+            "software",
+            "publicado",
+            "hámster",
+            "software"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Software>"
+        ]
+    },
+    {
+        "context": "Dame todos las skateboarders profesionales de Suecia.",
+        "id": 54,
+        "keywords": [
+            "skateboarder profesional",
+            "Suecia"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Skateboarder>"
+        ]
+    },
+    {
+        "context": "¿Qué estado americano fué el último en ser admitido?",
+        "id": 57,
+        "keywords": [
+            "estado americano",
+            "admitido",
+            "último"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Category:States_of_the_United_States>"
+        ]
+    },
+    {
+        "context": "Cual clase hace el milpiés pertenecer a ¿a? ",
+        "id": 58,
+        "keywords": [
+            "milpiés",
+            "clase",
+            "pertenecer a"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Millipede>"
+        ]
+    },
+    {
+        "context": "Dame la página de web de Forbes.",
+        "id": 59,
+        "keywords": [
+            "página de web",
+            "Forbes"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Forbes>"
+        ]
+    },
+    {
+        "context": "¿Quién es el marido de Amanda Palmer?",
+        "id": 60,
+        "keywords": [
+            "Amanda Palmer",
+            "marido"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Amanda_Palmer>"
+        ]
+    },
+    {
+        "context": "Cuando hizo Finlandia unirse el EE.UU.? ",
+        "id": 62,
+        "keywords": [
+            "Finlandia",
+            "europeo Unión",
+            "unirse"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Finland>"
+        ]
+    },
+    {
+        "context": "¿Qué ingeniero informático ganó un Oscar?",
+        "id": 63,
+        "keywords": [
+            "ingeniero informático",
+            "ganó",
+            "Oscar"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Academy_Award>",
+            "<http://dbpedia.org/resource/Computer_science>"
+        ]
+    },
+    {
+        "context": "Dame actores Ingleses protagonizando Lovesick.",
+        "id": 64,
+        "keywords": [
+            "actores Ingleses",
+            "protagonistas",
+            "Lovesick"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Lovesick_(1983_film)>",
+            "<http://dbpedia.org/resource/United_Kingdom>"
+        ]
+    },
+    {
+        "context": "¿En que ciudad nació el presidente de Montenegro?",
+        "id": 65,
+        "keywords": [
+            "ciudad",
+            "nació",
+            "presidente de Montenegro"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/President_of_Montenegro>",
+            "<http://dbpedia.org/resource/Capital_city>"
+        ]
+    },
+    {
+        "context": "¿Cuál es el verdadero nombre de Batman?",
+        "id": 68,
+        "keywords": [
+            "verdadero nombre Batman"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Batman>"
+        ]
+    },
+    {
+        "context": "Quien es el autor de WikiLeaks? ",
+        "id": 69,
+        "keywords": [
+            "autor",
+            "wikileaks"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/WikiLeaks>"
+        ]
+    },
+    {
+        "context": "Sean Parnell fue el gobernador de Estados Unidos?",
+        "id": 70,
+        "keywords": [
+            "Estado de EE. UU.",
+            "Gobernador",
+            "Sean Parnell"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Sean_Parnell>"
+        ]
+    },
+    {
+        "context": "Quien estaba el esposa de presidente Lincoln? ",
+        "id": 71,
+        "keywords": [
+            "esposa",
+            "presidente",
+            "lincoln"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Abraham_Lincoln>"
+        ]
+    },
+    {
+        "context": "¿Qué sondas espaciales fueron enviadas en órbita alrededor del sol?",
+        "id": 73,
+        "keywords": [
+            "sondas espaciales",
+            "órbita alrededor sol"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Category:Missions_to_the_Sun>"
+        ]
+    },
+    {
+        "context": "¿Cuántos estudiantes tiene la Universidad Libre de Amsterdam?",
+        "id": 74,
+        "keywords": [
+            "Universidad Libre",
+            "Amsterdam",
+            "estudiantes"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Vrije_Universiteit_Amsterdam>"
+        ]
+    },
+    {
+        "context": "Qué es el ingresos de IBM? ",
+        "id": 75,
+        "keywords": [
+            "ingresos",
+            "ibm"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/IBM>"
+        ]
+    },
+    {
+        "context": "Quien estaba Tom Hanks casado ¿a? ",
+        "id": 76,
+        "keywords": [
+            "tom",
+            "madejas",
+            "casado"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Tom_Hanks>"
+        ]
+    },
+    {
+        "context": "Dame todas las naves espaciales que han volado a Marte",
+        "id": 78,
+        "keywords": [
+            "naves espaciales",
+            "volado",
+            "Marte"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Category:Mars_rovers>"
+        ]
+    },
+    {
+        "context": "Quien creado Inglés Wikipedia? ",
+        "id": 81,
+        "keywords": [
+            "creado",
+            "Inglés",
+            "wikipedia"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Wikipedia>"
+        ]
+    },
+    {
+        "context": "Dame todas las cancilleres alemanas.",
+        "id": 82,
+        "keywords": [
+            "canciller alemásn",
+            "mujer"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Chancellor_of_Germany>"
+        ]
+    },
+    {
+        "context": "¿A quién pertenece Aldi?",
+        "id": 83,
+        "keywords": [
+            "pertenece",
+            "Aldi"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Aldi>"
+        ]
+    },
+    {
+        "context": "Cual libros fueron escrito por Danielle ¿Acero? ",
+        "id": 84,
+        "keywords": [
+            "libros",
+            "escrito",
+            "danielle",
+            "acero"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Book>",
+            "<http://dbpedia.org/resource/Danielle_Steel>"
+        ]
+    },
+    {
+        "context": "Cómo de hondo es el Chiemsee?",
+        "id": 85,
+        "keywords": [
+            "Chiemsee",
+            "profundidad"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Chiemsee>"
+        ]
+    },
+    {
+        "context": "¿Qué empresas aerospaciales trabajar también en en medicina?",
+        "id": 86,
+        "keywords": [
+            "empresas",
+            "areospaciales",
+            "medicina"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Medical>",
+            "<http://dbpedia.org/resource/Aerospace>",
+            "<http://dbpedia.org/ontology/Company>"
+        ]
+    },
+    {
+        "context": "¿Qué surfistas profesionales nacieron en las Filipinas?",
+        "id": 87,
+        "keywords": [
+            "surfista profesional",
+            "nacido",
+            "Filipinas"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Surfer>",
+            "<http://dbpedia.org/resource/Philippines>"
+        ]
+    },
+    {
+        "context": "¿Quién fue el padre de la reina Isabel II?",
+        "id": 89,
+        "keywords": [
+            "padre",
+            "reina Isabel II"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Elizabeth_II>"
+        ]
+    },
+    {
+        "context": "Dame todos los presidentes estadounidenses en los últimos 20 años.",
+        "id": 90,
+        "keywords": [
+            "Presidentes americanos",
+            "últimos 20 años"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Person>",
+            "<http://dbpedia.org/resource/Category:Presidents_of_the_United_States>"
+        ]
+    },
+    {
+        "context": "¿Cuándo se estrena la película Worst Case Scenario en los países bajos?",
+        "id": 91,
+        "keywords": [
+            "película",
+            "Worst Case Scenario",
+            "cines",
+            "páises bajos"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Worst_Case_Scenario_(film)>"
+        ]
+    },
+    {
+        "context": "¿Qué subsidiario de TUI Travel vuela en Glasgow y en Dublin?",
+        "id": 93,
+        "keywords": [
+            "subsidiario",
+            "TUI Travel",
+            "vuela",
+            "Glasgow",
+            "Dublin"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Glasgow_International_Airport>",
+            "<http://dbpedia.org/resource/TUI_Travel>",
+            "<http://dbpedia.org/resource/Dublin_Airport>"
+        ]
+    },
+    {
+        "context": "¿Qué idiomas se hablan en Pakistán?",
+        "id": 94,
+        "keywords": [
+            "idiomas",
+            "Pakistán"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Pakistan>"
+        ]
+    },
+    {
+        "context": "Quien es el hija de Cuenta Clinton casado ¿a? ",
+        "id": 95,
+        "keywords": [
+            "Cuenta Clinton",
+            "hija",
+            "casado"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Bill_Clinton>"
+        ]
+    },
+    {
+        "context": "¿Cuáles son los nombres de las Tortugas Ninja Mutantes Adolescentes?",
+        "id": 100,
+        "keywords": [
+            "nombres",
+            "Tortugas Ninja Mutantes Adolescentes"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Teenage_Mutant_Ninja_Turtles>"
+        ]
+    },
+    {
+        "context": "¿Cuál es el nombre de la escuela donde la esposa de Obama estudió?",
+        "id": 101,
+        "keywords": [
+            "escuela",
+            "esposa de Obama",
+            "estudió"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Barack_Obama>"
+        ]
+    },
+    {
+        "context": "¿Cuándo proclamó el Paraguay su independencia?",
+        "id": 102,
+        "keywords": [
+            "Paraguay",
+            "proclamar",
+            "independencia"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Paraguay>"
+        ]
+    },
+    {
+        "context": "Quien es el gobernador de ¿Texas? ",
+        "id": 107,
+        "keywords": [
+            "gobernador",
+            "Texas"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Texas>"
+        ]
+    },
+    {
+        "context": "Dar yo el oficial sitios web de actores de el televisión espectáculo Encantado. ",
+        "id": 108,
+        "keywords": [
+            "oficial",
+            "sitios web",
+            "actores",
+            "televisión",
+            "Encantado"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Charmed>"
+        ]
+    },
+    {
+        "context": "¿Cuántas calorías tiene una baguette?",
+        "id": 109,
+        "keywords": [
+            "calorías",
+            "baguette"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Baguette>"
+        ]
+    },
+    {
+        "context": "¿En qué estudio grabaron los Beatles su primer album?",
+        "id": 112,
+        "keywords": [
+            "Beatles",
+            "primer album",
+            "estudio"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Beatles>",
+            "<http://dbpedia.org/ontology/Album>"
+        ]
+    },
+    {
+        "context": "Cual cerveza fabricación de cerveza compañías son situado en Renania del Norte Westfalia? ",
+        "id": 113,
+        "keywords": [
+            "fabricación de cerveza compañías",
+            "norte Rin Westfalia"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Category:Companies_based_in_North_Rhine-Westphalia>",
+            "<http://dbpedia.org/ontology/Brewery>"
+        ]
+    },
+    {
+        "context": "¿Quién fundó Intel?",
+        "id": 114,
+        "keywords": [
+            "Intel",
+            "fundación"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Intel>"
+        ]
+    },
+    {
+        "context": "¿Quién es el jugador más jóven de la Premier League?",
+        "id": 115,
+        "keywords": [
+            "jugador",
+            "más jóven",
+            "Premier League"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Premier_League>"
+        ]
+    },
+    {
+        "context": "Dame las capitales de todos los países africanos.",
+        "id": 117,
+        "keywords": [
+            "países",
+            "africanos",
+            "capital"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Category:Countries_in_Africa>"
+        ]
+    },
+    {
+        "context": "¿Qué puentes son del mismo tipo que el puente de Manhattan?",
+        "id": 118,
+        "keywords": [
+            "puente",
+            "mismo tipo",
+            "puente de Manhattan"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Bridge>",
+            "<http://dbpedia.org/resource/Manhattan_Bridge>"
+        ]
+    }
+]

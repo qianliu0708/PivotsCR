@@ -1,0 +1,5496 @@
+[
+    {
+        "context": "Welke boeken van Jack Kerouac werden uitgegeven door Viking Press?",
+        "id": 1,
+        "keywords": [
+            "boek",
+            "Jack Kerouac",
+            "uitgever",
+            "Viking Press"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Book>",
+            "<http://dbpedia.org/resource/Jack_Kerouac>",
+            "<http://dbpedia.org/resource/Viking_Press>"
+        ]
+    },
+    {
+        "context": "Wie heeft Wikipedia opgericht?",
+        "id": 2,
+        "keywords": [
+            "Wikipedia",
+            "oprichter"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Wikipedia>"
+        ]
+    },
+    {
+        "context": "In welk land ontspringt de Nijl?",
+        "id": 4,
+        "keywords": [
+            "ontspringt",
+            "Nijl"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Nile>"
+        ]
+    },
+    {
+        "context": "Welke rivier overspant de Brooklyn Bridge?",
+        "id": 5,
+        "keywords": [
+            "rivier",
+            "Brooklyn Bridge",
+            "overspant"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Brooklyn_Bridge>"
+        ]
+    },
+    {
+        "context": "Hoe lang is Claudia Schiffer?",
+        "id": 6,
+        "keywords": [
+            "lengte",
+            "Claudia Schiffer"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Claudia_Schiffer>"
+        ]
+    },
+    {
+        "context": "Welke televisieseries werden bedacht door Walt Disney?",
+        "id": 7,
+        "keywords": [
+            "televisieserie",
+            "bedacht",
+            "Walt Disney"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Walt_Disney>",
+            "<http://dbpedia.org/ontology/TelevisionShow>"
+        ]
+    },
+    {
+        "context": "Geef alle steden in New Jersey met meer dan 100000 inwoners.",
+        "id": 8,
+        "keywords": [
+            "New Jersey",
+            "stad",
+            "inwoners",
+            "meer dan 100000"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/City>",
+            "<http://dbpedia.org/resource/New_Jersey>"
+        ]
+    },
+    {
+        "context": "Welke acteurs zijn geboren in Duitsland?",
+        "id": 9,
+        "keywords": [
+            "acteur",
+            "geboren",
+            "Duitsland"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Actor>"
+        ]
+    },
+    {
+        "context": "Welke landen hebben meer dan twee officiële talen?",
+        "id": 10,
+        "keywords": [
+            "land",
+            "officiële taal",
+            "meer dan twee"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Country>"
+        ]
+    },
+    {
+        "context": "Wanneer werd het Vrijheidsbeeld gebouwd?",
+        "id": 11,
+        "keywords": [
+            "Vrijheidsbeeld",
+            "gebouwd"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Statue_of_Liberty>"
+        ]
+    },
+    {
+        "context": "Noem alle personen die geboren zijn in Wenen en gestorven zijn in Berlijn.",
+        "id": 12,
+        "keywords": [
+            "persoon",
+            "geboren",
+            "Wenen",
+            "gestorven",
+            "Berlijn"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Berlin>",
+            "<http://dbpedia.org/resource/Vienna>"
+        ]
+    },
+    {
+        "context": "Noem alle films met Tom Cruise.",
+        "id": 13,
+        "keywords": [
+            "film",
+            "Tom Cruise"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Tom_Cruise>"
+        ]
+    },
+    {
+        "context": "Hoe lang is Michael Jordan?",
+        "id": 14,
+        "keywords": [
+            "lang",
+            "Michael Jordan"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Michael_Jordan>"
+        ]
+    },
+    {
+        "context": "Noem alle soorten Duitse herders.",
+        "id": 15,
+        "keywords": [
+            "Duitse herder",
+            "soort"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/German_Shepherd>"
+        ]
+    },
+    {
+        "context": "Wat is de officiële taal van Suriname?",
+        "id": 16,
+        "keywords": [
+            "Suriname",
+            "officiële taal"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Suriname>"
+        ]
+    },
+    {
+        "context": "Wie componeerde de muziek voor Harold and Maude",
+        "id": 17,
+        "keywords": [
+            "componist",
+            "Harold and Maude"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Harold_and_Maude>"
+        ]
+    },
+    {
+        "context": "Wie schreef het boek De Pilaren van de Aarde?",
+        "id": 18,
+        "keywords": [
+            "auteur",
+            "De Pilaren van de Aarde"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Pillars_of_the_Earth>"
+        ]
+    },
+    {
+        "context": "Welke talen worden gesproken in Estland?",
+        "id": 19,
+        "keywords": [
+            "taal",
+            "gesproken",
+            "Estland"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Estonia>"
+        ]
+    },
+    {
+        "context": "Zijn boomkikkers een soort amfibie?",
+        "id": 20,
+        "keywords": [
+            "boomkikker",
+            "amfibie"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Hylidae>",
+            "<http://dbpedia.org/resource/Amphibian>"
+        ]
+    },
+    {
+        "context": "Wanneer trad Letland toe tot de EU?",
+        "id": 21,
+        "keywords": [
+            "Letland",
+            "toetreden",
+            "EU"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Latvia>"
+        ]
+    },
+    {
+        "context": "Waar woont de premier van Spanje?",
+        "id": 22,
+        "keywords": [
+            "woont",
+            "premier van Spanje"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Prime_Minister_of_Spain>"
+        ]
+    },
+    {
+        "context": "Welke landen hebben meer dan tien grotten?",
+        "id": 23,
+        "keywords": [
+            "land",
+            "grotten",
+            "meer dan tien"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Country>",
+            "<http://dbpedia.org/ontology/Cave>"
+        ]
+    },
+    {
+        "context": "Wie bedacht Goofy?",
+        "id": 24,
+        "keywords": [
+            "bedenker",
+            "Goofy"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Goofy>"
+        ]
+    },
+    {
+        "context": "Noem alle Spaanse voetbalclubs.",
+        "id": 25,
+        "keywords": [
+            "Spanje",
+            "voetbalclub"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/SoccerClub>"
+        ]
+    },
+    {
+        "context": "Welke andere wapens heeft de uitvinder van de Uzi ontwikkeld?",
+        "id": 26,
+        "keywords": [
+            "Uzi",
+            "uitvinder",
+            "wapens"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Uzi>",
+            "<http://dbpedia.org/ontology/Weapon>"
+        ]
+    },
+    {
+        "context": "Welke grotten hebben meer dan drie ingangen?",
+        "id": 27,
+        "keywords": [
+            "grot",
+            "ingang",
+            "meer dan drie"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Cave>"
+        ]
+    },
+    {
+        "context": "Welke landen hebben de Euro geïntroduceerd?",
+        "id": 28,
+        "keywords": [
+            "land",
+            "Euro",
+            "geïntroduceerd"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Country>"
+        ]
+    },
+    {
+        "context": "Uit welk land komt de bedenker van Nijntje?",
+        "id": 29,
+        "keywords": [
+            "Nijntje",
+            "bedenker",
+            "nationaliteit"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Miffy>"
+        ]
+    },
+    {
+        "context": "Geef me alle vrouwelijke voornaamen.",
+        "id": 30,
+        "keywords": [
+            "vrouwelijk",
+            "voornaam"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Female>",
+            "<http://dbpedia.org/ontology/GivenName>"
+        ]
+    },
+    {
+        "context": "Was Margaret Thatcher een chemicus?",
+        "id": 31,
+        "keywords": [
+            "Margaret Thatcher",
+            "chemicus"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Margaret_Thatcher>",
+            "<http://dbpedia.org/resource/Chemist>"
+        ]
+    },
+    {
+        "context": "Welke Duitse steden hebben meer dan 250000 inwoners?",
+        "id": 32,
+        "keywords": [
+            "stad",
+            "Duitsland",
+            "inwoners",
+            "meer dan 250000"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Germany>"
+        ]
+    },
+    {
+        "context": "Was Marc Chagall joods?",
+        "id": 33,
+        "keywords": [
+            "Marc Chagall",
+            "joods"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Marc_Chagall>"
+        ]
+    },
+    {
+        "context": "Welke presidenten werden geboren in 1945?",
+        "id": 34,
+        "keywords": [
+            "president",
+            "geboren",
+            "1945"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/President>"
+        ]
+    },
+    {
+        "context": "Hoeveel Aldi winkels zijn er?",
+        "id": 35,
+        "keywords": [
+            "eigenaar",
+            "Aldi"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Aldi>"
+        ]
+    },
+    {
+        "context": "Was president Jackson van de Verenigde Staten betrokken bij een oorlog?",
+        "id": 36,
+        "keywords": [
+            "president van de Verenigde Staten",
+            "Jackson",
+            "oorlog",
+            "betrokken bij"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Andrew_Jackson>"
+        ]
+    },
+    {
+        "context": "Wat is de hoofdstad van Canada?",
+        "id": 37,
+        "keywords": [
+            "hoofdstad",
+            "Canada"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Canada>"
+        ]
+    },
+    {
+        "context": "In welk museum hangt De Schreeuw van Munch?",
+        "id": 38,
+        "keywords": [
+            "museum",
+            "De Schreeuw",
+            "Munch"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Scream>"
+        ]
+    },
+    {
+        "context": "Bij welk platenlabel verscheen het eerste album van Elvis Presley?",
+        "id": 39,
+        "keywords": [
+            "platenlabel",
+            "eerste album",
+            "Elvis Presley"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Elvis_Presley>",
+            "<http://dbpedia.org/ontology/Album>"
+        ]
+    },
+    {
+        "context": "Hebben prins Harry en prins William dezelfde moeder?",
+        "id": 40,
+        "keywords": [
+            "prins Harry",
+            "prins William",
+            "moeder",
+            "dezelfde"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Prince_Harry_of_Wales>",
+            "<http://dbpedia.org/resource/Prince_William,_Duke_of_Cambridge>"
+        ]
+    },
+    {
+        "context": "Bij welke militaire conflicten was Lawrence of Arabia betrokken?",
+        "id": 41,
+        "keywords": [
+            "militair conflict",
+            "Lawrence of Arabia"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/T._E._Lawrence>"
+        ]
+    },
+    {
+        "context": "Welke staten grenzen aan Illinois?",
+        "id": 42,
+        "keywords": [
+            "staat",
+            "grenzen aan",
+            "Illinois"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Illinois>"
+        ]
+    },
+    {
+        "context": "Geef alle eilanden die behoren tot Japan.",
+        "id": 43,
+        "keywords": [
+            "eilanden",
+            "Japan"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Island>",
+            "<http://dbpedia.org/resource/Japan>"
+        ]
+    },
+    {
+        "context": "Wat is de hoogste berg van Australië?",
+        "id": 44,
+        "keywords": [
+            "Australië",
+            "hoogste berg"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Mountain>",
+            "<http://dbpedia.org/resource/Australia>"
+        ]
+    },
+    {
+        "context": "Welke vliegvelden liggen in Californië?",
+        "id": 45,
+        "keywords": [
+            "vliegveld",
+            "Californië"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Airport>"
+        ]
+    },
+    {
+        "context": "Wie ontwikkelde Minecraft?",
+        "id": 46,
+        "keywords": [
+            "Minecraft",
+            "ontwikkeld"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Minecraft>"
+        ]
+    },
+    {
+        "context": "Welke schakers stierven in hun geboorteplaats?",
+        "id": 47,
+        "keywords": [
+            "schakers",
+            "sterf",
+            "in geboorteplaats"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/ChessPlayer>"
+        ]
+    },
+    {
+        "context": "Geef alle auto's die in Duitsland gemaakt worden.",
+        "id": 49,
+        "keywords": [
+            "auto",
+            "gemaakt",
+            "Duitsland"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Automobile>"
+        ]
+    },
+    {
+        "context": "Wie was de vrouw van de Amerikaanse president Lincoln?",
+        "id": 50,
+        "keywords": [
+            "vrouw",
+            "president van America",
+            "Lincoln"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Abraham_Lincoln>"
+        ]
+    },
+    {
+        "context": "Is Michelle Obama de vrouw van Barack Obama?",
+        "id": 52,
+        "keywords": [
+            "Michelle Obama",
+            "vrouw van",
+            "Barack Obama"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Michelle_Obama>",
+            "<http://dbpedia.org/resource/Barack_Obama>"
+        ]
+    },
+    {
+        "context": "Geef alle acteurs van films waar William Shatner de regie van voerde.",
+        "id": 53,
+        "keywords": [
+            "acteur",
+            "film",
+            "regisseur",
+            "William Shatner"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/William_Shatner>"
+        ]
+    },
+    {
+        "context": "Noem alle kinderen van Margaret Thatcher.",
+        "id": 54,
+        "keywords": [
+            "kinderen",
+            "Margaret Thatcher"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Margaret_Thatcher>"
+        ]
+    },
+    {
+        "context": "Wie is de uitgever van Forbes.",
+        "id": 55,
+        "keywords": [
+            "Forbes",
+            "uitgever"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Forbes>"
+        ]
+    },
+    {
+        "context": "Noem alle acteurs uit de film Last Action Hero.",
+        "id": 56,
+        "keywords": [
+            "acteur",
+            "Last Action Hero"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Last_Action_Hero>"
+        ]
+    },
+    {
+        "context": "In welke programmeertaal is GIMP geschreven?",
+        "id": 57,
+        "keywords": [
+            "GIMP",
+            "programmeertaal"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/GIMP>"
+        ]
+    },
+    {
+        "context": "In welk land ligt Limerick Lake?",
+        "id": 58,
+        "keywords": [
+            "Limerick Lake",
+            "land"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Limerick_Lake>"
+        ]
+    },
+    {
+        "context": "Geef me alle videogames van Mean Hamster Software.",
+        "id": 59,
+        "keywords": [
+            "videogame",
+            "Mean Hamster Software"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/VideoGame>",
+            "<http://dbpedia.org/resource/Mean_Hamster_Software>"
+        ]
+    },
+    {
+        "context": "Wie produceerde films waarin Natalie Portman speelde?",
+        "id": 60,
+        "keywords": [
+            "producent",
+            "film",
+            "Natalie Portman",
+            "speelt"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Natalie_Portman>"
+        ]
+    },
+    {
+        "context": "In welke films speelden zowel Julia Roberts als Richard Gere?",
+        "id": 61,
+        "keywords": [
+            "film",
+            "speel",
+            "Julia Roberts",
+            "Richard Gere"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Richard_Gere>",
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Julia_Roberts>"
+        ]
+    },
+    {
+        "context": "Wat is de op één na hoogste berg ter wereld?",
+        "id": 64,
+        "keywords": [
+            "berg",
+            "op één na hoogste"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Mountain>"
+        ]
+    },
+    {
+        "context": "Geef alle boeken van William Goldman met meer dan 300 pagina's.",
+        "id": 65,
+        "keywords": [
+            "boeken",
+            "William Goldman",
+            "meer dan 300 pagina's"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Book>",
+            "<http://dbpedia.org/resource/William_Goldman>"
+        ]
+    },
+    {
+        "context": "Noem alle Deense films.",
+        "id": 66,
+        "keywords": [
+            "film",
+            "Denemarken"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Denmark>"
+        ]
+    },
+    {
+        "context": "Wat is de grootste stad van Australië?",
+        "id": 67,
+        "keywords": [
+            "grootste stad",
+            "Australië"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Australia>"
+        ]
+    },
+    {
+        "context": "Wie schilderde Christus in de storm op het meer van Galilea?",
+        "id": 68,
+        "keywords": [
+            "schilder",
+            "Christus in de storm op het meer van Galilea"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Storm_on_the_Sea_of_Galilee>"
+        ]
+    },
+    {
+        "context": "Noem alle lanceerplatformen van de NASA.",
+        "id": 69,
+        "keywords": [
+            "lanceerplatform",
+            "NASA"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/NASA>",
+            "<http://dbpedia.org/ontology/LaunchPad>"
+        ]
+    },
+    {
+        "context": "Noem de verjaardag van alle acteurs uit de televisieserie Charmed.",
+        "id": 70,
+        "keywords": [
+            "verjaardag",
+            "acteur",
+            "televisieserie",
+            "Charmed"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Charmed>"
+        ]
+    },
+    {
+        "context": "In welke stad kwam John F. Kennedy om het leven?",
+        "id": 71,
+        "keywords": [
+            "stad",
+            "John F. Kennedy",
+            "gestorven"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/City>",
+            "<http://dbpedia.org/resource/John_F._Kennedy>"
+        ]
+    },
+    {
+        "context": "Wie produceerde de meeste films?",
+        "id": 72,
+        "keywords": [
+            "producent",
+            "films",
+            "de meeste"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>"
+        ]
+    },
+    {
+        "context": "Wie schreef het stripverhaal Captain America?",
+        "id": 73,
+        "keywords": [
+            "auteur",
+            "stripverhaal",
+            "Captain America"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Captain_America>"
+        ]
+    },
+    {
+        "context": "Bestaat er een videospel met de naam Battle Chess?",
+        "id": 74,
+        "keywords": [
+            "videospel",
+            "Battle Chess"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/VideoGame>"
+        ]
+    },
+    {
+        "context": "Welke bergen zijn hoger dan de Nanga Parbat?",
+        "id": 75,
+        "keywords": [
+            "bergen",
+            "hoger",
+            "Nanga Parbat"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Nanga_Parbat>",
+            "<http://dbpedia.org/ontology/Mountain>"
+        ]
+    },
+    {
+        "context": "Noem alle afleveringen van het eerste seizoen van de HBO-serie The Sopranos.",
+        "id": 76,
+        "keywords": [
+            "HBO-serie",
+            "The Sopranos",
+            "eerste seizoen",
+            "aflevering"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Sopranos>"
+        ]
+    },
+    {
+        "context": "Heet de echtgenote van president Barack Obama Michelle?",
+        "id": 78,
+        "keywords": [
+            "echtgenote",
+            "Barack Obama",
+            "Michelle"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Barack_Obama>"
+        ]
+    },
+    {
+        "context": "Wat is de hoogste berg?",
+        "id": 79,
+        "keywords": [
+            "hoogste berg"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Mountain>"
+        ]
+    },
+    {
+        "context": "Hoe heten de ouders van de vrouw van Juan Carlos I?",
+        "id": 80,
+        "keywords": [
+            "ouders",
+            "vrouw van",
+            "Juan Carlos I"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Juan_Carlos_I_of_Spain>"
+        ]
+    },
+    {
+        "context": "Noem alle Canadese grunge-platenlabels.",
+        "id": 81,
+        "keywords": [
+            "Canadees",
+            "platenlabel",
+            "Grunge"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Canada>",
+            "<http://dbpedia.org/ontology/RecordLabel>",
+            "<http://dbpedia.org/resource/Grunge>"
+        ]
+    },
+    {
+        "context": "Wat is de meisjesnaam van Angela Merkel?",
+        "id": 82,
+        "keywords": [
+            "meisjesnaam",
+            "Angela Merkel"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Angela_Merkel>"
+        ]
+    },
+    {
+        "context": "Wat is de langste rivier?",
+        "id": 83,
+        "keywords": [
+            "rivier",
+            "langste"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/River>"
+        ]
+    },
+    {
+        "context": "Beïnvloedde Socrates Aristoteles?",
+        "id": 84,
+        "keywords": [
+            "beïnvloeden",
+            "Socrates",
+            "Aristoteles"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Socrates>",
+            "<http://dbpedia.org/resource/Aristotle>"
+        ]
+    },
+    {
+        "context": "In welke films die werden geregisseerd door Garry Marshall speelde Julia Roberts?",
+        "id": 85,
+        "keywords": [
+            "film",
+            "regisseur",
+            "Garry Marshall",
+            "speelt",
+            "Julia Roberts"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Julia_Roberts>",
+            "<http://dbpedia.org/resource/Garry_Marshall>"
+        ]
+    },
+    {
+        "context": "Speelt Christian Bale in Velvet Goldmine?",
+        "id": 86,
+        "keywords": [
+            "Christian Bale",
+            "speelt in",
+            "Velvet Goldmine"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Velvet_Goldmine>",
+            "<http://dbpedia.org/resource/Christian_Bale>"
+        ]
+    },
+    {
+        "context": "Wie heeft het videospel World of Warcraft ontwikkeld?",
+        "id": 87,
+        "keywords": [
+            "World of Warcraft",
+            "ontwikkelaar"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/World_of_Warcraft>"
+        ]
+    },
+    {
+        "context": "Door welke landen stroomt de Jenisej?",
+        "id": 88,
+        "keywords": [
+            "Jenisej",
+            "land",
+            "stroomt door"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Yenisei_River>"
+        ]
+    },
+    {
+        "context": "Noem alle spelen van GMT.",
+        "id": 89,
+        "keywords": [
+            "spel",
+            "GMT"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/GMT_Games>"
+        ]
+    },
+    {
+        "context": "Welke organisaties werden opgericht in 1930?",
+        "id": 90,
+        "keywords": [
+            "organisatie",
+            "opgericht",
+            "1930"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Organisation>"
+        ]
+    },
+    {
+        "context": "Hoeveel medewerkers heeft IBM?",
+        "id": 91,
+        "keywords": [
+            "medewerkers",
+            "IBM"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/IBM>"
+        ]
+    },
+    {
+        "context": "Wanneer werd de provincie Alberta gesticht?",
+        "id": 92,
+        "keywords": [
+            "provincie",
+            "Alberta",
+            "gesticht"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Alberta>"
+        ]
+    },
+    {
+        "context": "Geef alle kosmonauten.",
+        "id": 93,
+        "keywords": [
+            "kosmonauten"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Astronaut>"
+        ]
+    },
+    {
+        "context": "Wie is de burgemeester van Tel Aviv?",
+        "id": 94,
+        "keywords": [
+            "Tel Aviv",
+            "burgemeester"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Tel_Aviv>"
+        ]
+    },
+    {
+        "context": "Welke schepen zijn genoemd naar Benjamin Franklin?",
+        "id": 95,
+        "keywords": [
+            "schip",
+            "genoemd naar",
+            "Benjamin Franklin"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Benjamin_Franklin>"
+        ]
+    },
+    {
+        "context": "Hoeveel werknemers heeft Google?",
+        "id": 96,
+        "keywords": [
+            "werknemers",
+            "Google"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Google>"
+        ]
+    },
+    {
+        "context": "Heeft Breaking Bad meer afleveringen dan Game of Thrones?",
+        "id": 97,
+        "keywords": [
+            "Breaking Bad",
+            "afleveringen",
+            "meer dan",
+            "Game of Thrones"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Game_of_Thrones>",
+            "<http://dbpedia.org/resource/Breaking_Bad>"
+        ]
+    },
+    {
+        "context": "Geef me een lijst van alle bandleider die trompet spelen.",
+        "id": 98,
+        "keywords": [
+            "bandleider",
+            "spelen",
+            "trompet"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Bandleader>",
+            "<http://dbpedia.org/resource/Trumpet>"
+        ]
+    },
+    {
+        "context": "Wanneer overleed Michael Jackson?",
+        "id": 99,
+        "keywords": [
+            "overleden",
+            "Michael Jackson"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Michael_Jackson>"
+        ]
+    },
+    {
+        "context": "Hoeveel inwoners heeft Maribor?",
+        "id": 102,
+        "keywords": [
+            "Maribor",
+            "inwoners"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Maribor>"
+        ]
+    },
+    {
+        "context": "Is proinsuline een proteïne?",
+        "id": 104,
+        "keywords": [
+            "proinsuline",
+            "proteïne"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Protein>",
+            "<http://dbpedia.org/resource/Proinsulin>"
+        ]
+    },
+    {
+        "context": "Welke prijzen heeft WikiLeaks gewonnen?",
+        "id": 105,
+        "keywords": [
+            "prijs",
+            "Wikileaks"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/WikiLeaks>"
+        ]
+    },
+    {
+        "context": "Welk land heeft de meeste officiële talen.",
+        "id": 106,
+        "keywords": [
+            "land",
+            "officiële taal",
+            "meeste"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Country>"
+        ]
+    },
+    {
+        "context": "Geef alle communistische landen.",
+        "id": 107,
+        "keywords": [
+            "communistische landen"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Country>"
+        ]
+    },
+    {
+        "context": "Welke instrumenten speeld Cat Stevens?",
+        "id": 108,
+        "keywords": [
+            "Cat Stevens",
+            "instrument"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Cat_Stevens>"
+        ]
+    },
+    {
+        "context": "Noem alle boeken van Danielle Steel.",
+        "id": 109,
+        "keywords": [
+            "boek",
+            "Danielle Steel"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Book>",
+            "<http://dbpedia.org/resource/Danielle_Steel>"
+        ]
+    },
+    {
+        "context": "Heeft Tesla ooit de Nobelprijs voor de Natuurkunde gewonnen?",
+        "id": 110,
+        "keywords": [
+            "Nobelprijs voor de Natuurkunde",
+            "Tesla"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Nikola_Tesla>",
+            "<http://dbpedia.org/resource/Nobel_Prize_in_Physics>"
+        ]
+    },
+    {
+        "context": "Wie is de eigenaar van Universal Studios?",
+        "id": 111,
+        "keywords": [
+            "eigenaar",
+            "Universal Studios"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Universal_Studios>"
+        ]
+    },
+    {
+        "context": "Wie is de gouverneur van Wyoming?",
+        "id": 112,
+        "keywords": [
+            "gouverneur",
+            "Wyoming"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Wyoming>"
+        ]
+    },
+    {
+        "context": "Wanneer zijn de Hells Angels opgericht?",
+        "id": 113,
+        "keywords": [
+            "Hells Angels",
+            "opgericht"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Hells_Angels>"
+        ]
+    },
+    {
+        "context": "Geef me alle bibliotheken die voor 1400 werden opgericht.",
+        "id": 114,
+        "keywords": [
+            "bibliotheken",
+            "opgericht",
+            "voor 1400"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Library>"
+        ]
+    },
+    {
+        "context": "Is de grootste stad van Egypte ook de hoofdstad?",
+        "id": 115,
+        "keywords": [
+            "grootste stad",
+            "Egypte",
+            "hoofdstad"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Egypt>"
+        ]
+    },
+    {
+        "context": "Hoeveel mensen wonen er in de hoofdstad van Australië?",
+        "id": 117,
+        "keywords": [
+            "inwoners",
+            "hoofdstad van Australië"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Australia>"
+        ]
+    },
+    {
+        "context": "Geef alle B-kantjes van singles van de Ramones.",
+        "id": 118,
+        "keywords": [
+            "B-kant",
+            "single",
+            "de Ramones"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Ramones>"
+        ]
+    },
+    {
+        "context": "Noem alle films die zijn geproduceerd door Hal Roach.",
+        "id": 119,
+        "keywords": [
+            "film",
+            "producent",
+            "Hal Roach"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Hal_Roach>",
+            "<http://dbpedia.org/ontology/Film>"
+        ]
+    },
+    {
+        "context": "Geef de astronauten van Apollo 14.",
+        "id": 120,
+        "keywords": [
+            "astronaut",
+            "Apollo 14"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Apollo_14>"
+        ]
+    },
+    {
+        "context": "Wat is het kengetal van Berlijn?",
+        "id": 121,
+        "keywords": [
+            "kengetal",
+            "Berlijn"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Berlin>"
+        ]
+    },
+    {
+        "context": "Welke software is ontwikkeld door bedrijven opgericht in Californië?",
+        "id": 122,
+        "keywords": [
+            "bedrijf",
+            "opgericht",
+            "Californië",
+            "ontwikkeld",
+            "software"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Software>",
+            "<http://dbpedia.org/ontology/Company>"
+        ]
+    },
+    {
+        "context": "Wat is de munteenheid van Tsjechië?",
+        "id": 123,
+        "keywords": [
+            "Tsjechië",
+            "munteenheid"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Czech_Republic>"
+        ]
+    },
+    {
+        "context": "Noem alle plaatsen op de Werelderfgoedlijst die in de laatste twee jaar zijn toegevoegd.",
+        "id": 125,
+        "keywords": [
+            "Werelderfgoed",
+            "laatste twee jaar",
+            "toevoegen"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/WorldHeritageSite>"
+        ]
+    },
+    {
+        "context": "Door welke steden loopt de Weser?",
+        "id": 126,
+        "keywords": [
+            "stad",
+            "loopt door",
+            "Weser"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Weser>"
+        ]
+    },
+    {
+        "context": "Geef alle films die werden geregisseerd door Francis Ford Coppola.",
+        "id": 129,
+        "keywords": [
+            "films",
+            "regisseur",
+            "Francis Ford Coppola"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Francis_Ford_Coppola>"
+        ]
+    },
+    {
+        "context": "Welke partij is aan de macht in Lissabon?",
+        "id": 130,
+        "keywords": [
+            "Lissabon",
+            "partij",
+            "aan de macht"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Lisbon>"
+        ]
+    },
+    {
+        "context": "Noem alle bedrijven in München.",
+        "id": 131,
+        "keywords": [
+            "München",
+            "bedrijf"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Company>"
+        ]
+    },
+    {
+        "context": "Was de Cubacrisis eerder dan de invasie in de Varkensbaai?",
+        "id": 132,
+        "keywords": [
+            "Cubacrisis",
+            "eerder dan",
+            "invasie in de Varkensbaai"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Bay_of_Pigs_Invasion>",
+            "<http://dbpedia.org/resource/Cuban_missile_crisis>"
+        ]
+    },
+    {
+        "context": "Wie was de vicepresident onder John F. Kennedy?",
+        "id": 133,
+        "keywords": [
+            "John F. Kennedy",
+            "vicepresident"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/John_F._Kennedy>"
+        ]
+    },
+    {
+        "context": "Wie is de Formule 1-coureur met de meeste races op zijn naam?",
+        "id": 134,
+        "keywords": [
+            "Formule 1",
+            "coureur",
+            "races",
+            "de meeste"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/FormulaOneRacer>"
+        ]
+    },
+    {
+        "context": "Geef alle politici die methodist zijn.",
+        "id": 135,
+        "keywords": [
+            "politici",
+            "methodist"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Methodism>",
+            "<http://dbpedia.org/ontology/Politician>"
+        ]
+    },
+    {
+        "context": "Noem alle clubs uit de Premier League.",
+        "id": 136,
+        "keywords": [
+            "club",
+            "Premier League"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/SoccerClub>",
+            "<http://dbpedia.org/resource/Premier_League>"
+        ]
+    },
+    {
+        "context": "Welke monarchen waren getrouwd met een Duitser?",
+        "id": 137,
+        "keywords": [
+            "monarch",
+            "getrouwd",
+            "Duitser"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Monarch>"
+        ]
+    },
+    {
+        "context": "Geef alle songs van Bruce Springsteen die werden uitgebracht tussen 1980 en 1990.",
+        "id": 138,
+        "keywords": [
+            "song",
+            "Bruce Springsteen",
+            "uitgebracht tussen 1980 en 1990"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Song>",
+            "<http://dbpedia.org/resource/Bruce_Springsteen>"
+        ]
+    },
+    {
+        "context": "Noem alle leden van Prodigy.",
+        "id": 139,
+        "keywords": [
+            "leden",
+            "Prodigy"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Prodigy>"
+        ]
+    },
+    {
+        "context": "Noem alle Australische organisaties zonder winstoogmerk.",
+        "id": 140,
+        "keywords": [
+            "organisatie zonder winstoogmerk",
+            "Australië"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Nonprofit_organization>"
+        ]
+    },
+    {
+        "context": "Waaraan overleed Bruce Carver?",
+        "id": 141,
+        "keywords": [
+            "Bruce Carver",
+            "gestorven aan"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Bruce_Carver>"
+        ]
+    },
+    {
+        "context": "In welk land ontspringt de Ganges?",
+        "id": 142,
+        "keywords": [
+            "ontspringt",
+            "Ganges"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Ganges>"
+        ]
+    },
+    {
+        "context": "Wat is het totale aantal vrouwen en mannen dat werkt bij de brandweer van New York?",
+        "id": 143,
+        "keywords": [
+            "mannen",
+            "vrouwen",
+            "brandweer",
+            "New York"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/New_York_City_Fire_Department>"
+        ]
+    },
+    {
+        "context": "Hebben prins Harry en prins William dezelfde ouders?",
+        "id": 146,
+        "keywords": [
+            "prins Harry",
+            "prins William",
+            "dezelfde",
+            "ouders"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Prince_Harry>",
+            "<http://dbpedia.org/resource/Prince_William,_Duke_of_Cambridge>"
+        ]
+    },
+    {
+        "context": "In welke Britse stad is het hoofdkwartier van MI6 gevestigd?",
+        "id": 147,
+        "keywords": [
+            "MI6",
+            "hoofdkwartier",
+            "Britse stad"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/United_Kingdom>",
+            "<http://dbpedia.org/resource/Secret_Intelligence_Service>"
+        ]
+    },
+    {
+        "context": "Noem alle Deense films.",
+        "id": 150,
+        "keywords": [
+            "film",
+            "Denemarken"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Denmark>"
+        ]
+    },
+    {
+        "context": "Is Rita Wilson de vrouw van Tom Hanks?",
+        "id": 151,
+        "keywords": [
+            "Rita Wilson",
+            "vrouw",
+            "Tom Hanks"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Rita_Wilson>",
+            "<http://dbpedia.org/resource/Tom_Hanks>"
+        ]
+    },
+    {
+        "context": "Welke films waarin Clint Eastwood speelde, werden ook door hem geregisseerd?",
+        "id": 152,
+        "keywords": [
+            "film",
+            "Clint Eastwood",
+            "regisseur",
+            "acteur"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Clint_Eastwood>"
+        ]
+    },
+    {
+        "context": "Welke films heeft Kurosawa geregisseerd?",
+        "id": 154,
+        "keywords": [
+            "film",
+            "Kurosawa",
+            "regisseur"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Akira_Kurosawa>"
+        ]
+    },
+    {
+        "context": "Welke televisieseries werden bedacht door John Cleese?",
+        "id": 155,
+        "keywords": [
+            "televisieserie",
+            "bedacht",
+            "John Cleese"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/TelevisionShow>",
+            "<http://dbpedia.org/resource/John_Cleese>"
+        ]
+    },
+    {
+        "context": "Welke prijzen heeft Douglas Hofstadter gewonnen?",
+        "id": 156,
+        "keywords": [
+            "Douglas Hofstadter",
+            "prijs"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Douglas_Hofstadter>"
+        ]
+    },
+    {
+        "context": "Met wie is de dochter van Robert Kennedy getrouwd?",
+        "id": 157,
+        "keywords": [
+            "Robert Kennedy",
+            "dochter",
+            "getrouwd"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Robert_F._Kennedy>"
+        ]
+    },
+    {
+        "context": "Wie is de eigenaar van Rolls-Royce?",
+        "id": 158,
+        "keywords": [
+            "Rolls-Royce",
+            "eigenaar"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Rolls-Royce_Motors>"
+        ]
+    },
+    {
+        "context": "Wie ontwierp de Brooklyn Bridge?",
+        "id": 159,
+        "keywords": [
+            "ontwerp",
+            "Brooklyn Bridge"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Brooklyn_Bridge>"
+        ]
+    },
+    {
+        "context": "Wat is het hoogste punt van de Oeral?",
+        "id": 160,
+        "keywords": [
+            "Oeral",
+            "hoogste punt"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Ural_Mountains>"
+        ]
+    },
+    {
+        "context": "Noem alle Duitse bondskanseliers.",
+        "id": 162,
+        "keywords": [
+            "Duits",
+            "bondskanseliers"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Person>"
+        ]
+    },
+    {
+        "context": "Heette de echtgenote van president Lincoln Mary?",
+        "id": 164,
+        "keywords": [
+            "echtgenote",
+            "Lincoln",
+            "Mary"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Abraham_Lincoln>"
+        ]
+    },
+    {
+        "context": "Hoeveel inwoners heeft de grootste stadt in Canada?",
+        "id": 166,
+        "keywords": [
+            "inwoners",
+            "grootste",
+            "stad",
+            "Canada"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Canada>"
+        ]
+    },
+    {
+        "context": "Wie was de eerste die de Mount Everest beklom?",
+        "id": 167,
+        "keywords": [
+            "Mount Everest",
+            "eerste",
+            "beklimmen"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Mount_Everest>"
+        ]
+    },
+    {
+        "context": "Wat is de officiële kleur van de universiteit Oxford?",
+        "id": 169,
+        "keywords": [
+            "universiteit Oxford",
+            "officiële kleur"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/University_of_Oxford>"
+        ]
+    },
+    {
+        "context": "Tot welke artistieke stijl behoort de schilder van de Drie Dansers?",
+        "id": 170,
+        "keywords": [
+            "Drie Dansers",
+            "schilder",
+            "stijl"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Three_Dancers>"
+        ]
+    },
+    {
+        "context": "Toon alle uitgestorven dieren.",
+        "id": 171,
+        "keywords": [
+            "dieren",
+            "uitgestorven"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Animal>"
+        ]
+    },
+    {
+        "context": "Heeft de stad waarin Abraham Lincoln is overleden een website?",
+        "id": 172,
+        "keywords": [
+            "Abraham Lincoln",
+            "stad",
+            "gestorven",
+            "website"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Abraham_Lincoln>"
+        ]
+    },
+    {
+        "context": "Wie is de jongste dartsspeler?",
+        "id": 173,
+        "keywords": [
+            "jongste Darts speeler"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/DartsPlayer>"
+        ]
+    },
+    {
+        "context": "Waar was Bach geboren?",
+        "id": 174,
+        "keywords": [
+            "Bach",
+            "geboorteplaats"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Johann_Sebastian_Bach>"
+        ]
+    },
+    {
+        "context": "In welke landen kan je met de Westafrikaanse CFA-frank betalen?",
+        "id": 175,
+        "keywords": [
+            "landen",
+            "betalen",
+            "CFA-frank"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/West_African_CFA_franc>"
+        ]
+    },
+    {
+        "context": "Wat zijn de top-10 actie role-playing computerspellen volgens IGN?",
+        "id": 176,
+        "keywords": [
+            "top-10 actie rollenspellen",
+            "IGN"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Category:Action_role-playing_video_games>"
+        ]
+    },
+    {
+        "context": "Mondt de Isar uit in een meer?",
+        "id": 178,
+        "keywords": [
+            "Isar",
+            "uitmonden",
+            "meer"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Isar>",
+            "<http://dbpedia.org/ontology/Lake>"
+        ]
+    },
+    {
+        "context": "Toon alle films die door Steven Spielberg worden geproduceerd en die een budget van minstens 80 miljoen dollar hadden.",
+        "id": 179,
+        "keywords": [
+            "films",
+            "geproduceert door",
+            "Steven Spielberg",
+            "budget",
+            "minstens 80 miljoen dollar"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Steven_Spielberg>"
+        ]
+    },
+    {
+        "context": "Toon alle schrijvers die de Nobelprijs in literatuur hebben gewonnen.",
+        "id": 180,
+        "keywords": [
+            "schrijvers",
+            "Nobelprijs in literatuur",
+            "gewonnen"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Writer>",
+            "<http://dbpedia.org/resource/Nobel_Prize_in_Literature>"
+        ]
+    },
+    {
+        "context": "Toon alle taikonauten.",
+        "id": 181,
+        "keywords": [
+            "taikonauten"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/China>",
+            "<http://dbpedia.org/ontology/Astronaut>"
+        ]
+    },
+    {
+        "context": "Hoeveel pagina's heeft Oorlog en vrede?",
+        "id": 182,
+        "keywords": [
+            "hoeveel pagina's",
+            "Oorlog en vrede"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/War_and_Peace>"
+        ]
+    },
+    {
+        "context": "Wat is de brug met de grootste spanwijdte?",
+        "id": 183,
+        "keywords": [
+            "brug",
+            "langste spanwijdte"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Bridge>"
+        ]
+    },
+    {
+        "context": "Wie is de langste speler van de Atlanta Falcons?",
+        "id": 185,
+        "keywords": [
+            "Atlanta Falcons",
+            "speler",
+            "langste"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Atlanta_Falcons>"
+        ]
+    },
+    {
+        "context": "Welke rivieren stromen naar een Duits meer?",
+        "id": 186,
+        "keywords": [
+            "rivieren",
+            "stromen naar",
+            "Duits",
+            "meer"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Lake>",
+            "<http://dbpedia.org/resource/Germany>",
+            "<http://dbpedia.org/ontology/River>"
+        ]
+    },
+    {
+        "context": "Welke raketten werden gestart vanuit Baikonur?",
+        "id": 188,
+        "keywords": [
+            "raketten",
+            "gestart",
+            "Baikonur"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Baikonur_Cosmodrome>",
+            "<http://dbpedia.org/ontology/Rocket>"
+        ]
+    },
+    {
+        "context": "Welke paus volgde Johannes Paul II op?",
+        "id": 189,
+        "keywords": [
+            "paus",
+            "volgen",
+            "Johannes Paul II"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Pope_John_Paul_II>"
+        ]
+    },
+    {
+        "context": "Toon alle Nederlandse partijen.",
+        "id": 190,
+        "keywords": [
+            "Nederlandse partijen."
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Netherlands>",
+            "<http://dbpedia.org/ontology/PoliticalParty>"
+        ]
+    },
+    {
+        "context": "Wanneer is Halloween?",
+        "id": 191,
+        "keywords": [
+            "datum",
+            "halloween"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Halloween>"
+        ]
+    },
+    {
+        "context": "Toon alle Zweedse oceanograafen.",
+        "id": 192,
+        "keywords": [
+            "Zweedse",
+            "oceanograafen"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Oceanography>",
+            "<http://dbpedia.org/resource/Sweden>"
+        ]
+    },
+    {
+        "context": "Toon alle acteurs die in Berlijn zijn geboren.",
+        "id": 193,
+        "keywords": [
+            "actuers",
+            "geboren",
+            "Berlijn"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Berlin>",
+            "<http://dbpedia.org/ontology/Actor>"
+        ]
+    },
+    {
+        "context": "Wat was de laatste film met Alec Guinness?",
+        "id": 194,
+        "keywords": [
+            "Alec Guinness",
+            "laatste",
+            "film"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Alec_Guinness>",
+            "<http://dbpedia.org/ontology/Film>"
+        ]
+    },
+    {
+        "context": "Welke dichter heeft de meeste boeken geschreven?",
+        "id": 195,
+        "keywords": [
+            "dichter",
+            "meeste boeken"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Book>",
+            "<http://dbpedia.org/resource/Poet>"
+        ]
+    },
+    {
+        "context": "Wat was de laagste plaatsing van het Braziliaans elftal in de FIFA-wereldranglijst?",
+        "id": 198,
+        "keywords": [
+            "Braziliaans elftal",
+            "laagste plaatsing",
+            "FIFA-wereldranglijst"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Brazil_national_football_team>"
+        ]
+    },
+    {
+        "context": "Welke ingrediënten heb ik nodig voor worteltaart?",
+        "id": 199,
+        "keywords": [
+            "worteltaart",
+            "ingrediënten"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Carrot_cake>"
+        ]
+    },
+    {
+        "context": "Is cola een drank?",
+        "id": 200,
+        "keywords": [
+            "Cola",
+            "drank"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Beverage>",
+            "<http://dbpedia.org/resource/Cola>"
+        ]
+    },
+    {
+        "context": "Met wie was Tom Cruise getrouwd?",
+        "id": 201,
+        "keywords": [
+            "Tom Cruise",
+            "getrouwd"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Tom_Cruise>"
+        ]
+    },
+    {
+        "context": "Welke van Tim Burton's films had het hoogste budget?",
+        "id": 202,
+        "keywords": [
+            "film",
+            "Tim Burton",
+            "hoogste budget"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Tim_Burton>"
+        ]
+    },
+    {
+        "context": "Hoe zwaar is de lichtste maan van Jupiter?",
+        "id": 203,
+        "keywords": [
+            "hoe zwaar",
+            "Jupiter",
+            "maan",
+            "lichtste"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Jupiter>"
+        ]
+    },
+    {
+        "context": "Welke acteur speelde in de meeste films?",
+        "id": 204,
+        "keywords": [
+            "acteur",
+            "spelen",
+            "meeste films"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/ontology/Actor>"
+        ]
+    },
+    {
+        "context": "Is James Bond getrouwd?",
+        "id": 205,
+        "keywords": [
+            "James Bond",
+            "getrouwd"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/James_Bond>"
+        ]
+    },
+    {
+        "context": "Toon alle Australisch metalcore bands.",
+        "id": 206,
+        "keywords": [
+            "Australisch",
+            "metalcore bands"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Band>",
+            "<http://dbpedia.org/resource/Metalcore>"
+        ]
+    },
+    {
+        "context": "Toon alle acteurs die na 1950 in Parijs zijn geboren.",
+        "id": 207,
+        "keywords": [
+            "actuers",
+            "geboren",
+            "na 1950",
+            "in Parijs"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Actor>",
+            "<http://dbpedia.org/resource/Paris>"
+        ]
+    },
+    {
+        "context": "Wie zijn de vier jongste MVP basketballers?",
+        "id": 208,
+        "keywords": [
+            "vier jongste",
+            "MVP basketballers"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/BasketballPlayer>"
+        ]
+    },
+    {
+        "context": "Welke bedrijven hebben meer dan 1 miljoen werknemers?",
+        "id": 209,
+        "keywords": [
+            "bedrijf",
+            "meer dan 1 miljoen",
+            "werknemers"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Company>"
+        ]
+    },
+    {
+        "context": "Toen alle zwemmers die werden geboren in Moskou.",
+        "id": 210,
+        "keywords": [
+            "zwemmers",
+            "geboren",
+            "Moskou"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Moscow>",
+            "<http://dbpedia.org/ontology/Swimmer>"
+        ]
+    },
+    {
+        "context": "Toen het boek dat Muhammad Ali heeft geschreven.",
+        "id": 211,
+        "keywords": [
+            "boek",
+            "geschreven",
+            "Muhammad Ali"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Muhammad_Ali>",
+            "<http://dbpedia.org/ontology/Book>"
+        ]
+    },
+    {
+        "context": "Hoeveel museas heeft Parijs?",
+        "id": 212,
+        "keywords": [
+            "hoeveel",
+            "museas",
+            "Parijs"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Museum>",
+            "<http://dbpedia.org/resource/Paris>"
+        ]
+    },
+    {
+        "context": "Welke stad heeft de meeste inwoners?",
+        "id": 213,
+        "keywords": [
+            "stad",
+            "meeste inwoners"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/City>"
+        ]
+    },
+    {
+        "context": "Welke stad heeft de minste inwoners?",
+        "id": 214,
+        "keywords": [
+            "stad",
+            "minste inwoners"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/City>"
+        ]
+    },
+    {
+        "context": "Toen alle TV programma's met Neil Patrick Harris.",
+        "id": 215,
+        "keywords": [
+            "TV programma's",
+            "Neil Patrick Harris"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/TelevisionShow>",
+            "<http://dbpedia.org/resource/Neil_Patrick_Harris>"
+        ]
+    },
+    {
+        "context": "Toen een lijst van voetbalclubs die in de Bundesliga spelen.",
+        "id": 216,
+        "keywords": [
+            "voetbalclubs",
+            "spelen",
+            "Bundesliga"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/SoccerClub>",
+            "<http://dbpedia.org/resource/Bundesliga>"
+        ]
+    },
+    {
+        "context": "In welke land is de Mount Everest?",
+        "id": 217,
+        "keywords": [
+            "land",
+            "Mount Everest"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Country>",
+            "<http://dbpedia.org/resource/Mount_Everest>"
+        ]
+    },
+    {
+        "context": "Wie is de oprichter van Penguin Books?",
+        "id": 218,
+        "keywords": [
+            "oprichter",
+            "Penguin Books"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Penguin_Books>"
+        ]
+    },
+    {
+        "context": "Welke pogrammeertalen hadden invloed op Javascript?",
+        "id": 219,
+        "keywords": [
+            "programmeertalen",
+            "invloed op",
+            "Javascript"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/ProgrammingLanguage>",
+            "<http://dbpedia.org/resource/JavaScript>"
+        ]
+    },
+    {
+        "context": "Had Che Guevara kinderen?",
+        "id": 220,
+        "keywords": [
+            "kinderen",
+            "Che Guevara"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Che_Guevara>"
+        ]
+    },
+    {
+        "context": "Toen een lijst van alle musicals met muziek van Elton John.",
+        "id": 221,
+        "keywords": [
+            "musicals",
+            "muziek van",
+            "Elton John"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Elton_John>",
+            "<http://dbpedia.org/ontology/Musical>"
+        ]
+    },
+    {
+        "context": "Toen alle brouwerijen in Australië.",
+        "id": 222,
+        "keywords": [
+            "brouwerijen",
+            "Australië"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Brewery>"
+        ]
+    },
+    {
+        "context": "Wanneer was de Titanic afgewerkt?",
+        "id": 223,
+        "keywords": [
+            "Titanic",
+            "wanneer",
+            "afgewerkt"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/RMS_Titanic>"
+        ]
+    },
+    {
+        "context": "Howeveel koste Pulp Fiction?",
+        "id": 224,
+        "keywords": [
+            "kosten",
+            "Pulp Fiction"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Pulp_Fiction>"
+        ]
+    },
+    {
+        "context": "Hoeveel koolhydraten heeft pindakaas?",
+        "id": 226,
+        "keywords": [
+            "koolhydraten",
+            "pindakaas"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Peanut_butter>"
+        ]
+    },
+    {
+        "context": "Welk boek heeft de meeste pagina's?",
+        "id": 227,
+        "keywords": [
+            "boek",
+            "meeste pagina's"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Book>"
+        ]
+    },
+    {
+        "context": "Welke bruggen overspannen de Seine?",
+        "id": 228,
+        "keywords": [
+            "bruggen",
+            "overspannen",
+            "Seine"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Bridge>",
+            "<http://dbpedia.org/resource/Seine>"
+        ]
+    },
+    {
+        "context": "Wie is de burgermeester van de hoofdstad van Frans-Polynesië?",
+        "id": 229,
+        "keywords": [
+            "burgermeester",
+            "hoofdstad",
+            "Frans-Polynesië"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/French_Polynesia>"
+        ]
+    },
+    {
+        "context": "Wanneer stierf de bedenker van Dracula?",
+        "id": 230,
+        "keywords": [
+            "stierf",
+            "bedenker",
+            "Dracula"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Count_Dracula>"
+        ]
+    },
+    {
+        "context": "Waar is de Palace of Westminster?",
+        "id": 231,
+        "keywords": [
+            "plaats",
+            "Palace of Westminster"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Palace_of_Westminster>"
+        ]
+    },
+    {
+        "context": "Toen alle gebouwen in Kent, gebouwd in de stijl van het Engels gotiek.",
+        "id": 232,
+        "keywords": [
+            "gebouwen",
+            "Kent",
+            "stijl",
+            "Engels gotiek"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Kent>",
+            "<http://dbpedia.org/resource/English_Gothic_architecture>",
+            "<http://dbpedia.org/ontology/Building>"
+        ]
+    },
+    {
+        "context": "Welk paus richtte de Vaticaanse televisie op?",
+        "id": 233,
+        "keywords": [
+            "paus",
+            "oprichter",
+            "Vaticaanse televisie"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Vatican_Television_Center>",
+            "<http://dbpedia.org/ontology/Pope>"
+        ]
+    },
+    {
+        "context": "Wat is de bevolking van Melbourne, Florida?",
+        "id": 234,
+        "keywords": [
+            "bevolking",
+            "Melbourne Florida"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Melbourne,_Florida>"
+        ]
+    },
+    {
+        "context": "Naar welke luchthavens vliegt Air China?",
+        "id": 235,
+        "keywords": [
+            "luchthavens",
+            "Air China"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Air_China>"
+        ]
+    },
+    {
+        "context": "In welk jaar word Rachel Stevens geboren?",
+        "id": 236,
+        "keywords": [
+            "jaar",
+            "geboren",
+            "Rachel Stevens"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Rachel_Stevens>"
+        ]
+    },
+    {
+        "context": "Waar word JFK vermoord?",
+        "id": 237,
+        "keywords": [
+            "JFK",
+            "vermoord"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/John_F._Kennedy>"
+        ]
+    },
+    {
+        "context": "Welke wetenschaper staat bekend om het Manhattan Project en de Nobelprijs voor de Vrede?",
+        "id": 239,
+        "keywords": [
+            "wetenschaper",
+            "bekend om",
+            "Manhattan Project",
+            "Nobelprijs voor de Vrede"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Manhattan_Project>",
+            "<http://dbpedia.org/ontology/Scientist>",
+            "<http://dbpedia.org/resource/Nobel_Peace_Prize>"
+        ]
+    },
+    {
+        "context": "Wat zijn de specialiteiten van de UNC Health Care?",
+        "id": 240,
+        "keywords": [
+            "specialiteiten",
+            "UNC Health Care"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/UNC_Health_Care>"
+        ]
+    },
+    {
+        "context": "Wie is de eigenaar van Facebook?",
+        "id": 241,
+        "keywords": [
+            "eigenaar",
+            "Facebook"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Facebook>"
+        ]
+    },
+    {
+        "context": "Vanuit welke regio is de Melon de Bourgogne?",
+        "id": 242,
+        "keywords": [
+            "regio",
+            "Melon de Bourgogne"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Melon_de_Bourgogne>"
+        ]
+    },
+    {
+        "context": "Wie werd beïnvloed door Socrates?",
+        "id": 243,
+        "keywords": [
+            "beïnvloed",
+            "Socrates"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Socrates>"
+        ]
+    },
+    {
+        "context": "Wie was president van Pakistan in 1978?",
+        "id": 244,
+        "keywords": [
+            "president",
+            "Pakistan",
+            "1978"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/President_of_Pakistan>"
+        ]
+    },
+    {
+        "context": "Wie was met president Chirac getrouwd?",
+        "id": 245,
+        "keywords": [
+            "getrouwd met",
+            "president Chirac"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Jacques_Chirac>"
+        ]
+    },
+    {
+        "context": "Wat is het grootste stedelijke gebied in de staat Washington?",
+        "id": 246,
+        "keywords": [
+            "grootste stedelijke gebied",
+            "staat Washington"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Washington_(state)>"
+        ]
+    },
+    {
+        "context": "Waar in Frankrijk word mousserende wijn geproduceerd?",
+        "id": 247,
+        "keywords": [
+            "Frankrijk",
+            "mousserende wijn",
+            "geproduceerd"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/France>",
+            "<http://dbpedia.org/resource/Sparkling_wine>"
+        ]
+    },
+    {
+        "context": "Waar is Hillel Slovak gestorven?",
+        "id": 248,
+        "keywords": [
+            "Hillel Slovak",
+            "doodsplaats"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Hillel_Slovak>"
+        ]
+    },
+    {
+        "context": "In welke stad eindigt de Route 68 in Chili?",
+        "id": 249,
+        "keywords": [
+            "stad",
+            "eindigt",
+            "Route 68",
+            "Chili"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Chile_Route_68>"
+        ]
+    },
+    {
+        "context": "Hoe lang is Amazon Eve?",
+        "id": 282,
+        "keywords": [
+            "lengte",
+            "Amazon Eve"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Amazon_Eve>"
+        ]
+    },
+    {
+        "context": "Welke wapens heeft Heckler & Koch ontwikkeld?",
+        "id": 287,
+        "keywords": [
+            "Heckler & Koch",
+            "uitvinder",
+            "wapens"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Heckler_&_Koch>",
+            "<http://dbpedia.org/ontology/Weapon>"
+        ]
+    },
+    {
+        "context": "Door wie werd Batman bedacht?",
+        "id": 316,
+        "keywords": [
+            "bedenker",
+            "Batman"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Batman>"
+        ]
+    },
+    {
+        "context": "Welke politici waren getrouwd met een Duitser?",
+        "id": 344,
+        "keywords": [
+            "politici",
+            "getrouwd",
+            "Duitser"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Politician>"
+        ]
+    },
+    {
+        "context": "Wanneer werd Jack Wolfskin opgericht?",
+        "id": 394,
+        "keywords": [
+            "Jack Wolfskin",
+            "opgericht"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Jack_Wolfskin>"
+        ]
+    },
+    {
+        "context": "Toon alle kleinkinderen van Elvis Presley.",
+        "id": 404,
+        "keywords": [
+            "Elvis Presley",
+            "kleinkinderen"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Elvis_Presley>"
+        ]
+    },
+    {
+        "context": "Wanneer werd Olof Palme neergeschoten?",
+        "id": 439,
+        "keywords": [
+            "datum",
+            "Olof Palme",
+            "neergeschoten"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Olof_Palme>"
+        ]
+    },
+    {
+        "context": "Toen een lijst van alle musicals met muziek van Leonard Bernstein.",
+        "id": 453,
+        "keywords": [
+            "musicals",
+            "muziek van",
+            "Leonard Bernstein"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Leonard_Bernstein>",
+            "<http://dbpedia.org/ontology/Musical>"
+        ]
+    },
+    {
+        "context": "Naar welke luchthavens vliegt Yeti Airlines?",
+        "id": 467,
+        "keywords": [
+            "luchthavens",
+            "Yeti Airlines"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Yeti_Airlines>"
+        ]
+    },
+    {
+        "context": "Wat is de tijdzone in San Pedro de Atacama?",
+        "id": 481,
+        "keywords": [
+            "tijdzone",
+            "San Pedro de Atacama"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/San_Pedro_de_Atacama>"
+        ]
+    },
+    {
+        "context": "Geef alle Zweedse feestdagen.",
+        "id": 483,
+        "keywords": [
+            "Zweedse feestdagen"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Holiday>",
+            "<http://dbpedia.org/resource/Sweden>"
+        ]
+    },
+    {
+        "context": "Wie is de jongste Pulitzerprijs-winnaar?",
+        "id": 484,
+        "keywords": [
+            "jongste",
+            "Pulitzerprijs-winnaar"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Pulitzer_Prize>"
+        ]
+    },
+    {
+        "context": "Welke voetballers zijn op Malta geboren?",
+        "id": 485,
+        "keywords": [
+            "voetballers",
+            "geboren op",
+            "Malta"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Malta>",
+            "<http://dbpedia.org/ontology/SoccerPlayer>"
+        ]
+    },
+    {
+        "context": "Had Arnold Schwarzenegger aan een universiteit gestudeerd?",
+        "id": 486,
+        "keywords": [
+            "Arnold Schwarzenegger",
+            "universiteit",
+            "gestudeerd"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/University>",
+            "<http://dbpedia.org/resource/Arnold_Schwarzenegger>"
+        ]
+    },
+    {
+        "context": "Welke programmeertalen werden beïnvloed door Perl?",
+        "id": 487,
+        "keywords": [
+            "programmeertalen",
+            "beïnvloed door",
+            "Perl"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/ProgrammingLanguage>"
+        ]
+    },
+    {
+        "context": "Is Barack Obama een democraat?",
+        "id": 488,
+        "keywords": [
+            "Barack Obama",
+            "democraat"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Democratic_Party_(United_States)>",
+            "<http://dbpedia.org/resource/Barack_Obama>"
+        ]
+    },
+    {
+        "context": "Hoeveel kinderen heeft Eddie Murphy?",
+        "id": 489,
+        "keywords": [
+            "kinderen",
+            "Eddie Murphy"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Eddie_Murphy>"
+        ]
+    },
+    {
+        "context": "Wie is het oudste kind van Meryl Streep?",
+        "id": 490,
+        "keywords": [
+            "oudste kind",
+            "Meryl Streep"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Meryl_Streep>"
+        ]
+    },
+    {
+        "context": "Wie heeft John Lennon vermoord?",
+        "id": 491,
+        "keywords": [
+            "John Lennon",
+            "vermoord"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Death_of_John_Lennon>",
+            "<http://dbpedia.org/ontology/Person>"
+        ]
+    },
+    {
+        "context": "Hoeveel wetenschappers hebben afgestudeerd aan een Ivy League-universiteit?",
+        "id": 493,
+        "keywords": [
+            "wetenschappers",
+            "afgestudeerd",
+            "Ivy League-universiteit"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Ivy_League>",
+            "<http://dbpedia.org/ontology/Scientist>"
+        ]
+    },
+    {
+        "context": "Welke soorten druiven groeien in Oregon?",
+        "id": 494,
+        "keywords": [
+            "soorten druiven",
+            "groeien",
+            "Oregon"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Oregon_wine>"
+        ]
+    },
+    {
+        "context": "Wie speeld in Spaanse films geproduceerd door Benicio del Toro?",
+        "id": 495,
+        "keywords": [
+            "speeld",
+            "Spaanse films",
+            "geproduceerd",
+            "Benicio del Toro"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Spain>",
+            "<http://dbpedia.org/resource/Benicio_del_Toro>",
+            "<http://dbpedia.org/ontology/Person>",
+            "<http://dbpedia.org/ontology/Film>"
+        ]
+    },
+    {
+        "context": "Wie is de algemeen directeur van Real Madrid?",
+        "id": 496,
+        "keywords": [
+            "algemeen directeur",
+            "Real Madrid"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Real_Madrid_C.F.>"
+        ]
+    },
+    {
+        "context": "Wat is de munteenheid van China?",
+        "id": 497,
+        "keywords": [
+            "munteenheid",
+            "China"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/China>"
+        ]
+    },
+    {
+        "context": "Welke films met Mickey Rourke werden geregisseerd door Guy Ritchie?",
+        "id": 498,
+        "keywords": [
+            "films",
+            "acteur",
+            "Mickey Rourke",
+            "geregisseerd",
+            "Guy Ritchie"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Guy_Ritchie>",
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Mickey_Rourke>"
+        ]
+    },
+    {
+        "context": "Is Darth Vader de vader van Luke?",
+        "id": 499,
+        "keywords": [
+            "Darth Vader",
+            "vader",
+            "Luke"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Darth_Vader>"
+        ]
+    },
+    {
+        "context": "Hoeveel bedrijven werden opgericht door de oprichter van Facebook?",
+        "id": 500,
+        "keywords": [
+            "bedrijven",
+            "opgericht",
+            "oprichter",
+            "Facebook"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Facebook>"
+        ]
+    },
+    {
+        "context": "Hoeveel bedrijven werden opgericht in hetzelfde jaar als Google?",
+        "id": 501,
+        "keywords": [
+            "bedrijven",
+            "opgericht",
+            "hetzelfde jaar",
+            "Google"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Google>",
+            "<http://dbpedia.org/ontology/Company>"
+        ]
+    },
+    {
+        "context": "Hoeveel luchtvaartmaatschappijen zijn lid van Star Alliance?",
+        "id": 502,
+        "keywords": [
+            "hoeveel",
+            "luchtvaartmaatschappijen",
+            "lid",
+            "Star Alliance?"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Star_Alliance>",
+            "<http://dbpedia.org/ontology/Airline>"
+        ]
+    },
+    {
+        "context": "Welke musicus schreef de meeste boeken?",
+        "id": 503,
+        "keywords": [
+            "musicus",
+            "schreef",
+            "de meeste boeken"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Book>",
+            "<http://dbpedia.org/resource/Musician>"
+        ]
+    },
+    {
+        "context": "Geef een lijst met iedereen die op Halloween is geboren.",
+        "id": 504,
+        "keywords": [
+            "persoon",
+            "geboren",
+            "Halloween"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Person>",
+            "<http://dbpedia.org/resource/Halloween>"
+        ]
+    },
+    {
+        "context": "In welk land ligt Mekka?",
+        "id": 505,
+        "keywords": [
+            "land",
+            "Mekka"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Mecca>"
+        ]
+    },
+    {
+        "context": "Wat is het nettowinst van Apple?",
+        "id": 506,
+        "keywords": [
+            "nettowinst",
+            "Apple"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Apple_Inc.>"
+        ]
+    },
+    {
+        "context": "Wanneer werd de Ming-dynastie beëindigd?",
+        "id": 507,
+        "keywords": [
+            "Ming-dynastie",
+            "beëindigd"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Ming_dynasty>"
+        ]
+    },
+    {
+        "context": "Welk museum in New York heeft de meeste bezoekers?",
+        "id": 508,
+        "keywords": [
+            "museum",
+            "New York",
+            "de meeste bezoekers"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Museum>",
+            "<http://dbpedia.org/resource/New_York_City>"
+        ]
+    },
+    {
+        "context": "Is het Baikalmeer groter dan het Groot Berenmeer?",
+        "id": 509,
+        "keywords": [
+            "Baikalmeer",
+            "groter",
+            "Groot Berenmeer"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Great_Bear_Lake>",
+            "<http://dbpedia.org/resource/Lake_Baikal>"
+        ]
+    },
+    {
+        "context": "Wat is de hoogste berg in Italië?",
+        "id": 510,
+        "keywords": [
+            "hoogste",
+            "berg",
+            "Italië"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Mountain>",
+            "<http://dbpedia.org/resource/Italy>"
+        ]
+    },
+    {
+        "context": "Waar heeft de architect van de Eiffeltoren gestudeerd?",
+        "id": 511,
+        "keywords": [
+            "architect",
+            "Eiffeltoren",
+            "gestudeerd"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Eiffel_Tower>"
+        ]
+    },
+    {
+        "context": "Welke Griekse partijen zijn pro-Europees?",
+        "id": 512,
+        "keywords": [
+            "Griekse partijen",
+            "pro-Europees"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Pro-Europeanism>",
+            "<http://dbpedia.org/resource/Greece>",
+            "<http://dbpedia.org/ontology/PoliticalParty>"
+        ]
+    },
+    {
+        "context": "Wie is de burgemeester van Rotterdam?",
+        "id": 513,
+        "keywords": [
+            "burgemeester",
+            "Rotterdam"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Rotterdam>"
+        ]
+    },
+    {
+        "context": "Hoe hoog is de vuurtoren van Colombo?",
+        "id": 514,
+        "keywords": [
+            "hoog",
+            "vuurtoren van Colombo"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Colombo_Lighthouse>"
+        ]
+    },
+    {
+        "context": "Hoeveel etnische groepen leven in Slovenië?",
+        "id": 516,
+        "keywords": [
+            "hoeveel",
+            "etnische groepen",
+            "Slovenië"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Slovenia>"
+        ]
+    },
+    {
+        "context": "Geef de seven koningen van Rome.",
+        "id": 517,
+        "keywords": [
+            "koningen",
+            "Rome"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/King_of_Rome>"
+        ]
+    },
+    {
+        "context": "Wie waren de ouders van Koningin Victoria?",
+        "id": 518,
+        "keywords": [
+            "ouders",
+            "Koningin Victoria"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Queen_Victoria>"
+        ]
+    },
+    {
+        "context": "Wie is de zwaarste speler van de Chicago Bulls?",
+        "id": 519,
+        "keywords": [
+            "zwaarste",
+            "speler",
+            "Chicago Bulls"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Person>"
+        ]
+    },
+    {
+        "context": "Welke Japanse vulkanen zijn uitgebarsten sinds 2000?",
+        "id": 520,
+        "keywords": [
+            "Japanse vulkanen",
+            "uitgebarsten",
+            "sinds 2000"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Volcano>",
+            "<http://dbpedia.org/resource/Japan>"
+        ]
+    },
+    {
+        "context": "Wie is de grootste basketballer?",
+        "id": 521,
+        "keywords": [
+            "grootste",
+            "basketballer"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/BasketballPlayer>"
+        ]
+    },
+    {
+        "context": "Wie is de presentator van de BBC Wildlife Specials?",
+        "id": 522,
+        "keywords": [
+            "presentator",
+            "BBC Wildlife Specials"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/BBC_Wildlife_Specials>"
+        ]
+    },
+    {
+        "context": "In welke stad bevindt zich de Heineken brouwerij?",
+        "id": 523,
+        "keywords": [
+            "stad",
+            "Heineken",
+            "brouwerij"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Heineken>"
+        ]
+    },
+    {
+        "context": "Wanneer vond Operatie Overlord plaats?",
+        "id": 524,
+        "keywords": [
+            "Operatie Overlord",
+            "datum"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Operation_Overlord>"
+        ]
+    },
+    {
+        "context": "Wie ontwikkelde Slack?",
+        "id": 525,
+        "keywords": [
+            "Slack",
+            "ontwikkelaar"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Slack_(software)>"
+        ]
+    },
+    {
+        "context": "Wie schreef het boek De Pilaren van de Aarde?",
+        "id": 526,
+        "keywords": [
+            "auteur",
+            "De Pilaren van de Aarde"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Pillars_of_the_Earth>"
+        ]
+    },
+    {
+        "context": "Wie ontdekte Ceres?",
+        "id": 527,
+        "keywords": [
+            "Ceres",
+            "ontdekker"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Ceres_(dwarf_planet)>"
+        ]
+    },
+    {
+        "context": "Wat is het grootse land ter wereld?",
+        "id": 528,
+        "keywords": [
+            "grootste land"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Country>"
+        ]
+    },
+    {
+        "context": "Wie is de burgemeester van Parijs?",
+        "id": 529,
+        "keywords": [
+            "burgemeester",
+            "Parijs"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Paris>"
+        ]
+    },
+    {
+        "context": "Wie is de coach van het ijshockey team van Ankara.",
+        "id": 530,
+        "keywords": [
+            "coach",
+            "ijshockey team",
+            "Ankara"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Turkish_Ice_Hockey_First_League>",
+            "<http://dbpedia.org/resource/Ankara>"
+        ]
+    },
+    {
+        "context": "Hoveel heeft de Lego Movie gekost?",
+        "id": 531,
+        "keywords": [
+            "Lego Movie",
+            "kosten"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Lego_Movie>"
+        ]
+    },
+    {
+        "context": "Waar begint Piccadilly?",
+        "id": 532,
+        "keywords": [
+            "Piccadilly",
+            "begin"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Piccadilly>"
+        ]
+    },
+    {
+        "context": "Hoeveel mensen wonen er in Polen?",
+        "id": 534,
+        "keywords": [
+            "Polen",
+            "inwoners"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Poland>"
+        ]
+    },
+    {
+        "context": "Speelt Christian Bale in Batman Begins?",
+        "id": 535,
+        "keywords": [
+            "Christian Bale",
+            "speelt in",
+            "Batman Begins"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Batman_Begins>",
+            "<http://dbpedia.org/resource/Christian_Bale>"
+        ]
+    },
+    {
+        "context": "Wie heeft Family Guy bedacht?",
+        "id": 537,
+        "keywords": [
+            "Family Guy",
+            "schepper"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Family_Guy>"
+        ]
+    },
+    {
+        "context": "Wie schreef het lied Hotel California?",
+        "id": 538,
+        "keywords": [
+            "lied",
+            "Hotel California",
+            "schrijver"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Hotel_California>"
+        ]
+    },
+    {
+        "context": "Wat heb je nodig voor chocolate chip cookies?",
+        "id": 539,
+        "keywords": [
+            "ingrediënten",
+            "chocolate chip cookie"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Chocolate_chip_cookie>"
+        ]
+    },
+    {
+        "context": "Speelt Neymar bij Real Madrid?",
+        "id": 540,
+        "keywords": [
+            "Neymar",
+            "spelen bij",
+            "Real Madrid"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Real_Madrid_C.F.>",
+            "<http://dbpedia.org/resource/Neymar>"
+        ]
+    },
+    {
+        "context": "Noem alle afleveringen van het eerste seizoen van de HBO-serie The Sopranos.",
+        "id": 542,
+        "keywords": [
+            "HBO-serie",
+            "The Sopranos",
+            "eerste seizoen",
+            "aflevering"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Sopranos>"
+        ]
+    },
+    {
+        "context": "Wie speelt Gus Fring in Breaking Bad?",
+        "id": 544,
+        "keywords": [
+            "Gus Fring",
+            "acteur",
+            "Breaking Bad"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Gus_Fring>"
+        ]
+    },
+    {
+        "context": "In welke oude imperium kon je met cacaobonen betalen?",
+        "id": 545,
+        "keywords": [
+            "oude imperium",
+            "betalen",
+            "cacaobonen"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Cocoa_bean>"
+        ]
+    },
+    {
+        "context": "Welke elektronica bedrijven zijn opgericht in Peking?",
+        "id": 546,
+        "keywords": [
+            "elektronica bedrijven",
+            "opgericht in",
+            "Peking"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Electronics>",
+            "<http://dbpedia.org/resource/Beijing>",
+            "<http://dbpedia.org/ontology/Company>"
+        ]
+    },
+    {
+        "context": "Wat is de hoofdstad van Kameroen?",
+        "id": 547,
+        "keywords": [
+            "hoofdstad",
+            "Kameroen"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Cameroon>"
+        ]
+    },
+    {
+        "context": "Welke regeringsvorm heeft Rusland?",
+        "id": 549,
+        "keywords": [
+            "regeringsvorm",
+            "Rusland"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Russia>"
+        ]
+    },
+    {
+        "context": "Welke Indiase bedrijf heeft de meeste werknemers?",
+        "id": 551,
+        "keywords": [
+            "Indiase bedrijf",
+            "de meeste werknemers"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/India>",
+            "<http://dbpedia.org/ontology/Company>"
+        ]
+    },
+    {
+        "context": "Wie is de president van Eritrea?",
+        "id": 552,
+        "keywords": [
+            "president",
+            "Eritrea"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Eritrea>"
+        ]
+    },
+    {
+        "context": "Hoveel films heeft Stanley Kubrick geregisseerd?",
+        "id": 553,
+        "keywords": [
+            "films",
+            "Stanley Kubrick",
+            "regisseur"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Stanley_Kubrick>"
+        ]
+    },
+    {
+        "context": "Welke dochteronderneming van Lufthansa bedient zowel Dortmund en Berlin Tegel?",
+        "id": 555,
+        "keywords": [
+            "dochteronderneming",
+            "Lufthansa",
+            "bedient",
+            "Dortmund",
+            "Berlin Tegel"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Dortmund_Airport>",
+            "<http://dbpedia.org/resource/Berlin_Tegel_Airport>",
+            "<http://dbpedia.org/resource/Lufthansa>"
+        ]
+    },
+    {
+        "context": "Wie was de opvolger van John F. Kennedy?",
+        "id": 556,
+        "keywords": [
+            "John F. Kennedy",
+            "opvolger"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/John_F._Kennedy>"
+        ]
+    },
+    {
+        "context": "Door wie is de filmmuziek van Camerons Titanic geschreven?",
+        "id": 557,
+        "keywords": [
+            "filmmuziek",
+            "Camerons Titanic",
+            "componist"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Titanic_(1997_film)>"
+        ]
+    },
+    {
+        "context": "In welke tijdzone zit Rome?",
+        "id": 558,
+        "keywords": [
+            "Rome",
+            "tijdzone"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Rome>"
+        ]
+    },
+    {
+        "context": "Wie heeft DBpedia ontwikkeld?",
+        "id": 560,
+        "keywords": [
+            "DBpedia",
+            "ontwikkelaar"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/DBpedia>"
+        ]
+    },
+    {
+        "context": "Wie is de koning van Nederland?",
+        "id": 562,
+        "keywords": [
+            "koning",
+            "Nederland"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Netherlands>",
+            "<http://dbpedia.org/ontology/Royalty>"
+        ]
+    },
+    {
+        "context": "In welke stad is Nikos Kazantzakis overleden?",
+        "id": 563,
+        "keywords": [
+            "Nikos Kazantzakis",
+            "overleden",
+            "stad"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Town>",
+            "<http://dbpedia.org/resource/Nikos_Kazantzakis>"
+        ]
+    },
+    {
+        "context": "Geef een lijst met alle ernstig bedreigde vogelsoorten.",
+        "id": 564,
+        "keywords": [
+            "vogels",
+            "ernstig bedreigd"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Bird>"
+        ]
+    },
+    {
+        "context": "Welke bedrijven produceren hovercrafts?",
+        "id": 565,
+        "keywords": [
+            "bedrijven",
+            "produceren",
+            "hovercrafts"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Hovercraft>",
+            "<http://dbpedia.org/ontology/Company>"
+        ]
+    },
+    {
+        "context": "Had Elvis Presley kinderen?",
+        "id": 566,
+        "keywords": [
+            "Elvis Presley",
+            "kinderen"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Elvis_Presley>"
+        ]
+    },
+    {
+        "context": "In welke landen wordt Japans gesproken?",
+        "id": 567,
+        "keywords": [
+            "landen",
+            "taal",
+            "Japans"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Country>",
+            "<http://dbpedia.org/resource/Japanese_language>"
+        ]
+    },
+    {
+        "context": "Wat was het eerste Queen-album?",
+        "id": 568,
+        "keywords": [
+            "eerste Queen-album"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Queen_(band)>",
+            "<http://dbpedia.org/ontology/Album>"
+        ]
+    },
+    {
+        "context": "Uit welke land komt Sitecore?",
+        "id": 569,
+        "keywords": [
+            "land",
+            "Sitecore"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Sitecore>"
+        ]
+    },
+    {
+        "context": "Wie heeft van Gogh geinspireerd?",
+        "id": 570,
+        "keywords": [
+            "van Gogh",
+            "geinspireerd"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Vincent_van_Gogh>"
+        ]
+    },
+    {
+        "context": "Wie heeft de titelmuziek van Game of Thrones gekomponeerd?",
+        "id": 571,
+        "keywords": [
+            "titelmuziek",
+            "Game of Thrones",
+            "componist"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Game_of_Thrones>"
+        ]
+    },
+    {
+        "context": "Wanneer stopte Boris Becker zijn actieve loopbaan?",
+        "id": 572,
+        "keywords": [
+            "Boris Becker",
+            "actieve loopbaan",
+            "einde"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Boris_Becker>"
+        ]
+    },
+    {
+        "context": "Tot welke partij behoort de burgemeester van Parijs?",
+        "id": 573,
+        "keywords": [
+            "partij",
+            "burgemeester",
+            "Parijs"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Paris>"
+        ]
+    },
+    {
+        "context": "Wie was de promotor van Albert Einsteins doctoraatsonderzoek?",
+        "id": 574,
+        "keywords": [
+            "Albert Einstein",
+            "promotor"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Albert_Einstein>"
+        ]
+    },
+    {
+        "context": "In welke stad woont Sylvester Stallone?",
+        "id": 575,
+        "keywords": [
+            "stad",
+            "wonen",
+            "Sylvester Stallone"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Sylvester_Stallone>",
+            "<http://dbpedia.org/ontology/City>"
+        ]
+    },
+    {
+        "context": "Wie is de zoon van Sonny en Cher?",
+        "id": 576,
+        "keywords": [
+            "zoon",
+            "Sonny",
+            "Cher"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Sonny_Bono>",
+            "<http://dbpedia.org/resource/Cher>"
+        ]
+    },
+    {
+        "context": "In welke stad bevindt zich het hoofdkwartier van de Verenigde Naties?",
+        "id": 577,
+        "keywords": [
+            "stad",
+            "hoofdkwartier",
+            "Verenigde Naties"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Headquarters_of_the_United_Nations>",
+            "<http://dbpedia.org/ontology/City>"
+        ]
+    },
+    {
+        "context": "Toen de autobiografie van Hemmingway.",
+        "id": 579,
+        "keywords": [
+            "Hemmingway",
+            "autobiografie"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Autobiography>",
+            "<http://dbpedia.org/resource/Ernest_Hemingway>"
+        ]
+    },
+    {
+        "context": "Heeft Kaurismäki ooit de Grand Prix op het filmfestival van Cannes gewonnen?",
+        "id": 583,
+        "keywords": [
+            "Kaurismäki",
+            "winnaar",
+            "Grand Prix",
+            "Cannes"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Aki_Kaurismäki>",
+            "<http://dbpedia.org/resource/Grand_Prix_(Cannes_Film_Festival)>"
+        ]
+    },
+    {
+        "context": "Waar ligt Syngman Rhee begraven?",
+        "id": 584,
+        "keywords": [
+            "Syngman Rhee",
+            "begrafplaats"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Syngman_Rhee>"
+        ]
+    },
+    {
+        "context": "Toon alle boeken die bij de Foundation-serie horen.",
+        "id": 585,
+        "keywords": [
+            "boeken",
+            "Foundation-serie"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Foundation_series>"
+        ]
+    },
+    {
+        "context": "Hoe hoog is de Yokohama Marine Tower?",
+        "id": 586,
+        "keywords": [
+            "hoog",
+            "Yokohama Marine Tower"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Yokohama_Marine_Tower>"
+        ]
+    },
+    {
+        "context": "Heeft de nieuwe Battlestar Galactica-serie meer afleveringen dan de oude?",
+        "id": 587,
+        "keywords": [
+            "nieuwe Battlestar Galactica-serie",
+            "meer afleveringen",
+            "oude Battlestar Galactica-serie"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Battlestar_Galactica_%282004_TV_series%29>",
+            "<http://dbpedia.org/resource/Battlestar_Galactica_%281978_TV_series%29>"
+        ]
+    },
+    {
+        "context": "Wat is het grootste stadion van Spanje?",
+        "id": 589,
+        "keywords": [
+            "grootste stadion",
+            "Spanje"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Stadium>",
+            "<http://dbpedia.org/resource/Spain>"
+        ]
+    },
+    {
+        "context": "Wat zijn de fijv wijken van New York?",
+        "id": 590,
+        "keywords": [
+            "New York",
+            "wijken"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Borough_(New_York_City)>"
+        ]
+    },
+    {
+        "context": "Wanneer is prinses Diana overleden?",
+        "id": 591,
+        "keywords": [
+            "prinses Diana",
+            "overleden",
+            "datum"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Diana,_Princess_of_Wales>"
+        ]
+    },
+    {
+        "context": "",
+        "id": 710,
+        "keywords": [
+            "Urdu",
+            "Perzisch",
+            "gemeenschappelijk wortel"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Urdu>",
+            "<http://dbpedia.org/resource/Persian_language>"
+        ]
+    },
+    {
+        "context": "Lijst alle bordspellen door GMT. ",
+        "id": 748,
+        "keywords": [
+            "bordspel",
+            "GMT"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/GMT_Games>"
+        ]
+    },
+    {
+        "context": "Wie ontwikkelde Skype? ",
+        "id": 749,
+        "keywords": [
+            "ontwikkelen",
+            "Skype"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Skype>"
+        ]
+    },
+    {
+        "context": "Welke mensen waren geboren in Heraklion? ",
+        "id": 750,
+        "keywords": [
+            "mensen",
+            "geboren",
+            "heraklion"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Person>",
+            "<http://dbpedia.org/resource/Heraklion>"
+        ]
+    },
+    {
+        "context": "In welke US staat is Gebied 51 gelegen? ",
+        "id": 751,
+        "keywords": [
+            "Gebied 51",
+            "gelegen",
+            "US staat"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/United_States>",
+            "<http://dbpedia.org/resource/Area_51>"
+        ]
+    },
+    {
+        "context": "Wie is de burgemeester van New York?",
+        "id": 752,
+        "keywords": [
+            "burgemeester",
+            "New York"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/New_York_City>"
+        ]
+    },
+    {
+        "context": "Welke landen hebben plaatsen met meer dan twee grotten?",
+        "id": 753,
+        "keywords": [
+            "land",
+            "plaatsen",
+            "grotten",
+            "meer dan twee"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Cave>",
+            "<http://dbpedia.org/ontology/Country>"
+        ]
+    },
+    {
+        "context": "Waar deed Abraham Lincoln het? ",
+        "id": 754,
+        "keywords": [
+            "Abraham Lincoln",
+            "de"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Abraham_Lincoln>"
+        ]
+    },
+    {
+        "context": "Geef alle acteurs van films waar William Shatner de regie van voerde en in meespeelde.",
+        "id": 756,
+        "keywords": [
+            "acteur",
+            "film",
+            "regisseur",
+            "meespelen",
+            "William Shatner"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/William_Shatner>"
+        ]
+    },
+    {
+        "context": "Wat zijn de  officiële talen van de Filippijnen?",
+        "id": 757,
+        "keywords": [
+            "officiële talen",
+            "Filippijnen"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Philippines>"
+        ]
+    },
+    {
+        "context": "Welke films met Brad Pitt werden geregisseerd door Guy Ritchie?",
+        "id": 759,
+        "keywords": [
+            "films",
+            "acteur",
+            "Brad Pitt",
+            "geregisseerd",
+            "Guy Ritchie"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Guy_Ritchie>",
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Brad_Pitt>"
+        ]
+    },
+    {
+        "context": "Toon alle kleinkinderen van Bruce Lee.",
+        "id": 760,
+        "keywords": [
+            "Bruce Lee",
+            "kleinkinderen"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Bruce_Lee>"
+        ]
+    },
+    {
+        "context": "Welke organisaties werden opgericht in 1950?",
+        "id": 764,
+        "keywords": [
+            "organisatie",
+            "opgericht",
+            "1950"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Organisation>"
+        ]
+    },
+    {
+        "context": "Geef de astronauten van Apollo 14.",
+        "id": 765,
+        "keywords": [
+            "astronaut",
+            "Apollo 14"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Apollo_14>"
+        ]
+    },
+    {
+        "context": "Wie schreef de boek De pijlers van de Aarde? ",
+        "id": 766,
+        "keywords": [
+            "schreef",
+            "boek",
+            "De pijlers van de Aarde"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Pillars_of_the_Earth>"
+        ]
+    },
+    {
+        "context": "Welke ruimtevluchten werden gestart vanuit Baikonur?",
+        "id": 768,
+        "keywords": [
+            "ruimtevluchten",
+            "gestart",
+            "Baikonur"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Baikonur_Cosmodrome>"
+        ]
+    },
+    {
+        "context": "Geef me een lijst van alle trompettisten die bandleider waren.",
+        "id": 769,
+        "keywords": [
+            "trompettist",
+            "bandleider"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Bandleader>",
+            "<http://dbpedia.org/resource/Trumpet>"
+        ]
+    },
+    {
+        "context": "Met wie is de dochter van Ingrid Bergman getrouwd?",
+        "id": 772,
+        "keywords": [
+            "Ingrid Bergman",
+            "dochter",
+            "getrouwd"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Ingrid_Bergman>"
+        ]
+    },
+    {
+        "context": "Hoe diep is Lake Placid?",
+        "id": 773,
+        "keywords": [
+            "Lake Placid",
+            "diepte"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Lake_Placid_(Texas)>"
+        ]
+    },
+    {
+        "context": "Toen alle museums in Londen.",
+        "id": 774,
+        "keywords": [
+            "Londen",
+            "museums"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Museum>",
+            "<http://dbpedia.org/resource/London>"
+        ]
+    },
+    {
+        "context": "Toen alle basketbalspelers die grooter zijn dan 2 meter.",
+        "id": 779,
+        "keywords": [
+            "basketbalspelers",
+            "groter dan",
+            "2 meter"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/BasketballPlayer>"
+        ]
+    },
+    {
+        "context": "In welke films speelt Jesse Eisenberg?",
+        "id": 780,
+        "keywords": [
+            "films",
+            "acteur",
+            "Jesse Eisenberg"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Jesse_Eisenberg>"
+        ]
+    },
+    {
+        "context": "Noem alle Zwitserse organisaties zonder winstoogmerk.",
+        "id": 783,
+        "keywords": [
+            "Zwitserse",
+            "organisaties zonder winstoogmerk"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Nonprofit_organization>"
+        ]
+    },
+    {
+        "context": "Welke soort muziek heeft Lou Reed gemaakt?",
+        "id": 785,
+        "keywords": [
+            "Lou Reed",
+            "soort muziek"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Lou_Reed>"
+        ]
+    },
+    {
+        "context": "Waar spelen de Red Sox?",
+        "id": 786,
+        "keywords": [
+            "Red Sox",
+            "spelen"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Boston_Red_Sox>"
+        ]
+    },
+    {
+        "context": "Toon de hoofdsteden van alle landen waardoor de Himalaya loopt.",
+        "id": 793,
+        "keywords": [
+            "Himalaya",
+            "lopen door",
+            "landen",
+            "hoofdsteden"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Himalayas>"
+        ]
+    },
+    {
+        "context": "In welke films spelen zowel Liz Taylor als Richard Burton mee?",
+        "id": 801,
+        "keywords": [
+            "films",
+            "acteur",
+            "Liz Taylor",
+            "Richard Burton"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Richard_Burton>",
+            "<http://dbpedia.org/resource/Elizabeth_Taylor>"
+        ]
+    },
+    {
+        "context": "Geef alle ESA-astronauten.",
+        "id": 802,
+        "keywords": [
+            "ESA-astronauten"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/European_Space_Agency>",
+            "<http://dbpedia.org/ontology/Astronaut>"
+        ]
+    },
+    {
+        "context": "Welke bieren komen uit Ierland?",
+        "id": 807,
+        "keywords": [
+            "bieren",
+            "komen uit",
+            "Ierland"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Beer_in_Ireland>",
+            "<http://dbpedia.org/resource/Beer>"
+        ]
+    },
+    {
+        "context": "Over welke landen strekt de Himalaya zich uit?",
+        "id": 808,
+        "keywords": [
+            "Himalaya",
+            "land",
+            "uitstrekken"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Himalayas>"
+        ]
+    },
+    {
+        "context": "In welke stad is de voormalige Nederlandse koningin Juliana bijgezet?",
+        "id": 814,
+        "keywords": [
+            "stad",
+            "koningin Juliana",
+            "bijzetting"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Juliana_of_the_Netherlands>",
+            "<http://dbpedia.org/ontology/Settlement>"
+        ]
+    },
+    {
+        "context": "Welke schrijvers hebben in Istanbul gestudeerd?",
+        "id": 818,
+        "keywords": [
+            "schrijvers",
+            "Istanbul",
+            "gestudeerd"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Writer>"
+        ]
+    },
+    {
+        "context": "Welke acteur heeft Chewbacca gespeeld?",
+        "id": 826,
+        "keywords": [
+            "acteur",
+            "spelen",
+            "Chewbacca"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Chewbacca>"
+        ]
+    },
+    {
+        "context": "Welke luchtvaartmaatschappijen zijn lid van de SkyTeam alliantie?",
+        "id": 830,
+        "keywords": [
+            "luchtvaartmaatschappijen",
+            "lid van",
+            "SkyTeam alliantie"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Airline>"
+        ]
+    },
+    {
+        "context": "Wat anders boeken hebben geweest geschreven door de auteur van De fout in Onze Stars? ",
+        "id": 832,
+        "keywords": [
+            "boeken",
+            "auteur",
+            "De fout in Onze Stars"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/John_Green_(author)>"
+        ]
+    },
+    {
+        "context": "Wie heeft De Hongerspelen geschreven?",
+        "id": 839,
+        "keywords": [
+            "geschreven",
+            "De Hongerspelen"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Hunger_Games>"
+        ]
+    },
+    {
+        "context": "Wat is de kleinste stad door Gebied in Duitsland? ",
+        "id": 853,
+        "keywords": [
+            "kleinste",
+            "stad",
+            "Duitsland"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Category:Cities_in_Germany>"
+        ]
+    },
+    {
+        "context": "Wie speelde Agent Smith in Matrix?",
+        "id": 858,
+        "keywords": [
+            "speelde",
+            "Agent Smith",
+            "Matrix"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Agent_Smith>"
+        ]
+    },
+    {
+        "context": "In welke staat van de Verenigde Staten ligt Fort Knox?",
+        "id": 867,
+        "keywords": [
+            "Fort Knox",
+            "staat van de Verenigde Staten",
+            "ligt"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Fort_Knox>",
+            "<http://dbpedia.org/resource/United_States>"
+        ]
+    },
+    {
+        "context": "Wat is de De grootste stad in Amerika? ",
+        "id": 879,
+        "keywords": [
+            "De grootste",
+            "stad",
+            "Amerika"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/United_States>"
+        ]
+    },
+    {
+        "context": "Wat is de alma mater van de kanselier van Duitsland Angela Merkel? ",
+        "id": 880,
+        "keywords": [
+            "Angela Merkel"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Angela_Merkel>"
+        ]
+    },
+    {
+        "context": "Waar is de geboorteplaats van Goethe? ",
+        "id": 881,
+        "keywords": [
+            "Goethe"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Johann_Wolfgang_von_Goethe>"
+        ]
+    },
+    {
+        "context": "Wat is de hoogst berg- in Saksen Duitsland? ",
+        "id": 884,
+        "keywords": [
+            "hoogst",
+            "berg-",
+            "Saksen",
+            "Duitsland"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Ore_Mountains>"
+        ]
+    },
+    {
+        "context": "Wie is de actueel federaal minister van financiën in Duitsland? ",
+        "id": 885,
+        "keywords": [
+            "federaal minister van financiën",
+            "Duitsland"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Federal_Ministry_of_Finance_(Germany)>"
+        ]
+    },
+    {
+        "context": "In welke staat Penn Staat Universiteit is gelegen? ",
+        "id": 887,
+        "keywords": [
+            "Penn Staat Universiteit"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Pennsylvania_State_University>"
+        ]
+    },
+    {
+        "context": "Hoe groot is de Gebied van UK? ",
+        "id": 889,
+        "keywords": [
+            "Gebied",
+            "UK"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/United_Kingdom>"
+        ]
+    },
+    {
+        "context": "hoe veel is de verhoging van Düsseldorf Luchthaven ? ",
+        "id": 890,
+        "keywords": [
+            "Düsseldorf Luchthaven"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Düsseldorf_Airport>"
+        ]
+    },
+    {
+        "context": "Hoe veel is de bevolking van Mexico stad ? ",
+        "id": 891,
+        "keywords": [
+            "Mexico stad"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Mexico_City>"
+        ]
+    },
+    {
+        "context": "wanneer was de oprichten datum van Frans vijfde republiek? ",
+        "id": 892,
+        "keywords": [
+            "Frans vijfde republiek"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/French_Fifth_Republic>"
+        ]
+    },
+    {
+        "context": "Wanneer was de laatste aflevering van de TV serie vrienden uitgezonden? ",
+        "id": 894,
+        "keywords": [
+            "laatste aflevering",
+            "vrienden TV laten zien"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Friends>"
+        ]
+    },
+    {
+        "context": "Wie is 8ste president van ONS? ",
+        "id": 895,
+        "keywords": [
+            "8ste President",
+            "Verenigde Staten van Amerika"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/8th_President_of_the_United_States>"
+        ]
+    },
+    {
+        "context": "hoe veel is de totaal bevolking van Europese unie? ",
+        "id": 896,
+        "keywords": [
+            "Europese unie"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/European_Union>"
+        ]
+    },
+    {
+        "context": "Wat is de geboorte naam van Adele? ",
+        "id": 897,
+        "keywords": [
+            "Adele"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Adele>"
+        ]
+    },
+    {
+        "context": "Wat is de bevolking van Cairo? ",
+        "id": 898,
+        "keywords": [
+            "bevolking",
+            "Cairo"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Cairo>"
+        ]
+    },
+    {
+        "context": "Waar is Sungkyunkwan Universiteit? ",
+        "id": 901,
+        "keywords": [
+            "Sungkyunkwan",
+            "Universiteit"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Sungkyunkwan_University>"
+        ]
+    },
+    {
+        "context": "Wie is de auteur van de interpretatie van dromen? ",
+        "id": 902,
+        "keywords": [
+            "Dromen"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Interpretation_of_Dreams>"
+        ]
+    },
+    {
+        "context": "Wanneer was de dood van Shakespeare? ",
+        "id": 903,
+        "keywords": [
+            "Shakespeare"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/William_Shakespeare>"
+        ]
+    },
+    {
+        "context": "Waar is de oorsprong van Carolina maaimachine? ",
+        "id": 905,
+        "keywords": [
+            "Carolina maaimachine"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Carolina_Reaper>"
+        ]
+    },
+    {
+        "context": "Welke soorten doet een olifant behoren? ",
+        "id": 908,
+        "keywords": [
+            "soorten",
+            "olifant"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Elephant>"
+        ]
+    },
+    {
+        "context": "Met hoe veel landen Ik rende heeft grenzen? ",
+        "id": 909,
+        "keywords": [
+            "Ik rende",
+            "borders"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Geography_of_Iran>"
+        ]
+    },
+    {
+        "context": "hoe groot is de totaal Gebied van noorden Rijn Westfalen? ",
+        "id": 911,
+        "keywords": [
+            "noorden Rijn Westfalen"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/North_Rhine-Westphalia>"
+        ]
+    },
+    {
+        "context": "Wat is Donald Trump hoofd bedrijf? ",
+        "id": 912,
+        "keywords": [
+            "Donald Trump",
+            "bedrijf"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Donald_Trump>"
+        ]
+    },
+    {
+        "context": "Wanneer zullen begin de laatste bij elkaar passen van de voetbal wereld- kop 2018? ",
+        "id": 913,
+        "keywords": [
+            "voetbal wereld- kop 2018"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/2018_FIFA_World_Cup>"
+        ]
+    },
+    {
+        "context": "hoe veel is de bevolking Irak? ",
+        "id": 914,
+        "keywords": [
+            "Irak"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Iraq>"
+        ]
+    },
+    {
+        "context": "hoe veel is de bevolking dichtheid rang van Duitsland? ",
+        "id": 915,
+        "keywords": [
+            "Duitsland"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Germany>"
+        ]
+    },
+    {
+        "context": "Wie zijn de schrijvers van de Muur album van Roze Floyd? ",
+        "id": 918,
+        "keywords": [
+            "de muur"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Wall>"
+        ]
+    },
+    {
+        "context": "Welke dieren zijn kritiek bedreigd?",
+        "id": 0,
+        "keywords": [
+            "dieren",
+            "kritiek bedreigd"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Animal>"
+        ]
+    },
+    {
+        "context": "Uit wie bestond de bemanning van Apollo 11?",
+        "id": 1,
+        "keywords": [
+            "Apollo 11",
+            "bemanning"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Apollo_11>"
+        ]
+    },
+    {
+        "context": "Waaruit bestaat de atmosfeer van de maan?",
+        "id": 2,
+        "keywords": [
+            "maan",
+            "atmosfeer",
+            "bestanddelen"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Moon>"
+        ]
+    },
+    {
+        "context": "Wanneer vond de Boston Tea Party plaats?",
+        "id": 3,
+        "keywords": [
+            "Boston Tea Party",
+            "datum"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Boston_Tea_Party>"
+        ]
+    },
+    {
+        "context": "Wie heeft Harry Potter geschreven?",
+        "id": 4,
+        "keywords": [
+            "Harry Potter",
+            "schrijfster"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Harry_Potter>"
+        ]
+    },
+    {
+        "context": "Welke acteurs spelem mee in Big Bang Theory?",
+        "id": 5,
+        "keywords": [
+            "Big Bang Theory",
+            "acteurs"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Big_Bang_Theory>"
+        ]
+    },
+    {
+        "context": "Wie spreekt de stem van Bart Simpson?",
+        "id": 6,
+        "keywords": [
+            "Bart Simpson",
+            "stem"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Bart_Simpson>"
+        ]
+    },
+    {
+        "context": "Wat is de langste rivier in China?",
+        "id": 8,
+        "keywords": [
+            "langste rivier",
+            "China"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/China>",
+            "<http://dbpedia.org/ontology/River>"
+        ]
+    },
+    {
+        "context": "Hoeveel manen heeft Mars?",
+        "id": 9,
+        "keywords": [
+            "antaal",
+            "manen",
+            "Mars"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Mars>"
+        ]
+    },
+    {
+        "context": "Toen een lijst van alle Canadeze die in de VS wonen.",
+        "id": 10,
+        "keywords": [
+            "Canadeze",
+            "wonen in",
+            "VS"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/United_States>",
+            "<http://dbpedia.org/resource/Canada>"
+        ]
+    },
+    {
+        "context": "Wanneer is de dodo uitgestorven?",
+        "id": 11,
+        "keywords": [
+            "dodo",
+            "uitgestorven"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Dodo>"
+        ]
+    },
+    {
+        "context": "Toen alle Tsjechische films.",
+        "id": 12,
+        "keywords": [
+            "Tsjechische films"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Czech_Republic>"
+        ]
+    },
+    {
+        "context": "Welke rivieren stromen in de Noordzee?",
+        "id": 13,
+        "keywords": [
+            "rivieren",
+            "stromen in",
+            "Nordzee"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/North_Sea>",
+            "<http://dbpedia.org/ontology/River>"
+        ]
+    },
+    {
+        "context": "Welke landen hebben meer dan tien vulkanen?",
+        "id": 14,
+        "keywords": [
+            "landen",
+            "meer dan tien",
+            "vulkanen"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Country>",
+            "<http://dbpedia.org/ontology/Volcano>"
+        ]
+    },
+    {
+        "context": "Toen alle wandelroutes in de Grand Canyon zonder gevaar van stortvloeden.",
+        "id": 16,
+        "keywords": [
+            "wandelroutes",
+            "Grand Canyon",
+            "gevaar",
+            "stortvloed"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Grand_Canyon>"
+        ]
+    },
+    {
+        "context": "Hoe is Michael Jackson overleden?",
+        "id": 17,
+        "keywords": [
+            "Michael Jackson",
+            "doodsoorzaak"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Michael_Jackson>"
+        ]
+    },
+    {
+        "context": "Wanneer is Columbusdag?",
+        "id": 18,
+        "keywords": [
+            "Columbusdag"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Columbus_Day>"
+        ]
+    },
+    {
+        "context": "Hoe klein is de kleinste NBA speler?",
+        "id": 19,
+        "keywords": [
+            "grote",
+            "kleinste NBA speler"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/BasketballPlayer>",
+            "<http://dbpedia.org/resource/National_Basketball_Association>"
+        ]
+    },
+    {
+        "context": "Welke talen spreken ze in Pakistan?",
+        "id": 20,
+        "keywords": [
+            "Pakistan",
+            "talen"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Pakistan>"
+        ]
+    },
+    {
+        "context": "Wie werd president naar de dood van JFK?",
+        "id": 21,
+        "keywords": [
+            "president",
+            "naar",
+            "dood",
+            "JFK"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/John_F._Kennedy>"
+        ]
+    },
+    {
+        "context": "Waarvoor is Elon Musk beroemd?",
+        "id": 22,
+        "keywords": [
+            "Elon Musk",
+            "beroemd voor"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Elon_Musk>"
+        ]
+    },
+    {
+        "context": "In welke tijdzone ligt Salt Lake City?",
+        "id": 39,
+        "keywords": [
+            "Salt Lake City",
+            "tijdzone"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Salt_Lake_City>"
+        ]
+    },
+    {
+        "context": "Wat is de hoogst berg- in Duitsland? ",
+        "id": 40,
+        "keywords": [
+            "hoogst",
+            "berg-",
+            "Duitsland"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Mountain>",
+            "<http://dbpedia.org/resource/Germany>"
+        ]
+    },
+    {
+        "context": "Welke kunstenaars zijn op dezelfde dag als Rachel Stevens geboren?",
+        "id": 43,
+        "keywords": [
+            "kunstenaars",
+            "geboren",
+            "op dezelfde dag",
+            "Rachel Stevens"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Rachel_Stevens>",
+            "<http://dbpedia.org/ontology/Artist>"
+        ]
+    },
+    {
+        "context": "Wat is de beroep van openhartig Herbert? ",
+        "id": 44,
+        "keywords": [
+            "beroep",
+            "openhartig",
+            "Herbert"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Frank_Herbert>"
+        ]
+    },
+    {
+        "context": "Wat is het frequent flyer-programma met de meeste luchtvaartmaatschappijen?",
+        "id": 46,
+        "keywords": [
+            "frequent flyer-programma",
+            "meeste luchtvaartmaatschappijen"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Airline>"
+        ]
+    },
+    {
+        "context": "Welke Europese landen zijn een constitutionele monarchie?",
+        "id": 47,
+        "keywords": [
+            "Europees land",
+            "constitutionele monarchie"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Category:Countries_in_Europe>",
+            "<http://dbpedia.org/resource/Constitutional_monarchy>"
+        ]
+    },
+    {
+        "context": "Wat zijn bijnamen van San Francisco?",
+        "id": 48,
+        "keywords": [
+            "bijnaam",
+            "San Francisco"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/San_Francisco>"
+        ]
+    },
+    {
+        "context": "Welke landen in de Europese Unie hebben de Euro geïntroduceerd?",
+        "id": 50,
+        "keywords": [
+            "land",
+            "Europese Unie",
+            "Euro",
+            "geïntroduceerd"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Country>"
+        ]
+    },
+    {
+        "context": "Welke software heeft geweest gepubliceerd door Gemiddelde Hamster Software? ",
+        "id": 51,
+        "keywords": [
+            "software",
+            "gepubliceerd",
+            "hamster",
+            "software"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Software>"
+        ]
+    },
+    {
+        "context": "Noem alle professionele skateboarders uit Zweden.",
+        "id": 54,
+        "keywords": [
+            "skateboarder",
+            "professioneel",
+            "Zweden"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Skateboarder>"
+        ]
+    },
+    {
+        "context": "Welke staat van de Verenigde Staten is als laatste toegetreden?",
+        "id": 57,
+        "keywords": [
+            "staat van de Verenigde Staten",
+            "toetreding"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Category:States_of_the_United_States>"
+        ]
+    },
+    {
+        "context": "Welke klasse doet de duizendpoot behoren naar? ",
+        "id": 58,
+        "keywords": [
+            "duizendpoot",
+            "klasse",
+            "behoren"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Millipede>"
+        ]
+    },
+    {
+        "context": "Geef de homepage van Forbes.",
+        "id": 59,
+        "keywords": [
+            "homepage",
+            "Forbes"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Forbes>"
+        ]
+    },
+    {
+        "context": "Wie is de echtgenoot van Amanda Palmer?",
+        "id": 60,
+        "keywords": [
+            "Amanda Palmer",
+            "echtgenoot"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Amanda_Palmer>"
+        ]
+    },
+    {
+        "context": "Wanneer deed Finland toetreden de VS? ",
+        "id": 62,
+        "keywords": [
+            "Finland",
+            "Europese Unie",
+            "toetreden"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Finland>"
+        ]
+    },
+    {
+        "context": "Welke informaticus won een Oscar?",
+        "id": 63,
+        "keywords": [
+            "informaticus",
+            "winnen",
+            "Oscar"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Academy_Award>",
+            "<http://dbpedia.org/resource/Computer_science>"
+        ]
+    },
+    {
+        "context": "Toen Brits acteurs met een rol in Lovesick.",
+        "id": 64,
+        "keywords": [
+            "Brits acteurs",
+            "rol in",
+            "Lovesick"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Lovesick_(1983_film)>",
+            "<http://dbpedia.org/resource/United_Kingdom>"
+        ]
+    },
+    {
+        "context": "In welke stad is de president van Montenegro geboren?",
+        "id": 65,
+        "keywords": [
+            "president",
+            "Montenegro",
+            "geboortestad"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/President_of_Montenegro>",
+            "<http://dbpedia.org/resource/Capital_city>"
+        ]
+    },
+    {
+        "context": "Wat is de echte naam van Batman?",
+        "id": 68,
+        "keywords": [
+            "Batman",
+            "echte naam"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Batman>"
+        ]
+    },
+    {
+        "context": "Wie is de auteur van WikiLeaks? ",
+        "id": 69,
+        "keywords": [
+            "auteur",
+            "wikileaks"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/WikiLeaks>"
+        ]
+    },
+    {
+        "context": "Sean Parnell was de gouverneur van welke Amerikaanse staat?",
+        "id": 70,
+        "keywords": [
+            "Amerikaanse staat",
+            "gouverneur",
+            "Sean Parnell"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Sean_Parnell>"
+        ]
+    },
+    {
+        "context": "Wie was de vrouw van President Lincoln? ",
+        "id": 71,
+        "keywords": [
+            "vrouw",
+            "president",
+            "lincoln"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Abraham_Lincoln>"
+        ]
+    },
+    {
+        "context": "Welke ruimtesonden vlogen in een baan om de zon?",
+        "id": 73,
+        "keywords": [
+            "ruimtesonden",
+            "baan om",
+            "zon"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Category:Missions_to_the_Sun>"
+        ]
+    },
+    {
+        "context": "Hoeveel studenten heeft de Vrije Universiteit in Amsterdam?",
+        "id": 74,
+        "keywords": [
+            "Vrije Universiteit",
+            "Amsterdam",
+            "studenten"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Vrije_Universiteit_Amsterdam>"
+        ]
+    },
+    {
+        "context": "Wat is de omzet van IBM? ",
+        "id": 75,
+        "keywords": [
+            "omzet",
+            "ibm"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/IBM>"
+        ]
+    },
+    {
+        "context": "Wie was Tom Hanks getrouwd naar? ",
+        "id": 76,
+        "keywords": [
+            "Tom",
+            "Hanks",
+            "getrouwd"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Tom_Hanks>"
+        ]
+    },
+    {
+        "context": "Geef alle ruimtetuigen die naar Mars werden gestuurd.",
+        "id": 78,
+        "keywords": [
+            "ruimtetuigen",
+            "gestuurd",
+            "Mars"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Category:Mars_rovers>"
+        ]
+    },
+    {
+        "context": "Wie aangemaakt Engels Wikipedia? ",
+        "id": 81,
+        "keywords": [
+            "aangemaakt",
+            "Engels",
+            "wikipedia"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Wikipedia>"
+        ]
+    },
+    {
+        "context": "Geef me alle vrouwelijke Duitse bondskanseliers.",
+        "id": 82,
+        "keywords": [
+            "vrouwelijk",
+            "Duits",
+            "bondskanselier"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Chancellor_of_Germany>"
+        ]
+    },
+    {
+        "context": "Wie is de eigenaar van Aldi?",
+        "id": 83,
+        "keywords": [
+            "eigenaar",
+            "Aldi"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Aldi>"
+        ]
+    },
+    {
+        "context": "Welke boeken waren geschreven door Danielle Staal? ",
+        "id": 84,
+        "keywords": [
+            "boeken",
+            "geschreven",
+            "danielle",
+            "staal"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Book>",
+            "<http://dbpedia.org/resource/Danielle_Steel>"
+        ]
+    },
+    {
+        "context": "Hoe diep is de Chiemsee?",
+        "id": 85,
+        "keywords": [
+            "Chiemsee",
+            "diepte"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Chiemsee>"
+        ]
+    },
+    {
+        "context": "Welke bedrijven zijn zowel actief in de ruimtevaartindustrie als in de geneeskunde?",
+        "id": 86,
+        "keywords": [
+            "bedrijf",
+            "ruimtevaartindustrie",
+            "geneeskunde"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Medical>",
+            "<http://dbpedia.org/resource/Aerospace>",
+            "<http://dbpedia.org/ontology/Company>"
+        ]
+    },
+    {
+        "context": "Welke professionele surfers werden geboren op de Filipijnen?",
+        "id": 87,
+        "keywords": [
+            "professionele surfer",
+            "Filipijnen"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Surfer>",
+            "<http://dbpedia.org/resource/Philippines>"
+        ]
+    },
+    {
+        "context": "Wie was de vader van koningin Elizabeth II?",
+        "id": 89,
+        "keywords": [
+            "koningin Elizabeth II",
+            "vader"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Elizabeth_II>"
+        ]
+    },
+    {
+        "context": "Geef me alle Amerikaanse presidenten in de afgelopen 20 jaar.",
+        "id": 90,
+        "keywords": [
+            "Amerikaanse presidenten",
+            "afgelopen 20 jaar"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Person>",
+            "<http://dbpedia.org/resource/Category:Presidents_of_the_United_States>"
+        ]
+    },
+    {
+        "context": "Wanneer komt de film Worst Case Scenario in Nederland in de bioscoop?",
+        "id": 91,
+        "keywords": [
+            "film",
+            "Worst Case Scenario",
+            "bioscoop",
+            "Nederland"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Worst_Case_Scenario_(film)>"
+        ]
+    },
+    {
+        "context": "Welke dochteronderneming van TUI Travel bedient zowel Glasgow en Dublin?",
+        "id": 93,
+        "keywords": [
+            "dochteronderneming",
+            "TUI Travel",
+            "bedient",
+            "Glasgow",
+            "Dublin"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Glasgow_International_Airport>",
+            "<http://dbpedia.org/resource/TUI_Travel>",
+            "<http://dbpedia.org/resource/Dublin_Airport>"
+        ]
+    },
+    {
+        "context": "Welke talen spreken ze in Pakistan?",
+        "id": 94,
+        "keywords": [
+            "Pakistan",
+            "talen"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Pakistan>"
+        ]
+    },
+    {
+        "context": "Wie is de dochter van Bill Clinton getrouwd naar? ",
+        "id": 95,
+        "keywords": [
+            "Bill Clinton",
+            "dochter",
+            "getrouwd"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Bill_Clinton>"
+        ]
+    },
+    {
+        "context": "Wat zijn de namen van de Teenage Mutant Ninja Turtles?",
+        "id": 100,
+        "keywords": [
+            "Teenage Mutant Ninja Turtles",
+            "namen"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Teenage_Mutant_Ninja_Turtles>"
+        ]
+    },
+    {
+        "context": "Hoe heet de school waar Obamas vrouw heeft gestudeerd?",
+        "id": 101,
+        "keywords": [
+            "school",
+            "Obama",
+            "vrouw",
+            "gestudeerd"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Barack_Obama>"
+        ]
+    },
+    {
+        "context": "Wanneer verkondigde Paraguay zijn onafhankelijkheid?",
+        "id": 102,
+        "keywords": [
+            "Paraguay",
+            "verkondigen",
+            "onafhankelijkheid"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Paraguay>"
+        ]
+    },
+    {
+        "context": "Wie is de gouverneur van Texas? ",
+        "id": 107,
+        "keywords": [
+            "gouverneur",
+            "Texas"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Texas>"
+        ]
+    },
+    {
+        "context": "Geven me de officieel websites van acteurs van de televisie laten zien Charmed. ",
+        "id": 108,
+        "keywords": [
+            "officieel",
+            "websites",
+            "acteurs",
+            "televisie",
+            "ingenomen"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Charmed>"
+        ]
+    },
+    {
+        "context": "Hoeveel calorieën heeft een baguette?",
+        "id": 109,
+        "keywords": [
+            "calorieën",
+            "baguette"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Baguette>"
+        ]
+    },
+    {
+        "context": "In welke studio hadden de Beatles hun eerste album opgenomen?",
+        "id": 112,
+        "keywords": [
+            "Beatles",
+            "eerste album",
+            "opgenomen",
+            "studio"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Beatles>",
+            "<http://dbpedia.org/ontology/Album>"
+        ]
+    },
+    {
+        "context": "Welke bier bierbrouwerij bedrijven zijn gelegen in Noord-Rijn Westfalen? ",
+        "id": 113,
+        "keywords": [
+            "bierbrouwerij bedrijven",
+            "noorden Rijn Westfalen"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Category:Companies_based_in_North_Rhine-Westphalia>",
+            "<http://dbpedia.org/ontology/Brewery>"
+        ]
+    },
+    {
+        "context": "Wie is de oprichter van Intel?",
+        "id": 114,
+        "keywords": [
+            "oprichter",
+            "Intel"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Intel>"
+        ]
+    },
+    {
+        "context": "Wie is de jongste speler in de Premier League?",
+        "id": 115,
+        "keywords": [
+            "speler",
+            "jongste",
+            "Premier League"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Premier_League>"
+        ]
+    },
+    {
+        "context": "Noem de hoofdsteden van alle landen in Afrika.",
+        "id": 117,
+        "keywords": [
+            "Africa",
+            "land",
+            "hoof"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Category:Countries_in_Africa>"
+        ]
+    },
+    {
+        "context": "Welke bruggen zijn van hetzelfde type als de Manhattan Bridge?",
+        "id": 118,
+        "keywords": [
+            "brug",
+            "zelfde type",
+            "Manhattan Bridge"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Bridge>",
+            "<http://dbpedia.org/resource/Manhattan_Bridge>"
+        ]
+    }
+]

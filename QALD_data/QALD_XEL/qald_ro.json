@@ -1,0 +1,5476 @@
+[
+    {
+        "context": "Ce cărți de Kerouac a fost publicate de Viking Press?",
+        "id": 1,
+        "keywords": [
+            "carte",
+            "Kerouac",
+            "publica",
+            "Viking Press"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Book>",
+            "<http://dbpedia.org/resource/Jack_Kerouac>",
+            "<http://dbpedia.org/resource/Viking_Press>"
+        ]
+    },
+    {
+        "context": "Cine a creat Wikipedia?",
+        "id": 2,
+        "keywords": [
+            "Wikipedia",
+            "creat"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Wikipedia>"
+        ]
+    },
+    {
+        "context": "Din ce țară izvorăște Nilul?",
+        "id": 4,
+        "keywords": [
+            "Nil",
+            "izvor",
+            "țară"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Nile>"
+        ]
+    },
+    {
+        "context": "Ce râu traversează podul din Brooklyn?",
+        "id": 5,
+        "keywords": [
+            "râu",
+            "traversează",
+            "podul din Brooklyn"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Brooklyn_Bridge>"
+        ]
+    },
+    {
+        "context": "Ce înălțime are Claudia Schiffer?",
+        "id": 6,
+        "keywords": [
+            "Claudia Schiffer",
+            "înălțime"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Claudia_Schiffer>"
+        ]
+    },
+    {
+        "context": "Ce seriale de televiziune au fost create de Walt Disney?",
+        "id": 7,
+        "keywords": [
+            "serial de televiziune",
+            "creat",
+            "Walt Disney"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Walt_Disney>",
+            "<http://dbpedia.org/ontology/TelevisionShow>"
+        ]
+    },
+    {
+        "context": "Dă-mi toate orașele din New Jersey cu mai mult de 100000 de locuitori.",
+        "id": 8,
+        "keywords": [
+            "New Jersey",
+            "oraș",
+            "locuitori",
+            "mai mult de 100000"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/City>",
+            "<http://dbpedia.org/resource/New_Jersey>"
+        ]
+    },
+    {
+        "context": "Ce actori au fost născuți în Germania?",
+        "id": 9,
+        "keywords": [
+            "actor",
+            "născut",
+            "Germania"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Actor>"
+        ]
+    },
+    {
+        "context": "Ce țări au mai mult de două limbi oficiale?",
+        "id": 10,
+        "keywords": [
+            "țară",
+            "limbă oficială",
+            "mai mult de două"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Country>"
+        ]
+    },
+    {
+        "context": "Când a fost construită Statuia Libertății?",
+        "id": 11,
+        "keywords": [
+            "Statuia Libertății",
+            "construit"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Statue_of_Liberty>"
+        ]
+    },
+    {
+        "context": "Dă-mi toți oamenii care s-au născut în Viena și au murit în Berlin.",
+        "id": 12,
+        "keywords": [
+            "oameni",
+            "născut",
+            "Viena",
+            "murit",
+            "Berlin"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Berlin>",
+            "<http://dbpedia.org/resource/Vienna>"
+        ]
+    },
+    {
+        "context": "Dă-mi toate filmele cu Tom Cruise.",
+        "id": 13,
+        "keywords": [
+            "film",
+            "Tom Cruise"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Tom_Cruise>"
+        ]
+    },
+    {
+        "context": "Ce înățime are Michael Jordan?",
+        "id": 14,
+        "keywords": [
+            "înălțime",
+            "Michael Jordan"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Michael_Jordan>"
+        ]
+    },
+    {
+        "context": "Dă-mi toate rasele câinelui Ciobănesc German.",
+        "id": 15,
+        "keywords": [
+            "rasă",
+            "câine Ciobănesc German"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/German_Shepherd>"
+        ]
+    },
+    {
+        "context": "Care este limba oficială din Suriname?",
+        "id": 16,
+        "keywords": [
+            "Suriname",
+            "limba oficială"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Suriname>"
+        ]
+    },
+    {
+        "context": "Cine a compus coloana sonoră pentru Harold și Maude?",
+        "id": 17,
+        "keywords": [
+            "Harold și Maude",
+            "compune",
+            "coloana sonoră"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Harold_and_Maude>"
+        ]
+    },
+    {
+        "context": "Cine e scris cartea Stâlpii Pământului?",
+        "id": 18,
+        "keywords": [
+            "scrie",
+            "carte",
+            "Stâlpii Pământului"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Pillars_of_the_Earth>"
+        ]
+    },
+    {
+        "context": "Ce limbi sunt vorbite în Estonia?",
+        "id": 19,
+        "keywords": [
+            "limbă",
+            "vorbită",
+            "Estonia"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Estonia>"
+        ]
+    },
+    {
+        "context": "Sunt broaștele de copac un tip de amfibieni?",
+        "id": 20,
+        "keywords": [
+            "broască de copac",
+            "amfibian"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Hylidae>",
+            "<http://dbpedia.org/resource/Amphibian>"
+        ]
+    },
+    {
+        "context": "Când a aderat Letonia la Uniunea Europeană?",
+        "id": 21,
+        "keywords": [
+            "Letonia",
+            "adera",
+            "Uniunea Europeană"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Latvia>"
+        ]
+    },
+    {
+        "context": "Unde este reședința primului ministru al Spaniei?",
+        "id": 22,
+        "keywords": [
+            "prim ministru",
+            "Spania",
+            "reședință"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Prime_Minister_of_Spain>"
+        ]
+    },
+    {
+        "context": "Ce țări au mai mult de zece peșteri?",
+        "id": 23,
+        "keywords": [
+            "țară",
+            "peșteră",
+            "mai mult de zece"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Country>",
+            "<http://dbpedia.org/ontology/Cave>"
+        ]
+    },
+    {
+        "context": "Cine l-a creat pe Goofy?",
+        "id": 24,
+        "keywords": [
+            "creat",
+            "Goofy"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Goofy>"
+        ]
+    },
+    {
+        "context": "Dă-mi toate cluburile de fotbal din Spania",
+        "id": 25,
+        "keywords": [
+            "Spania",
+            "club de fotbal"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/SoccerClub>"
+        ]
+    },
+    {
+        "context": "Ce alte arme a realizat proiectantul Uzi?",
+        "id": 26,
+        "keywords": [
+            "Uzi",
+            "proiectant",
+            "realiza",
+            "armă"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Uzi>",
+            "<http://dbpedia.org/ontology/Weapon>"
+        ]
+    },
+    {
+        "context": "Ce peșteri au mai mult de 3 intrări?",
+        "id": 27,
+        "keywords": [
+            "peșteră",
+            "intrare",
+            "mai mult de 3"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Cave>"
+        ]
+    },
+    {
+        "context": "În ce țări a fost introdus euro?",
+        "id": 28,
+        "keywords": [
+            "țară",
+            "introdus",
+            "euro"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Country>"
+        ]
+    },
+    {
+        "context": "Din ce țara provine creatorul Miffy?",
+        "id": 29,
+        "keywords": [
+            "Miffy",
+            "creator",
+            "țară"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Miffy>"
+        ]
+    },
+    {
+        "context": "Dă-mi toate prenumele feminine.",
+        "id": 30,
+        "keywords": [
+            "feminine",
+            "prenume"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Female>",
+            "<http://dbpedia.org/ontology/GivenName>"
+        ]
+    },
+    {
+        "context": "A fost Margaret Thatcher un chimist?",
+        "id": 31,
+        "keywords": [
+            "Margaret Thatcher",
+            "chimist"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Margaret_Thatcher>",
+            "<http://dbpedia.org/resource/Chemist>"
+        ]
+    },
+    {
+        "context": "Ce orașe germane au mai mult de 250000 de locuitori?",
+        "id": 32,
+        "keywords": [
+            "oraș",
+            "Germania",
+            "locuitori",
+            "mai mult de 250000"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Germany>"
+        ]
+    },
+    {
+        "context": "A fost Marc Chagall un evreu?",
+        "id": 33,
+        "keywords": [
+            "Marc Chagall",
+            "evreu"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Marc_Chagall>"
+        ]
+    },
+    {
+        "context": "Ce președinți au fost născuți în 1945",
+        "id": 34,
+        "keywords": [
+            "președinte",
+            "născut",
+            "1945"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/President>"
+        ]
+    },
+    {
+        "context": "Câte magazine Aldi există?",
+        "id": 35,
+        "keywords": [
+            "avea",
+            "Aldi"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Aldi>"
+        ]
+    },
+    {
+        "context": "A fost președintele american Jackson implicat într-un război?",
+        "id": 36,
+        "keywords": [
+            "președinte american",
+            "Jackson",
+            "război"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Andrew_Jackson>"
+        ]
+    },
+    {
+        "context": "Care este capitala Canadei?",
+        "id": 37,
+        "keywords": [
+            "capitală",
+            "Canada"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Canada>"
+        ]
+    },
+    {
+        "context": "În ce muzeu este expus “Strigătul” lui Munch?",
+        "id": 38,
+        "keywords": [
+            "muzeu",
+            "Strigătul",
+            "Munch"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Scream>"
+        ]
+    },
+    {
+        "context": "Ce casă discografică a înregistrat primul album al lui Elvis?",
+        "id": 39,
+        "keywords": [
+            "Elvis",
+            "prim",
+            "album",
+            "casă discografică"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Elvis_Presley>",
+            "<http://dbpedia.org/ontology/Album>"
+        ]
+    },
+    {
+        "context": "Prințul Harry și Prințul William au aceași mamă?",
+        "id": 40,
+        "keywords": [
+            "Prințul Harry",
+            "Prințul William",
+            "aceași",
+            "mamă"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Prince_Harry_of_Wales>",
+            "<http://dbpedia.org/resource/Prince_William,_Duke_of_Cambridge>"
+        ]
+    },
+    {
+        "context": "În care conflicte militare a participat Lawrence al Arabiei?",
+        "id": 41,
+        "keywords": [
+            "Lawrence al Arabiei",
+            "conflict militar"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/T._E._Lawrence>"
+        ]
+    },
+    {
+        "context": "Ce state formează granite cu Illinois?",
+        "id": 42,
+        "keywords": [
+            "stat",
+            "granite",
+            "Illinois"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Illinois>"
+        ]
+    },
+    {
+        "context": "Dă-mi toate insulele care aparțin Japoniei.",
+        "id": 43,
+        "keywords": [
+            "insule",
+            "Japonia"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Island>",
+            "<http://dbpedia.org/resource/Japan>"
+        ]
+    },
+    {
+        "context": "Care este cel mai înalt munte din Australia?",
+        "id": 44,
+        "keywords": [
+            "Australia",
+            "cel mai înalt munte"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Mountain>",
+            "<http://dbpedia.org/resource/Australia>"
+        ]
+    },
+    {
+        "context": "Ce aeroporturi se află în California, Statele Unite?",
+        "id": 45,
+        "keywords": [
+            "aeroport",
+            "aflat",
+            "California",
+            "SUA"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Airport>"
+        ]
+    },
+    {
+        "context": "Cine a dezvoltat Minecraft?",
+        "id": 46,
+        "keywords": [
+            "Minecraft",
+            "dezvolta"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Minecraft>"
+        ]
+    },
+    {
+        "context": "Care jucători de șah au murit în același loc în care s-au născut?",
+        "id": 47,
+        "keywords": [
+            "jucători de șah",
+            "British earl",
+            "murit",
+            "același",
+            "loc",
+            "născut"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/ChessPlayer>"
+        ]
+    },
+    {
+        "context": "Dă-mi toate mașinile care sunt produse în Germania.",
+        "id": 49,
+        "keywords": [
+            "mașină",
+            "produse",
+            "Germania"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Automobile>"
+        ]
+    },
+    {
+        "context": "Cine a fost soția președintelui American Lincoln?",
+        "id": 50,
+        "keywords": [
+            "președinte American",
+            "Lincoln",
+            "soție"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Abraham_Lincoln>"
+        ]
+    },
+    {
+        "context": "Este Michelle Obama soția lui Barack Obama?",
+        "id": 52,
+        "keywords": [
+            "Michelle Obama",
+            "soție",
+            "Barack Obama"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Michelle_Obama>",
+            "<http://dbpedia.org/resource/Barack_Obama>"
+        ]
+    },
+    {
+        "context": "Dă-mi toți actorii care joacă roluri principale în filme regizate de William Shatner.",
+        "id": 53,
+        "keywords": [
+            "actor",
+            "rol principal",
+            "film",
+            "regiza",
+            "William Shatner"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/William_Shatner>"
+        ]
+    },
+    {
+        "context": "Enumeră copiii lui Margaret Thatcher.",
+        "id": 54,
+        "keywords": [
+            "Margaret Thatcher",
+            "copil"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Margaret_Thatcher>"
+        ]
+    },
+    {
+        "context": "Cine este editorul Forbes?",
+        "id": 55,
+        "keywords": [
+            "Forbes",
+            "editor"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Forbes>"
+        ]
+    },
+    {
+        "context": "Dă-mi toți actorii cu roluri principale în Last Action Hero.",
+        "id": 56,
+        "keywords": [
+            "actor",
+            "rol principal",
+            "Last Action Hero"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Last_Action_Hero>"
+        ]
+    },
+    {
+        "context": "În ce limbaj de programare este scris GIMP?",
+        "id": 57,
+        "keywords": [
+            "GIMP",
+            "limbaj de programare"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/GIMP>"
+        ]
+    },
+    {
+        "context": "În ce țară este lacul Limerick?",
+        "id": 58,
+        "keywords": [
+            "lacul Limerick",
+            "țară"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Limerick_Lake>"
+        ]
+    },
+    {
+        "context": "Dă-mi toate jocurile video publicate de Mean Hamster Software",
+        "id": 59,
+        "keywords": [
+            "joc video",
+            "publicat",
+            "Mean Hamster Software"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/VideoGame>",
+            "<http://dbpedia.org/resource/Mean_Hamster_Software>"
+        ]
+    },
+    {
+        "context": "Cine a produs filme cu Natalie Portman în rol principal?",
+        "id": 60,
+        "keywords": [
+            "produce",
+            "film",
+            "rol principal",
+            "Natalie Portman"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Natalie_Portman>"
+        ]
+    },
+    {
+        "context": "În ce filme joacă Julia Roberts precum și Richard Gere?",
+        "id": 61,
+        "keywords": [
+            "film",
+            "joacă",
+            "Julia Roberts",
+            "Richard Gere"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Richard_Gere>",
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Julia_Roberts>"
+        ]
+    },
+    {
+        "context": "Care este al doilea cel mai înalt munte de pe Pământ?",
+        "id": 64,
+        "keywords": [
+            "munte",
+            "al doilea cel mai înalt"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Mountain>"
+        ]
+    },
+    {
+        "context": "Dă-mi toate carțile de William Glodman cu mai mult de 300 de pagini.",
+        "id": 65,
+        "keywords": [
+            "carte",
+            "William Goldman",
+            "pagini",
+            "mai mult de 300"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Book>",
+            "<http://dbpedia.org/resource/William_Goldman>"
+        ]
+    },
+    {
+        "context": "Dă-mi toate filmele daneze.",
+        "id": 66,
+        "keywords": [
+            "film",
+            "Danemarca"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Denmark>"
+        ]
+    },
+    {
+        "context": "Care este cel mai mare oraș din Australia?",
+        "id": 67,
+        "keywords": [
+            "Australia",
+            "cel mai mare oraș"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Australia>"
+        ]
+    },
+    {
+        "context": "Cine a pictat Furtuna pe Marea Galileii?",
+        "id": 68,
+        "keywords": [
+            "Furtuna pe Marea Galileii",
+            "picta"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Storm_on_the_Sea_of_Galilee>"
+        ]
+    },
+    {
+        "context": "Dă-mi toate rampele de lansare operate de către NASA.",
+        "id": 69,
+        "keywords": [
+            "rampă de lansare",
+            "operat",
+            "NASA"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/NASA>",
+            "<http://dbpedia.org/ontology/LaunchPad>"
+        ]
+    },
+    {
+        "context": "Dă-mi zilele de naștere a tuturor actorilor din serialul de televiziune Charmed",
+        "id": 70,
+        "keywords": [
+            "serial de televiziune",
+            "Charmed",
+            "actor",
+            "zi de naștere"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Charmed>"
+        ]
+    },
+    {
+        "context": "În ce oraș a murit John F. Kennedy?",
+        "id": 71,
+        "keywords": [
+            "oraș",
+            "John F. Kennedy",
+            "muri"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/City>",
+            "<http://dbpedia.org/resource/John_F._Kennedy>"
+        ]
+    },
+    {
+        "context": "Cine a produs cele mai multe filme?",
+        "id": 72,
+        "keywords": [
+            "film",
+            "produs",
+            "cel mai mult"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>"
+        ]
+    },
+    {
+        "context": "Cine a creat banda desenată Captain America?",
+        "id": 73,
+        "keywords": [
+            "bandă desenată",
+            "Captain America",
+            "creat"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Captain_America>"
+        ]
+    },
+    {
+        "context": "Există un joc video numit Battle Chess?",
+        "id": 74,
+        "keywords": [
+            "joc video",
+            "Battle Chess"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/VideoGame>"
+        ]
+    },
+    {
+        "context": "Ce munți sunt mai mari decât Nanga Parbat?",
+        "id": 75,
+        "keywords": [
+            "munte",
+            "mai mare",
+            "Nanga Parbat"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Nanga_Parbat>",
+            "<http://dbpedia.org/ontology/Mountain>"
+        ]
+    },
+    {
+        "context": "Listează toate episodele din primul sezon al serialului HBO de televiziune The Sopranos",
+        "id": 76,
+        "keywords": [
+            "HBO",
+            "serial de televiziune",
+            "Sopranos",
+            "primul sezon",
+            "episod"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Sopranos>"
+        ]
+    },
+    {
+        "context": "Este soția președintelui Obama numită Michelle?",
+        "id": 78,
+        "keywords": [
+            "Obama",
+            "președinte",
+            "soție",
+            "numită",
+            "Michelle"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Barack_Obama>"
+        ]
+    },
+    {
+        "context": "Care este cel mai înalt munte?",
+        "id": 79,
+        "keywords": [
+            "munte",
+            "cel mai înalt"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Mountain>"
+        ]
+    },
+    {
+        "context": "Cine sunt părinții soției lui Juan Carlos I?",
+        "id": 80,
+        "keywords": [
+            "Juan Carlos I",
+            "soție",
+            "părinți"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Juan_Carlos_I_of_Spain>"
+        ]
+    },
+    {
+        "context": "Dă-mi toate casele canadiene Grunge de înregistrări.",
+        "id": 81,
+        "keywords": [
+            "casă de înregistrări",
+            "canadian",
+            "Grunge"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Canada>",
+            "<http://dbpedia.org/ontology/RecordLabel>",
+            "<http://dbpedia.org/resource/Grunge>"
+        ]
+    },
+    {
+        "context": "Care este numele de domnișoară al Angelei Merkel?",
+        "id": 82,
+        "keywords": [
+            "nume de domnișoară",
+            "Angela Merkel"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Angela_Merkel>"
+        ]
+    },
+    {
+        "context": "Care este cel mai lung fluviu?",
+        "id": 83,
+        "keywords": [
+            "fluviu",
+            "cel mai lung"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/River>"
+        ]
+    },
+    {
+        "context": "L-a influențat Socrate pe Aristotel?",
+        "id": 84,
+        "keywords": [
+            "Socrate",
+            "influență",
+            "Aristotel"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Socrates>",
+            "<http://dbpedia.org/resource/Aristotle>"
+        ]
+    },
+    {
+        "context": "În ce filme regizate de Garry Marsall a jucat Julia Roberts roluri principale?",
+        "id": 85,
+        "keywords": [
+            "film",
+            "regizat",
+            "Garry Marshall",
+            "rol principal",
+            "Julia Roberts"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Julia_Roberts>",
+            "<http://dbpedia.org/resource/Garry_Marshall>"
+        ]
+    },
+    {
+        "context": "Joacă Christian Bale un rol principal în Velvet Goldmine?",
+        "id": 86,
+        "keywords": [
+            "Christian Bale",
+            "rol principal",
+            "Velevet Goldmine"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Velvet_Goldmine>",
+            "<http://dbpedia.org/resource/Christian_Bale>"
+        ]
+    },
+    {
+        "context": "Cine a dezvoltat jocul video World of Warcraft?",
+        "id": 87,
+        "keywords": [
+            "joc video",
+            "World of Warcraft",
+            "dezvolta"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/World_of_Warcraft>"
+        ]
+    },
+    {
+        "context": "Ce țări traversează fluviul Enisei?",
+        "id": 88,
+        "keywords": [
+            "fluviul Enisei",
+            "traversează",
+            "țară"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Yenisei_River>"
+        ]
+    },
+    {
+        "context": "Enumeră toate jocurile de GMT",
+        "id": 89,
+        "keywords": [
+            "joc",
+            "GMT"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/GMT_Games>"
+        ]
+    },
+    {
+        "context": "Ce organizații au fost fondate în 1930?",
+        "id": 90,
+        "keywords": [
+            "organizație",
+            "fondat",
+            "1930"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Organisation>"
+        ]
+    },
+    {
+        "context": "Câți angajați are IBM?",
+        "id": 91,
+        "keywords": [
+            "IBM",
+            "angajați"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/IBM>"
+        ]
+    },
+    {
+        "context": "Când a fost Alberta recunoscută ca provincie?",
+        "id": 92,
+        "keywords": [
+            "Alberta",
+            "recunoaște",
+            "provincie"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Alberta>"
+        ]
+    },
+    {
+        "context": "Dă-mi toți cosmonauții.",
+        "id": 93,
+        "keywords": [
+            "cosmonauți"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Astronaut>"
+        ]
+    },
+    {
+        "context": "Cien este primarul din Tel Aviv?",
+        "id": 94,
+        "keywords": [
+            "Tel Aviv",
+            "primar"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Tel_Aviv>"
+        ]
+    },
+    {
+        "context": "Ce nave au fost numite după Benjamin Franklin?",
+        "id": 95,
+        "keywords": [
+            "navă",
+            "numit după",
+            "Benjamin Franklin"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Benjamin_Franklin>"
+        ]
+    },
+    {
+        "context": "Câți angajați are Google?",
+        "id": 96,
+        "keywords": [
+            "Google",
+            "angajați"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Google>"
+        ]
+    },
+    {
+        "context": "Are Breaking Bad mai multe episoade decât Game of Thrones?",
+        "id": 97,
+        "keywords": [
+            "Breaking Bad",
+            "episoade",
+            "mai multe decât",
+            "Game of Thrones"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Game_of_Thrones>",
+            "<http://dbpedia.org/resource/Breaking_Bad>"
+        ]
+    },
+    {
+        "context": "Dă-mi o listă a tuturor conducătorilor de formații care cântă la trompetă.",
+        "id": 98,
+        "keywords": [
+            "conducător de formație",
+            "cântă",
+            "trompetă"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Bandleader>",
+            "<http://dbpedia.org/resource/Trumpet>"
+        ]
+    },
+    {
+        "context": "Când a murit Michael Jackson?",
+        "id": 99,
+        "keywords": [
+            "Michael Jackson",
+            "muri"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Michael_Jackson>"
+        ]
+    },
+    {
+        "context": "Câți locuitori are Maribor?",
+        "id": 102,
+        "keywords": [
+            "Maribor",
+            "locuitori"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Maribor>"
+        ]
+    },
+    {
+        "context": "Este proinsulina o proteină?",
+        "id": 104,
+        "keywords": [
+            "proinsulină",
+            "proteină"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Protein>",
+            "<http://dbpedia.org/resource/Proinsulin>"
+        ]
+    },
+    {
+        "context": "Ce premii a câștigat WikiLeaks?",
+        "id": 105,
+        "keywords": [
+            "WikiLeaks",
+            "premii"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/WikiLeaks>"
+        ]
+    },
+    {
+        "context": "Ce țară are cele mai multe limbi oficiale?",
+        "id": 106,
+        "keywords": [
+            "șară",
+            "limbă oficială",
+            "cele mai multe"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Country>"
+        ]
+    },
+    {
+        "context": "Dă-mi toate țările comuniste.",
+        "id": 107,
+        "keywords": [
+            "țări comuniste"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Country>"
+        ]
+    },
+    {
+        "context": "La ce instrumente cântă Cat Stevens?",
+        "id": 108,
+        "keywords": [
+            "Cat Stevens",
+            "instrument"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Cat_Stevens>"
+        ]
+    },
+    {
+        "context": "Dă-mi toate cărțile scrise de Danielle Steel.",
+        "id": 109,
+        "keywords": [
+            "carte",
+            "scrisă",
+            "Danielle Steele"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Book>",
+            "<http://dbpedia.org/resource/Danielle_Steel>"
+        ]
+    },
+    {
+        "context": "A câștigat Tesla un premiu Nobel pentru fizică?",
+        "id": 110,
+        "keywords": [
+            "Tesla",
+            "premiu Nobel",
+            "fizică"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Nikola_Tesla>",
+            "<http://dbpedia.org/resource/Nobel_Prize_in_Physics>"
+        ]
+    },
+    {
+        "context": "Cine este proprietarul Universal Studios?",
+        "id": 111,
+        "keywords": [
+            "Universal Studios",
+            "proprietar"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Universal_Studios>"
+        ]
+    },
+    {
+        "context": "Cine este guvernatorul din Wyoming?",
+        "id": 112,
+        "keywords": [
+            "guvernator",
+            "Wyoming"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Wyoming>"
+        ]
+    },
+    {
+        "context": "Când a fost înființată Hell Angels?",
+        "id": 113,
+        "keywords": [
+            "Hell Angels",
+            "înființat"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Hells_Angels>"
+        ]
+    },
+    {
+        "context": "Dă-mi tote bibliotecile înființate înainte de 1400",
+        "id": 114,
+        "keywords": [
+            "biblioteci",
+            "înființat",
+            "înainte de 1400"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Library>"
+        ]
+    },
+    {
+        "context": "Orașul cel mai mare din EGipt este și capital sa?",
+        "id": 115,
+        "keywords": [
+            "cel mai mare oraș",
+            "Egipt",
+            "capitală"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Egypt>"
+        ]
+    },
+    {
+        "context": "Câți oameni locuiesc in capitala Australiei?",
+        "id": 117,
+        "keywords": [
+            "Australia",
+            "captital",
+            "oameni",
+            "locui"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Australia>"
+        ]
+    },
+    {
+        "context": "Dă-mi toate laturile B ale Ramones",
+        "id": 118,
+        "keywords": [
+            "Ramones",
+            "laturi B"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Ramones>"
+        ]
+    },
+    {
+        "context": "Dă-mi toate filmele produse de Hal Roach",
+        "id": 119,
+        "keywords": [
+            "film",
+            "produs",
+            "Hal Roach"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Hal_Roach>",
+            "<http://dbpedia.org/ontology/Film>"
+        ]
+    },
+    {
+        "context": "Dă-mi toți astronauții Apollo 14.",
+        "id": 120,
+        "keywords": [
+            "astronaut",
+            "Apollo 14"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Apollo_14>"
+        ]
+    },
+    {
+        "context": "Care este prefixul telephonic pentru Berlin?",
+        "id": 121,
+        "keywords": [
+            "Berlin",
+            "prefix telefonic"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Berlin>"
+        ]
+    },
+    {
+        "context": "Ce software a fost dezvoltat de organizații fondate în California",
+        "id": 122,
+        "keywords": [
+            "organizație",
+            "fondată",
+            "California",
+            "dezvolta",
+            "software"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Software>",
+            "<http://dbpedia.org/ontology/Company>"
+        ]
+    },
+    {
+        "context": "Care este moneda națională a Cehiei?",
+        "id": 123,
+        "keywords": [
+            "Cehia",
+            "monedă națională"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Czech_Republic>"
+        ]
+    },
+    {
+        "context": "Dă-mi toate siturile de patrimoniu mondial desemnate in ultimii doi ani.",
+        "id": 125,
+        "keywords": [
+            "situri de patrimoniu mondial",
+            "desemna",
+            "ultimii doi ani"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/WorldHeritageSite>"
+        ]
+    },
+    {
+        "context": "Ce orașe străbate Weserul?",
+        "id": 126,
+        "keywords": [
+            "Weser",
+            "străbate",
+            "oraș"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Weser>"
+        ]
+    },
+    {
+        "context": "Dă-mi toate filmele regizate de Francis Ford Coppola.",
+        "id": 129,
+        "keywords": [
+            "film",
+            "regizat",
+            "Francis Ford Coppola"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Francis_Ford_Coppola>"
+        ]
+    },
+    {
+        "context": "Care este partidul la putere în Lisabona?",
+        "id": 130,
+        "keywords": [
+            "Lisabona",
+            "partid la putere"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Lisbon>"
+        ]
+    },
+    {
+        "context": "Dă-mi toate companiile din München",
+        "id": 131,
+        "keywords": [
+            "companie",
+            "München"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Company>"
+        ]
+    },
+    {
+        "context": "A avut loc mai devreme Criza rachetelor din Cuba decât Invazia din Golful Porcilor?",
+        "id": 132,
+        "keywords": [
+            "Criza rachetelor din Cuba",
+            "mai devreme",
+            "Invazia din Golful Porcilor"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Bay_of_Pigs_Invasion>",
+            "<http://dbpedia.org/resource/Cuban_missile_crisis>"
+        ]
+    },
+    {
+        "context": "Cine a fost vicepreședintele lui John F. Kennedy?",
+        "id": 133,
+        "keywords": [
+            "John F. Kennedy",
+            "vicepreședinte"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/John_F._Kennedy>"
+        ]
+    },
+    {
+        "context": "Cine este pilotul de curse Formula 1 cu cele mai multe curse?",
+        "id": 134,
+        "keywords": [
+            "Formula 1",
+            "pilot de curse",
+            "cele mai multe"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/FormulaOneRacer>"
+        ]
+    },
+    {
+        "context": "Dă-mi toți politicienii metodiști",
+        "id": 135,
+        "keywords": [
+            "politician",
+            "metodist"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Methodism>",
+            "<http://dbpedia.org/ontology/Politician>"
+        ]
+    },
+    {
+        "context": "Dă-mi toate cluburile de fotbal din Premier League",
+        "id": 136,
+        "keywords": [
+            "Premier League",
+            "club de fotbal"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/SoccerClub>",
+            "<http://dbpedia.org/resource/Premier_League>"
+        ]
+    },
+    {
+        "context": "Ce monarhi au fost căsătoriți cu o persoană germană?",
+        "id": 137,
+        "keywords": [
+            "monarh",
+            "căsătorit",
+            "german"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Monarch>"
+        ]
+    },
+    {
+        "context": "Arată-mi toate melodiile de Bruce Springsten apărute între 1980 și 1990",
+        "id": 138,
+        "keywords": [
+            "melodie",
+            "Bruce Springsteen",
+            "apărut",
+            "între 1980 și 1990"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Song>",
+            "<http://dbpedia.org/resource/Bruce_Springsteen>"
+        ]
+    },
+    {
+        "context": "Dă-mi toții membrii Prodigy.",
+        "id": 139,
+        "keywords": [
+            "membru",
+            "Prodigy"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Prodigy>"
+        ]
+    },
+    {
+        "context": "Dă-mi toate organizațiile non-profit din Australia.",
+        "id": 140,
+        "keywords": [
+            "organizație non-profit",
+            "Australia"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Nonprofit_organization>"
+        ]
+    },
+    {
+        "context": "Din ce cauză a murit Bruce Carver?",
+        "id": 141,
+        "keywords": [
+            "Bruce Carver",
+            "muri"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Bruce_Carver>"
+        ]
+    },
+    {
+        "context": "Din ce țară izvorăște Ganga?",
+        "id": 142,
+        "keywords": [
+            "Gangele",
+            "izvor",
+            "țară"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Ganges>"
+        ]
+    },
+    {
+        "context": "Care este numărul total de bărbați și femei membri ai Departamentului de Pompieri din New York?",
+        "id": 143,
+        "keywords": [
+            "număr total",
+            "bărbați",
+            "femei",
+            "membri",
+            "Departamentul de Pompieri din New York"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/New_York_City_Fire_Department>"
+        ]
+    },
+    {
+        "context": "Prințul Harry și Prințul William au aceiași părinți?",
+        "id": 146,
+        "keywords": [
+            "Prințul Harry",
+            "Prințul William",
+            "aceiași",
+            "părinți"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Prince_Harry>",
+            "<http://dbpedia.org/resource/Prince_William,_Duke_of_Cambridge>"
+        ]
+    },
+    {
+        "context": "În care oraș din Regatul Unit se află cartierul general al MI6?",
+        "id": 147,
+        "keywords": [
+            "MI6",
+            "cartier general",
+            "oraș",
+            "Regatul Unit"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/United_Kingdom>",
+            "<http://dbpedia.org/resource/Secret_Intelligence_Service>"
+        ]
+    },
+    {
+        "context": "Dă-mi toate filmele daneze.",
+        "id": 150,
+        "keywords": [
+            "film",
+            "Danemarca"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Denmark>"
+        ]
+    },
+    {
+        "context": "Este Rita Wilson soția lui Tom Hanks?",
+        "id": 151,
+        "keywords": [
+            "Rita Wilson",
+            "soție",
+            "Tom Hanks"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Rita_Wilson>",
+            "<http://dbpedia.org/resource/Tom_Hanks>"
+        ]
+    },
+    {
+        "context": "Ce film în care Clint Eastwood joacă rolul principal a fost regizat de el însuși?",
+        "id": 152,
+        "keywords": [
+            "film",
+            "rol principal",
+            "regizor",
+            "Clint Eastwood"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Clint_Eastwood>"
+        ]
+    },
+    {
+        "context": "Ce filme a regizat Kurosawa?",
+        "id": 154,
+        "keywords": [
+            "film",
+            "regiza",
+            "Kurosawa"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Akira_Kurosawa>"
+        ]
+    },
+    {
+        "context": "Ce seriale de televiziune au fost create de John Cleese?",
+        "id": 155,
+        "keywords": [
+            "serial de televiziune",
+            "creat",
+            "John Cleese"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/TelevisionShow>",
+            "<http://dbpedia.org/resource/John_Cleese>"
+        ]
+    },
+    {
+        "context": "Ce premii a câștigat Douglas Hofstadter?",
+        "id": 156,
+        "keywords": [
+            "Douglas Hofstadter",
+            "premii"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Douglas_Hofstadter>"
+        ]
+    },
+    {
+        "context": "Cu cine este căsătorită fiica lui Robert Kennedy?",
+        "id": 157,
+        "keywords": [
+            "Robert Kennedy",
+            "fiică",
+            "căsătorită"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Robert_F._Kennedy>"
+        ]
+    },
+    {
+        "context": "Cine este proprietarul Rolls-Royce?",
+        "id": 158,
+        "keywords": [
+            "Rolls-Royce",
+            "proprietar"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Rolls-Royce_Motors>"
+        ]
+    },
+    {
+        "context": "Cine a proiectat podul din Brooklyn?",
+        "id": 159,
+        "keywords": [
+            "podul din Brooklyn",
+            "proiecta"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Brooklyn_Bridge>"
+        ]
+    },
+    {
+        "context": "Care este cel mai înalt punct de pe munții Urali?",
+        "id": 160,
+        "keywords": [
+            "munții Urali",
+            "cel mai înalt punct"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Ural_Mountains>"
+        ]
+    },
+    {
+        "context": "Dă-mi toți cancelarii federali ai Germaniei",
+        "id": 162,
+        "keywords": [
+            "Germania",
+            "cancelar federal"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Person>"
+        ]
+    },
+    {
+        "context": "Este soția președintelui Lincoln numită Mary?",
+        "id": 164,
+        "keywords": [
+            "Lincoln",
+            "președinte",
+            "soție",
+            "numită",
+            "Mary"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Abraham_Lincoln>"
+        ]
+    },
+    {
+        "context": "Câți locuitori are cel mai are oraș din Canada?",
+        "id": 166,
+        "keywords": [
+            "locuitori",
+            "cel mai mare oraș",
+            "Canada"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Canada>"
+        ]
+    },
+    {
+        "context": "Cine a fost primul om care a escaladat muntele Everest?",
+        "id": 167,
+        "keywords": [
+            "primul",
+            "escaladat",
+            "muntele Everest"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Mount_Everest>"
+        ]
+    },
+    {
+        "context": "Care este culoarea oficială a Universității Oxford?",
+        "id": 169,
+        "keywords": [
+            "Universitatea Oxford",
+            "culoare oficială"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/University_of_Oxford>"
+        ]
+    },
+    {
+        "context": "Cărui curent artistic îi aparține pictorul lucrării Trei dansatoare?",
+        "id": 170,
+        "keywords": [
+            "curent artistic",
+            "pictor",
+            "Trei dansatoare"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Three_Dancers>"
+        ]
+    },
+    {
+        "context": "Dă-mi toate animalele dispărute.",
+        "id": 171,
+        "keywords": [
+            "animal",
+            "dispărut"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Animal>"
+        ]
+    },
+    {
+        "context": "Locul morții lui Abraham Lincoln are un website?",
+        "id": 172,
+        "keywords": [
+            "locul morții",
+            "Abraham Lincoln",
+            "website"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Abraham_Lincoln>"
+        ]
+    },
+    {
+        "context": "Cine este cel mai tânăr jucător de Darts?",
+        "id": 173,
+        "keywords": [
+            "jucător de Darts",
+            "cel mai tânăr"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/DartsPlayer>"
+        ]
+    },
+    {
+        "context": "Unde s-a născut Bach?",
+        "id": 174,
+        "keywords": [
+            "locul nașterii",
+            "Bach"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Johann_Sebastian_Bach>"
+        ]
+    },
+    {
+        "context": "În ce țări poți plăti folosind francul CFA vest-african?",
+        "id": 175,
+        "keywords": [
+            "țări",
+            "plăti",
+            "franc CFA vest-african"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/West_African_CFA_franc>"
+        ]
+    },
+    {
+        "context": "Care jocuri video se află în top-10 pentru acțiune și simulare, potrivit IGN?",
+        "id": 176,
+        "keywords": [
+            "top-10",
+            "acțiune",
+            "ju=ocuri de simulare",
+            "IGN"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Category:Action_role-playing_video_games>"
+        ]
+    },
+    {
+        "context": "Isarul se varsă într-un lac?",
+        "id": 178,
+        "keywords": [
+            "Isar",
+            "varsă",
+            "lac"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Isar>",
+            "<http://dbpedia.org/ontology/Lake>"
+        ]
+    },
+    {
+        "context": "Dă-mi toate filmele produse de Steven Spielberg, cu un buget final de producție de cel puțin 80 milioane de dolari.",
+        "id": 179,
+        "keywords": [
+            "filme",
+            "producător",
+            "Steven Spielberg",
+            "buget",
+            "80 milioane de dolari"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Steven_Spielberg>"
+        ]
+    },
+    {
+        "context": "Dă-mi toți scriitorii care au câștigat premiul Nobel pentru literatură.",
+        "id": 180,
+        "keywords": [
+            "scriitor",
+            "câștigat",
+            "premiul Nobel pentru literatură"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Writer>",
+            "<http://dbpedia.org/resource/Nobel_Prize_in_Literature>"
+        ]
+    },
+    {
+        "context": "Dă-mi toți taikonauții.",
+        "id": 181,
+        "keywords": [
+            "taikonaut"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/China>",
+            "<http://dbpedia.org/ontology/Astronaut>"
+        ]
+    },
+    {
+        "context": "Câte pagini are Război și Pace?",
+        "id": 182,
+        "keywords": [
+            "câte pagini",
+            "Război și Pace"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/War_and_Peace>"
+        ]
+    },
+    {
+        "context": "Care este podul cu cea mai mare deschidere?",
+        "id": 183,
+        "keywords": [
+            "pod",
+            "cea mai mare deschidere"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Bridge>"
+        ]
+    },
+    {
+        "context": "Cine este cel mai înalt jucător din Atlanta Falcons?",
+        "id": 185,
+        "keywords": [
+            "Atlanta Falcons",
+            "jucător",
+            "cel mai înalt"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Atlanta_Falcons>"
+        ]
+    },
+    {
+        "context": "Ce râuri se varsă într-un lac din Germania?",
+        "id": 186,
+        "keywords": [
+            "râuri",
+            "varsă",
+            "lac din Germania"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Lake>",
+            "<http://dbpedia.org/resource/Germany>",
+            "<http://dbpedia.org/ontology/River>"
+        ]
+    },
+    {
+        "context": "Ce rachete au fost lansate din Baikonur?",
+        "id": 188,
+        "keywords": [
+            "rachete",
+            "lansat",
+            "Baikonur"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Baikonur_Cosmodrome>",
+            "<http://dbpedia.org/ontology/Rocket>"
+        ]
+    },
+    {
+        "context": "Care papă i-a urmat lui Ioan Paul al II-lea?",
+        "id": 189,
+        "keywords": [
+            "papă",
+            "urmat",
+            "Ioan Paul al II-lea"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Pope_John_Paul_II>"
+        ]
+    },
+    {
+        "context": "Dă-mi toate partidele politice olandeze.",
+        "id": 190,
+        "keywords": [
+            "partide politice olandeze"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Netherlands>",
+            "<http://dbpedia.org/ontology/PoliticalParty>"
+        ]
+    },
+    {
+        "context": "Când este Halloween?",
+        "id": 191,
+        "keywords": [
+            "dată",
+            "Halloween"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Halloween>"
+        ]
+    },
+    {
+        "context": "Dă-mi toți oceanografii suedezi.",
+        "id": 192,
+        "keywords": [
+            "oceanograf",
+            "suedez"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Oceanography>",
+            "<http://dbpedia.org/resource/Sweden>"
+        ]
+    },
+    {
+        "context": "Dă-mi toți actorii care s-au născut la Berlin.",
+        "id": 193,
+        "keywords": [
+            "actori",
+            "născut",
+            "Berlin"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Berlin>",
+            "<http://dbpedia.org/ontology/Actor>"
+        ]
+    },
+    {
+        "context": "Care a fost ultimul film cu Alec Guinness?",
+        "id": 194,
+        "keywords": [
+            "Alec Guinness",
+            "ultim",
+            "film"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Alec_Guinness>",
+            "<http://dbpedia.org/ontology/Film>"
+        ]
+    },
+    {
+        "context": "Ce poet a scris cel mai mare număr de cărți?",
+        "id": 195,
+        "keywords": [
+            "poet",
+            "cel mai mare număr",
+            "cărți"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Book>",
+            "<http://dbpedia.org/resource/Poet>"
+        ]
+    },
+    {
+        "context": "Care a fost cel mai mic loc ocupat de Brazilia în clasamentul mondială FIFA?",
+        "id": 198,
+        "keywords": [
+            "Brazilia",
+            "cel mai mic loc",
+            "clasament mondial FIFA"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Brazil_national_football_team>"
+        ]
+    },
+    {
+        "context": "De ce ingrediente am nevoie pentru tort de morcovi?",
+        "id": 199,
+        "keywords": [
+            "tort de morcovi",
+            "ingrediente"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Carrot_cake>"
+        ]
+    },
+    {
+        "context": "Cola este o băutură?",
+        "id": 200,
+        "keywords": [
+            "Cola",
+            "băutură"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Beverage>",
+            "<http://dbpedia.org/resource/Cola>"
+        ]
+    },
+    {
+        "context": "Cu cine a fost căsătorit Tom Cruise?",
+        "id": 201,
+        "keywords": [
+            "Tom Cruise",
+            "căsătorit"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Tom_Cruise>"
+        ]
+    },
+    {
+        "context": "Care dintre filmele lui Tom Burton a avut cel mai mare buget?",
+        "id": 202,
+        "keywords": [
+            "cel mai mare buget",
+            "film",
+            "Tim Burton"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Tim_Burton>"
+        ]
+    },
+    {
+        "context": "Cât de greu este cel mai ușor satelit al lui Jupiter?",
+        "id": 203,
+        "keywords": [
+            "greu",
+            "Jupiter",
+            "satelit",
+            "cel mai ușor"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Jupiter>"
+        ]
+    },
+    {
+        "context": "Ce actor a fost distribuit în cele mai multe filme?",
+        "id": 204,
+        "keywords": [
+            "actor",
+            "distribuit",
+            "cele mai multe filme"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/ontology/Actor>"
+        ]
+    },
+    {
+        "context": "James Bond este căsătorit?",
+        "id": 205,
+        "keywords": [
+            "James Bond",
+            "căsătorit"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/James_Bond>"
+        ]
+    },
+    {
+        "context": "Dă-mi toate trupele metalcore australiene.",
+        "id": 206,
+        "keywords": [
+            "australian",
+            "trupe metalcore"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Band>",
+            "<http://dbpedia.org/resource/Metalcore>"
+        ]
+    },
+    {
+        "context": "Dă-mi toți actorii care s-au născut la Paris după 1950.",
+        "id": 207,
+        "keywords": [
+            "actori",
+            "născut",
+            "Paris",
+            "după 1950"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Actor>",
+            "<http://dbpedia.org/resource/Paris>"
+        ]
+    },
+    {
+        "context": "Care sunt cei patru cei mai tineri jucători de baschet MVP?",
+        "id": 208,
+        "keywords": [
+            "patru",
+            "cei mai tineri",
+            "MVP",
+            "jucători de baschet"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/BasketballPlayer>"
+        ]
+    },
+    {
+        "context": "Ce companii au mai mult de 1 milion de angajați?",
+        "id": 209,
+        "keywords": [
+            "companie",
+            "mai mult de 1 milion",
+            "angajați"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Company>"
+        ]
+    },
+    {
+        "context": "Numește toți înotătorii născuți în Moscova.",
+        "id": 210,
+        "keywords": [
+            "înotători",
+            "născuți",
+            "Moscova"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Moscow>",
+            "<http://dbpedia.org/ontology/Swimmer>"
+        ]
+    },
+    {
+        "context": "Arată-mi cartea pe care a scris-o Muhammad Ali.",
+        "id": 211,
+        "keywords": [
+            "carte",
+            "scris",
+            "Muhammad Ali"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Muhammad_Ali>",
+            "<http://dbpedia.org/ontology/Book>"
+        ]
+    },
+    {
+        "context": "Câte muzee are Parisul?",
+        "id": 212,
+        "keywords": [
+            "câte",
+            "muzee",
+            "Paris"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Museum>",
+            "<http://dbpedia.org/resource/Paris>"
+        ]
+    },
+    {
+        "context": "Care oraș are cei mai mulți locuitori?",
+        "id": 213,
+        "keywords": [
+            "oraș",
+            "cei mai mulți locuitori"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/City>"
+        ]
+    },
+    {
+        "context": "Care oraș are cei mai puțini locuitori?",
+        "id": 214,
+        "keywords": [
+            "oraș",
+            "cei mai puțini locuitori"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/City>"
+        ]
+    },
+    {
+        "context": "Dă-mi toate emisiunile TV cu Neil Patrick Harris",
+        "id": 215,
+        "keywords": [
+            "emisiuni TV",
+            "Neil Patrick Harris"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/TelevisionShow>",
+            "<http://dbpedia.org/resource/Neil_Patrick_Harris>"
+        ]
+    },
+    {
+        "context": "Arată o listă a cluburilor de fotbal care joacă în Bundesliga.",
+        "id": 216,
+        "keywords": [
+            "cluburi de fotbal",
+            "joacă",
+            "Bundesliga"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/SoccerClub>",
+            "<http://dbpedia.org/resource/Bundesliga>"
+        ]
+    },
+    {
+        "context": "În ce țară se află muntele Everest?",
+        "id": 217,
+        "keywords": [
+            "țară",
+            "muntele Everest"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Country>",
+            "<http://dbpedia.org/resource/Mount_Everest>"
+        ]
+    },
+    {
+        "context": "Cine este fondatorul Penguin Books?",
+        "id": 218,
+        "keywords": [
+            "fondator",
+            "Penguin Books"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Penguin_Books>"
+        ]
+    },
+    {
+        "context": "Ce limbaje de programare au influențat Javascript?",
+        "id": 219,
+        "keywords": [
+            "limbaje de programare",
+            "influențat",
+            "Javascript"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/ProgrammingLanguage>",
+            "<http://dbpedia.org/resource/JavaScript>"
+        ]
+    },
+    {
+        "context": "Che Guevara a avut copii?",
+        "id": 220,
+        "keywords": [
+            "copii",
+            "Che Guevara"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Che_Guevara>"
+        ]
+    },
+    {
+        "context": "Listează toate muzicalurile cu muzică de Elton John.",
+        "id": 221,
+        "keywords": [
+            "muzicaluri",
+            "muzică de Elton John"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Elton_John>",
+            "<http://dbpedia.org/ontology/Musical>"
+        ]
+    },
+    {
+        "context": "Arată-mi toate berăriile din Australia.",
+        "id": 222,
+        "keywords": [
+            "berării",
+            "Australia"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Brewery>"
+        ]
+    },
+    {
+        "context": "Când a fost terminat Titanicul?",
+        "id": 223,
+        "keywords": [
+            "Titanic",
+            "data terminării"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/RMS_Titanic>"
+        ]
+    },
+    {
+        "context": "Cât a costat Pulp Fiction?",
+        "id": 224,
+        "keywords": [
+            "cost",
+            "Pulp Fiction"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Pulp_Fiction>"
+        ]
+    },
+    {
+        "context": "Câți carbohidrați conține untul de arahide?",
+        "id": 226,
+        "keywords": [
+            "câți",
+            "carbohidrați",
+            "unt de arahide"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Peanut_butter>"
+        ]
+    },
+    {
+        "context": "Ce carte are cele mai multe pagini?",
+        "id": 227,
+        "keywords": [
+            "carte",
+            "cele mai multe pagini"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Book>"
+        ]
+    },
+    {
+        "context": "Ce poduri traversează Sena?",
+        "id": 228,
+        "keywords": [
+            "poduri",
+            "traversează",
+            "Sena"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Bridge>",
+            "<http://dbpedia.org/resource/Seine>"
+        ]
+    },
+    {
+        "context": "Cine este primarul capitaliei Polineziei Franceze?",
+        "id": 229,
+        "keywords": [
+            "primar",
+            "capitală",
+            "Polinezia Franceză"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/French_Polynesia>"
+        ]
+    },
+    {
+        "context": "Când a murit creatorul Dracula?",
+        "id": 230,
+        "keywords": [
+            "Dracula",
+            "creator",
+            "a muri"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Count_Dracula>"
+        ]
+    },
+    {
+        "context": "Care este locația Palatului Westminster?",
+        "id": 231,
+        "keywords": [
+            "locație",
+            "Palatul Westminster"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Palace_of_Westminster>"
+        ]
+    },
+    {
+        "context": "Arată-mi toate clădirile engleze gotice din Kent.",
+        "id": 232,
+        "keywords": [
+            "clădiri engleze gotice",
+            "Kent"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Kent>",
+            "<http://dbpedia.org/resource/English_Gothic_architecture>",
+            "<http://dbpedia.org/ontology/Building>"
+        ]
+    },
+    {
+        "context": "Cine a fost papa care a creat televiziunea din Vatican?",
+        "id": 233,
+        "keywords": [
+            "papa",
+            "fondat",
+            "televiziunea din Vatican"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Vatican_Television_Center>",
+            "<http://dbpedia.org/ontology/Pope>"
+        ]
+    },
+    {
+        "context": "Care este populația totală a Melbourne, Florida?",
+        "id": 234,
+        "keywords": [
+            "populația totală",
+            "Melbourne Florida"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Melbourne,_Florida>"
+        ]
+    },
+    {
+        "context": "Ce aeroporturi deservește Air China?",
+        "id": 235,
+        "keywords": [
+            "aeroporturi",
+            "Air China"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Air_China>"
+        ]
+    },
+    {
+        "context": "În ce an s-a născut Rachel Stevens?",
+        "id": 236,
+        "keywords": [
+            "an",
+            "născut",
+            "Rachel Stevens"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Rachel_Stevens>"
+        ]
+    },
+    {
+        "context": "Unde a fost asasinat JFK?",
+        "id": 237,
+        "keywords": [
+            "JFK",
+            "asasinat"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/John_F._Kennedy>"
+        ]
+    },
+    {
+        "context": "Care om de știință este cunoscut pentru proiectul Manhattan și pentru premiul Nobel pentru pace?",
+        "id": 239,
+        "keywords": [
+            "om de știință",
+            "cunoscut pentru",
+            "proiect Manhattan",
+            "premiul Nobel pentru pace"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Manhattan_Project>",
+            "<http://dbpedia.org/ontology/Scientist>",
+            "<http://dbpedia.org/resource/Nobel_Peace_Prize>"
+        ]
+    },
+    {
+        "context": "Care sunt specializările UNC Health Care?",
+        "id": 240,
+        "keywords": [
+            "specializări",
+            "UNC Health Care"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/UNC_Health_Care>"
+        ]
+    },
+    {
+        "context": "Cine este proprietarul Facebook?",
+        "id": 241,
+        "keywords": [
+            "proprietar",
+            "Facebook?"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Facebook>"
+        ]
+    },
+    {
+        "context": "Din ce regiune provine Melon-ul de Bourgogne?",
+        "id": 242,
+        "keywords": [
+            "regiune",
+            "Melon de Bourgogne"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Melon_de_Bourgogne>"
+        ]
+    },
+    {
+        "context": "Cine a fost influențat de către Socrate?",
+        "id": 243,
+        "keywords": [
+            "influențat",
+            "Socrate"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Socrates>"
+        ]
+    },
+    {
+        "context": "Cine a fost preşedintele Pakistanului în 1978?",
+        "id": 244,
+        "keywords": [
+            "preşedinte",
+            "Pakistan",
+            "1978"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/President_of_Pakistan>"
+        ]
+    },
+    {
+        "context": "Cine a fost căsătorit cu președintele Chirac?",
+        "id": 245,
+        "keywords": [
+            "căsătorit cu",
+            "președintele Chirac"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Jacques_Chirac>"
+        ]
+    },
+    {
+        "context": "Care este cea mai mare zonă metropolitană din statul Washington?",
+        "id": 246,
+        "keywords": [
+            "cea mai mare zonă metropolitană",
+            "statul Washington"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Washington_(state)>"
+        ]
+    },
+    {
+        "context": "Unde în Franța este produs vinul spumant?",
+        "id": 247,
+        "keywords": [
+            "produs",
+            "Franța",
+            "vin spumant"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/France>",
+            "<http://dbpedia.org/resource/Sparkling_wine>"
+        ]
+    },
+    {
+        "context": "Unde a murit Hillel Slovak?",
+        "id": 248,
+        "keywords": [
+            "Hillel Slovak",
+            "locul morții"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Hillel_Slovak>"
+        ]
+    },
+    {
+        "context": "În ce oraș se termină Route 68 din Chile?",
+        "id": 249,
+        "keywords": [
+            "oraș",
+            "termină",
+            "Route 68",
+            "Chile"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Chile_Route_68>"
+        ]
+    },
+    {
+        "context": "Ce înălțime are Amazon Eve?",
+        "id": 282,
+        "keywords": [
+            "Amazon Eve",
+            "înălțime"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Amazon_Eve>"
+        ]
+    },
+    {
+        "context": "Ce alte arme a realizat Heckler & Koch?",
+        "id": 287,
+        "keywords": [
+            "Heckler & Koch",
+            "realiza",
+            "armă"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Heckler_&_Koch>",
+            "<http://dbpedia.org/ontology/Weapon>"
+        ]
+    },
+    {
+        "context": "Cine a creat Batman?",
+        "id": 316,
+        "keywords": [
+            "Batman",
+            "creat"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Batman>"
+        ]
+    },
+    {
+        "context": "Ce politicieni au fost căsătoriți cu o persoană germană?",
+        "id": 344,
+        "keywords": [
+            "politicieni",
+            "căsătorit",
+            "german"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Politician>"
+        ]
+    },
+    {
+        "context": "Când a fost fondat Jack Wolfskin?",
+        "id": 394,
+        "keywords": [
+            "Jack Wolfskin",
+            "fondat"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Jack_Wolfskin>"
+        ]
+    },
+    {
+        "context": "Dă-mi nepoții lui Elvis Presley.",
+        "id": 404,
+        "keywords": [
+            "Elvis Presley",
+            "nepoți"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Elvis_Presley>"
+        ]
+    },
+    {
+        "context": "Când a fost ucis Olof Palme?",
+        "id": 439,
+        "keywords": [
+            "dată",
+            "Olof Palme",
+            "ucis"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Olof_Palme>"
+        ]
+    },
+    {
+        "context": "Listează toate muzicalurile cu muzică de Leonard Bernstein.",
+        "id": 453,
+        "keywords": [
+            "muzicaluri",
+            "muzică de Leonard Bernstein"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Leonard_Bernstein>",
+            "<http://dbpedia.org/ontology/Musical>"
+        ]
+    },
+    {
+        "context": "Ce aeroporturi deservește Yeti Airlines?",
+        "id": 467,
+        "keywords": [
+            "aeroporturi",
+            "Yeti Airlines"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Yeti_Airlines>"
+        ]
+    },
+    {
+        "context": "Care este fusul orar din San Pedro de Atacama?",
+        "id": 481,
+        "keywords": [
+            "fus orar",
+            "San Pedro de Atacama"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/San_Pedro_de_Atacama>"
+        ]
+    },
+    {
+        "context": "Dă toate zilele de sărbătoare din Suedia.",
+        "id": 483,
+        "keywords": [
+            "zile de sărbătoare",
+            "Suedia"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Holiday>",
+            "<http://dbpedia.org/resource/Sweden>"
+        ]
+    },
+    {
+        "context": "Cine este cel mai tânăr câștigător al premiului Pulitzer?",
+        "id": 484,
+        "keywords": [
+            "cel mai tânăr",
+            "câștigător",
+            "premiu Pulitzer"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Pulitzer_Prize>"
+        ]
+    },
+    {
+        "context": "Ce jucători de fotbal s-au născut în Malta?",
+        "id": 485,
+        "keywords": [
+            "jucător de fotbal",
+            "născut",
+            "Malta"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Malta>",
+            "<http://dbpedia.org/ontology/SoccerPlayer>"
+        ]
+    },
+    {
+        "context": "Arnold Schwarzenegger a frecventat o universitate?",
+        "id": 486,
+        "keywords": [
+            "Arnold Schwarzenegger",
+            "frecventa",
+            "universitate"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/University>",
+            "<http://dbpedia.org/resource/Arnold_Schwarzenegger>"
+        ]
+    },
+    {
+        "context": "Ce limbaje de programare au fost influențate de Perl?",
+        "id": 487,
+        "keywords": [
+            "limbaje de programare",
+            "influențat",
+            "Perl"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/ProgrammingLanguage>"
+        ]
+    },
+    {
+        "context": "Barack Obama este un democrat?",
+        "id": 488,
+        "keywords": [
+            "Barack Obama",
+            "democrat"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Democratic_Party_(United_States)>",
+            "<http://dbpedia.org/resource/Barack_Obama>"
+        ]
+    },
+    {
+        "context": "Câți copii are Eddie Murphy?",
+        "id": 489,
+        "keywords": [
+            "copii",
+            "Eddie Murphy"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Eddie_Murphy>"
+        ]
+    },
+    {
+        "context": "Cine este copilul cel mai mare al lui Meryl Streep?",
+        "id": 490,
+        "keywords": [
+            "copilul cel mai mare",
+            "Meryl Streep"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Meryl_Streep>"
+        ]
+    },
+    {
+        "context": "Cine l-a ucis pe John Lennon?",
+        "id": 491,
+        "keywords": [
+            "ucis",
+            "John Lennon"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Death_of_John_Lennon>",
+            "<http://dbpedia.org/ontology/Person>"
+        ]
+    },
+    {
+        "context": "Câți oameni de știință au absolvit la universitatea Ivy League?",
+        "id": 493,
+        "keywords": [
+            "oameni de știință",
+            "absolvit",
+            "universitatea Ivy League"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Ivy_League>",
+            "<http://dbpedia.org/ontology/Scientist>"
+        ]
+    },
+    {
+        "context": "Ce soiuri de struguri cresc în Oregon?",
+        "id": 494,
+        "keywords": [
+            "soiuri de struguri",
+            "cresc",
+            "Oregon"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Oregon_wine>"
+        ]
+    },
+    {
+        "context": "Cine sunt protagoniști în filmele spaniole produse de Benicio del Toro?",
+        "id": 495,
+        "keywords": [
+            "protagoniști",
+            "filmele spaniole",
+            "produse",
+            "Benicio del Toro"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Spain>",
+            "<http://dbpedia.org/resource/Benicio_del_Toro>",
+            "<http://dbpedia.org/ontology/Person>",
+            "<http://dbpedia.org/ontology/Film>"
+        ]
+    },
+    {
+        "context": "Cine este manager la Real Madrid?",
+        "id": 496,
+        "keywords": [
+            "manager",
+            "Real Madrid"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Real_Madrid_C.F.>"
+        ]
+    },
+    {
+        "context": "Care este moneda din China?",
+        "id": 497,
+        "keywords": [
+            "moneda",
+            "China"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/China>"
+        ]
+    },
+    {
+        "context": "Ce filme cu Mickey Rourke ca protagonist au fost regizate de Guy Ritchie?",
+        "id": 498,
+        "keywords": [
+            "filme",
+            "Mickey Rourke",
+            "protagonist",
+            "regizate",
+            "Guy Ritchie"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Guy_Ritchie>",
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Mickey_Rourke>"
+        ]
+    },
+    {
+        "context": "Este Darth Vader tatăl lui Luke?",
+        "id": 499,
+        "keywords": [
+            "Darth Vader",
+            "tatăl",
+            "Luke"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Darth_Vader>"
+        ]
+    },
+    {
+        "context": "Câte companii au fost înființate de fondatorul Facebook?",
+        "id": 500,
+        "keywords": [
+            "companii",
+            "înființate",
+            "fondator",
+            "Facebook"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Facebook>"
+        ]
+    },
+    {
+        "context": "Câte companii au fost înființate în același an cu Google?",
+        "id": 501,
+        "keywords": [
+            "companii",
+            "înființate",
+            "același an",
+            "Google"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Google>",
+            "<http://dbpedia.org/ontology/Company>"
+        ]
+    },
+    {
+        "context": "Câte companii aeriene sunt membre în Star Alliance?",
+        "id": 502,
+        "keywords": [
+            "câte",
+            "companii aeriene",
+            "membre",
+            "Star Alliance"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Star_Alliance>",
+            "<http://dbpedia.org/ontology/Airline>"
+        ]
+    },
+    {
+        "context": "Care muzician a scris cele mai multe cărți?",
+        "id": 503,
+        "keywords": [
+            "muzician",
+            "scris",
+            "cele mai multe cărți"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Book>",
+            "<http://dbpedia.org/resource/Musician>"
+        ]
+    },
+    {
+        "context": "Arată-mi toate persoanele care s-au născut de Halloween.",
+        "id": 504,
+        "keywords": [
+            "persoanele",
+            "născut de",
+            "Halloween"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Person>",
+            "<http://dbpedia.org/resource/Halloween>"
+        ]
+    },
+    {
+        "context": "În ce țară se află Mecca?",
+        "id": 505,
+        "keywords": [
+            "țară",
+            "se află",
+            "Mecca"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Mecca>"
+        ]
+    },
+    {
+        "context": "Care este venitul net al Apple?",
+        "id": 506,
+        "keywords": [
+            "venit net",
+            "Apple"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Apple_Inc.>"
+        ]
+    },
+    {
+        "context": "Când a dispărut dinastia Ming?",
+        "id": 507,
+        "keywords": [
+            "dispărut",
+            "dinastia Ming"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Ming_dynasty>"
+        ]
+    },
+    {
+        "context": "Care muzeu din New York are cei mai mulți vizitatori?",
+        "id": 508,
+        "keywords": [
+            "muzeu",
+            "New York",
+            "cei mai mulți vizitatori"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Museum>",
+            "<http://dbpedia.org/resource/New_York_City>"
+        ]
+    },
+    {
+        "context": "Lacul Baikal este mai mare decât lacul Great Bear?",
+        "id": 509,
+        "keywords": [
+            "lacul Baikal",
+            "mai mare decât",
+            "lacul Great Bear"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Great_Bear_Lake>",
+            "<http://dbpedia.org/resource/Lake_Baikal>"
+        ]
+    },
+    {
+        "context": "Care este cel mai înalt munte din Italia?",
+        "id": 510,
+        "keywords": [
+            "cel mai înalt",
+            "munte",
+            "Italia"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Mountain>",
+            "<http://dbpedia.org/resource/Italy>"
+        ]
+    },
+    {
+        "context": "Unde a studiat arhitectul turnului Eiffel?",
+        "id": 511,
+        "keywords": [
+            "studiat",
+            "arhitectul",
+            "turn Eiffel"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Eiffel_Tower>"
+        ]
+    },
+    {
+        "context": "Care partide grecești sunt pro-europene?",
+        "id": 512,
+        "keywords": [
+            "partide grecești",
+            "pro-europene"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Pro-Europeanism>",
+            "<http://dbpedia.org/resource/Greece>",
+            "<http://dbpedia.org/ontology/PoliticalParty>"
+        ]
+    },
+    {
+        "context": "Cine este primar în Rotterdam?",
+        "id": 513,
+        "keywords": [
+            "primar",
+            "Rotterdam"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Rotterdam>"
+        ]
+    },
+    {
+        "context": "Cât de înalt este farul din Colombo?",
+        "id": 514,
+        "keywords": [
+            "înalt",
+            "farul din Colombo"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Colombo_Lighthouse>"
+        ]
+    },
+    {
+        "context": "Câte grupuri etnice trăiesc în Slovenia?",
+        "id": 516,
+        "keywords": [
+            "câte",
+            "grupuri etnice",
+            "Slovenia"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Slovenia>"
+        ]
+    },
+    {
+        "context": "Enumeră cei șapte regi ai Romei.",
+        "id": 517,
+        "keywords": [
+            "șapte regi",
+            "Roma"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/King_of_Rome>"
+        ]
+    },
+    {
+        "context": "Cine au fost părinții reginei Victoria?",
+        "id": 518,
+        "keywords": [
+            "părinți",
+            "regina Victoria"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Queen_Victoria>"
+        ]
+    },
+    {
+        "context": "Cine este cel mai greu jucător de la Chicago Bulls?",
+        "id": 519,
+        "keywords": [
+            "cel mai greu",
+            "jucător",
+            "Chicago Bulls"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Person>"
+        ]
+    },
+    {
+        "context": "Ce vulcani au erupt în Japonia din 2000?",
+        "id": 520,
+        "keywords": [
+            "vulcani",
+            "erupt",
+            "Japonia",
+            "din 2000"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Volcano>",
+            "<http://dbpedia.org/resource/Japan>"
+        ]
+    },
+    {
+        "context": "Cine este cel mai înalt jucător de basket?",
+        "id": 521,
+        "keywords": [
+            "cel mai înalt",
+            "jucător de basket"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/BasketballPlayer>"
+        ]
+    },
+    {
+        "context": "Cine este prezentatorul pentru BBC Wildlife Specials?",
+        "id": 522,
+        "keywords": [
+            "prezentator",
+            "BBC Wildlife Specials"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/BBC_Wildlife_Specials>"
+        ]
+    },
+    {
+        "context": "În ce oraș este fabrica de bere Heineken?",
+        "id": 523,
+        "keywords": [
+            "oraș",
+            "fabrica de bere Heineken"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Heineken>"
+        ]
+    },
+    {
+        "context": "Când a început operațiunea Overlord?",
+        "id": 524,
+        "keywords": [
+            "când",
+            "început",
+            "operațiunea Overlord"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Operation_Overlord>"
+        ]
+    },
+    {
+        "context": "Cine a dezvoltat Slack?",
+        "id": 525,
+        "keywords": [
+            "dezvoltator",
+            "Slack"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Slack_(software)>"
+        ]
+    },
+    {
+        "context": "Cine l-a descoperit pe Ceres?",
+        "id": 527,
+        "keywords": [
+            "descoperitor",
+            "Ceres"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Ceres_(dwarf_planet)>"
+        ]
+    },
+    {
+        "context": "Care este cea mai mare țară din lume?",
+        "id": 528,
+        "keywords": [
+            "cea mai mare țară",
+            "lume"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Country>"
+        ]
+    },
+    {
+        "context": "Cine este primarul Parisului?",
+        "id": 529,
+        "keywords": [
+            "primarul Parisului"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Paris>"
+        ]
+    },
+    {
+        "context": "Cine este antrenorul echipei de hochei pe gheață din Ankara?",
+        "id": 530,
+        "keywords": [
+            "antrenor",
+            "echipa de hochei pe gheață",
+            "Ankara"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Turkish_Ice_Hockey_First_League>",
+            "<http://dbpedia.org/resource/Ankara>"
+        ]
+    },
+    {
+        "context": "Cât de mult a costat filmul Lego?",
+        "id": 531,
+        "keywords": [
+            "filmul Lego",
+            "costa"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Lego_Movie>"
+        ]
+    },
+    {
+        "context": "Unde începe Piccadilly?",
+        "id": 532,
+        "keywords": [
+            "Piccadilly",
+            "început"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Piccadilly>"
+        ]
+    },
+    {
+        "context": "Câți oameni locuiesc în Polonia?",
+        "id": 534,
+        "keywords": [
+            "câți oameni",
+            "Polonia"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Poland>"
+        ]
+    },
+    {
+        "context": "Cine a creat Family Guy?",
+        "id": 537,
+        "keywords": [
+            "creat",
+            "Family Guy"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Family_Guy>"
+        ]
+    },
+    {
+        "context": "Cine a compus cântecul Hotel California?",
+        "id": 538,
+        "keywords": [
+            "scrie",
+            "cântec",
+            "Hotel California"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Hotel_California>"
+        ]
+    },
+    {
+        "context": "Ce conține un biscuit cu fulgi de ciocolată?",
+        "id": 539,
+        "keywords": [
+            "ingrediente",
+            "biscuit cu fulgi de ciocolată"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Chocolate_chip_cookie>"
+        ]
+    },
+    {
+        "context": "Neymar joacă pentru Real Madrid?",
+        "id": 540,
+        "keywords": [
+            "Neymar",
+            "joacă",
+            "Real Madrid"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Real_Madrid_C.F.>",
+            "<http://dbpedia.org/resource/Neymar>"
+        ]
+    },
+    {
+        "context": "Listă toate episoade de  primul sezon de  HBO televiziune serie  Sopranos! ",
+        "id": 542,
+        "keywords": [
+            "HBO",
+            "televiziune serie",
+            "Sopranos",
+            "primul sezon",
+            "episod"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Sopranos>"
+        ]
+    },
+    {
+        "context": "Cine l-a jucat pe Gus Fring în Breaking Bad?",
+        "id": 544,
+        "keywords": [
+            "jucat",
+            "Gus Fring",
+            "Breaking Bad"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Gus_Fring>"
+        ]
+    },
+    {
+        "context": "În ce imperiu antic puteai plăti cu boabe de cacao?",
+        "id": 545,
+        "keywords": [
+            "imperiu antic",
+            "plăti",
+            "boabe de cacao"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Cocoa_bean>"
+        ]
+    },
+    {
+        "context": "Care companii de electronice au fost fondate în Beijing?",
+        "id": 546,
+        "keywords": [
+            "companii de electronice",
+            "fondat",
+            "Beijing"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Electronics>",
+            "<http://dbpedia.org/resource/Beijing>",
+            "<http://dbpedia.org/ontology/Company>"
+        ]
+    },
+    {
+        "context": "Care este capitala Camerunului?",
+        "id": 547,
+        "keywords": [
+            "capitală",
+            "Camerun"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Cameroon>"
+        ]
+    },
+    {
+        "context": "Ce formă de guvern are Rusia?",
+        "id": 549,
+        "keywords": [
+            "formă de guvern",
+            "Rusia"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Russia>"
+        ]
+    },
+    {
+        "context": "Ce companie indiană are cei mai mulți angajați?",
+        "id": 551,
+        "keywords": [
+            "companie indiană",
+            "cei mai mulți angajați"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/India>",
+            "<http://dbpedia.org/ontology/Company>"
+        ]
+    },
+    {
+        "context": "Cine este președintele Eritreei?",
+        "id": 552,
+        "keywords": [
+            "președinte",
+            "Eritreea"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Eritrea>"
+        ]
+    },
+    {
+        "context": "Ce filme a regizat Stanley Kubrick?",
+        "id": 553,
+        "keywords": [
+            "film",
+            "Stanley Kubrick",
+            "regiza"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Stanley_Kubrick>"
+        ]
+    },
+    {
+        "context": "Care filială a Lufthansa deservește atât Dortmund cât și Berlin Tegel?",
+        "id": 555,
+        "keywords": [
+            "filială",
+            "Lufthansa",
+            "deservește",
+            "Dortmund",
+            "Berlin Tegel"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Dortmund_Airport>",
+            "<http://dbpedia.org/resource/Berlin_Tegel_Airport>",
+            "<http://dbpedia.org/resource/Lufthansa>"
+        ]
+    },
+    {
+        "context": "Cine a compus coloana sonoră pentru Titanicul lui Cameron?",
+        "id": 557,
+        "keywords": [
+            "compus",
+            "coloana sonoră",
+            "Titanicul lui Cameron"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Titanic_(1997_film)>"
+        ]
+    },
+    {
+        "context": "Pe ce fus orar este Roma?",
+        "id": 558,
+        "keywords": [
+            "fus orar",
+            "Roma"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Rome>"
+        ]
+    },
+    {
+        "context": "Cine sunt dezvoltatorii DBpedia?",
+        "id": 560,
+        "keywords": [
+            "dezvoltatori",
+            "DBpedia"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/DBpedia>"
+        ]
+    },
+    {
+        "context": "Cine este regele Țărilor de Jos?",
+        "id": 562,
+        "keywords": [
+            "rege",
+            "Țările de Jos"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Netherlands>",
+            "<http://dbpedia.org/ontology/Royalty>"
+        ]
+    },
+    {
+        "context": "În ce oraș a murit Nikos Kazantsakis?",
+        "id": 563,
+        "keywords": [
+            "oraș",
+            "Nikos Kazantsakis",
+            "murit"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Town>",
+            "<http://dbpedia.org/resource/Nikos_Kazantzakis>"
+        ]
+    },
+    {
+        "context": "Dă-mi o listă cu toate păsările în pericol ridicat de dispariție.",
+        "id": 564,
+        "keywords": [
+            "listă",
+            "păsări în pericol ridicat de dispariție"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Bird>"
+        ]
+    },
+    {
+        "context": "Care companii produc aeroglisoare?",
+        "id": 565,
+        "keywords": [
+            "companii",
+            "produc",
+            "aeroglisoare"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Hovercraft>",
+            "<http://dbpedia.org/ontology/Company>"
+        ]
+    },
+    {
+        "context": "A avut Elvis Presley copii?",
+        "id": 566,
+        "keywords": [
+            "Elvis Presly",
+            "copii"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Elvis_Presley>"
+        ]
+    },
+    {
+        "context": "În ce țari se vorbește japoneza?",
+        "id": 567,
+        "keywords": [
+            "ce țări",
+            "vorbește",
+            "japoneza"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Country>",
+            "<http://dbpedia.org/resource/Japanese_language>"
+        ]
+    },
+    {
+        "context": "Care a fost primul album Queen?",
+        "id": 568,
+        "keywords": [
+            "primul album",
+            "Queen"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Queen_(band)>",
+            "<http://dbpedia.org/ontology/Album>"
+        ]
+    },
+    {
+        "context": "Din ce țară este Sitecore?",
+        "id": 569,
+        "keywords": [
+            "țară",
+            "Sitecore"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Sitecore>"
+        ]
+    },
+    {
+        "context": "De către cine a fost Vincent van Gogh inspirat?",
+        "id": 570,
+        "keywords": [
+            "persoană",
+            "inspirație",
+            "Vincent van Gogh"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Vincent_van_Gogh>"
+        ]
+    },
+    {
+        "context": "Cine a scris tema din Urzeala Tronurilor?",
+        "id": 571,
+        "keywords": [
+            "scriitor",
+            "Urzeala Tronurilor"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Game_of_Thrones>"
+        ]
+    },
+    {
+        "context": "Când și-a încheiat Boris Becker cariera activă?",
+        "id": 572,
+        "keywords": [
+            "încheia cariera",
+            "Boris Becker"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Boris_Becker>"
+        ]
+    },
+    {
+        "context": "Cărui partid aparține primarul Parisului?",
+        "id": 573,
+        "keywords": [
+            "partid",
+            "primarul Parisului",
+            "aparține"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Paris>"
+        ]
+    },
+    {
+        "context": "Cine a fost conducătorul de doctorat al lui Albert Einstein?",
+        "id": 574,
+        "keywords": [
+            "conducător de doctorat",
+            "Albert Einstein"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Albert_Einstein>"
+        ]
+    },
+    {
+        "context": "În ce oraș trăiește Sylvester Stallone?",
+        "id": 575,
+        "keywords": [
+            "oraș",
+            "trăiește",
+            "Sylvester Stallone"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Sylvester_Stallone>",
+            "<http://dbpedia.org/ontology/City>"
+        ]
+    },
+    {
+        "context": "Cine este fiul lui Sonny și Cher?",
+        "id": 576,
+        "keywords": [
+            "fiu",
+            "Sonny și Cher"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Sonny_Bono>",
+            "<http://dbpedia.org/resource/Cher>"
+        ]
+    },
+    {
+        "context": "În ce oraș se află cartierul general al Națiunilor Unite?",
+        "id": 577,
+        "keywords": [
+            "oraș",
+            "cartierul general al Națiunilor Unite"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Headquarters_of_the_United_Nations>",
+            "<http://dbpedia.org/ontology/City>"
+        ]
+    },
+    {
+        "context": "Arată-mi autobiografia lui Hemingway",
+        "id": 579,
+        "keywords": [
+            "autobiografie",
+            "Hemingway"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Autobiography>",
+            "<http://dbpedia.org/resource/Ernest_Hemingway>"
+        ]
+    },
+    {
+        "context": "Kaurismäki a câștigat vreodată premiul Grand Prix la Cannes?",
+        "id": 583,
+        "keywords": [
+            "Kaurismäki",
+            "câștigător",
+            "Grand Prix la Cannes"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Aki_Kaurismäki>",
+            "<http://dbpedia.org/resource/Grand_Prix_(Cannes_Film_Festival)>"
+        ]
+    },
+    {
+        "context": "Unde este înmormântat Syngman Rhee?",
+        "id": 584,
+        "keywords": [
+            "unde",
+            "înmormântat",
+            "Syngman Rhee"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Syngman_Rhee>"
+        ]
+    },
+    {
+        "context": "Arată-mi toate cărțile din seria Fundația de Asimov",
+        "id": 585,
+        "keywords": [
+            "cărți",
+            "seria Fundația",
+            "Asimov"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Foundation_series>"
+        ]
+    },
+    {
+        "context": "Cât de înalt este Turnul Marine Yokohama?",
+        "id": 586,
+        "keywords": [
+            "înalt",
+            "Turnul Marine Yokohama"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Yokohama_Marine_Tower>"
+        ]
+    },
+    {
+        "context": "Care este cel mai mare stadion din Spania?",
+        "id": 589,
+        "keywords": [
+            "cel mai mare stadion",
+            "Spania"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Stadium>",
+            "<http://dbpedia.org/resource/Spain>"
+        ]
+    },
+    {
+        "context": "Care sunt cele cinci cartiere din New York?",
+        "id": 590,
+        "keywords": [
+            "cinci cartiere",
+            "New York"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Borough_(New_York_City)>"
+        ]
+    },
+    {
+        "context": "Când a murit prințesa Diana?",
+        "id": 591,
+        "keywords": [
+            "data morții",
+            "prințesa Diana"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Diana,_Princess_of_Wales>"
+        ]
+    },
+    {
+        "context": "",
+        "id": 710,
+        "keywords": [
+            "urdu",
+            "persană",
+            "comun rădăcină"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Urdu>",
+            "<http://dbpedia.org/resource/Persian_language>"
+        ]
+    },
+    {
+        "context": "Listă toate jocuri de masă de GMT. ",
+        "id": 748,
+        "keywords": [
+            "jocuri pe",
+            "GMT"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/GMT_Games>"
+        ]
+    },
+    {
+        "context": "Care dezvoltat Skype? ",
+        "id": 749,
+        "keywords": [
+            "dezvolta",
+            "Skype"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Skype>"
+        ]
+    },
+    {
+        "context": "Care oameni au fost născut în Heraklion? ",
+        "id": 750,
+        "keywords": [
+            "oameni",
+            "născut",
+            "heraklion"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Person>",
+            "<http://dbpedia.org/resource/Heraklion>"
+        ]
+    },
+    {
+        "context": "În care SUA stat este Zonă 51 situat? ",
+        "id": 751,
+        "keywords": [
+            "Zonă 51",
+            "situat",
+            "SUA stat"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/United_States>",
+            "<http://dbpedia.org/resource/Area_51>"
+        ]
+    },
+    {
+        "context": "Care este  primar de Nou York Oraș? ",
+        "id": 752,
+        "keywords": [
+            "Nou York Oraș",
+            "primar"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/New_York_City>"
+        ]
+    },
+    {
+        "context": "Care țări avea locuri cu Mai Mult decât Două peșteri? ",
+        "id": 753,
+        "keywords": [
+            "țară",
+            "loc",
+            "peşteră",
+            "Mai Mult decât Două"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Cave>",
+            "<http://dbpedia.org/ontology/Country>"
+        ]
+    },
+    {
+        "context": "Unde făcut Avraam Lincoln ? ",
+        "id": 754,
+        "keywords": [
+            "Avraam Lincoln",
+            ""
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Abraham_Lincoln>"
+        ]
+    },
+    {
+        "context": "Da pe mine toate actori încearcă în filme dirijat de și încearcă William Shatner. ",
+        "id": 756,
+        "keywords": [
+            "actor",
+            "încearcă",
+            "film",
+            "direct",
+            "încearcă",
+            "William Shatner"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/William_Shatner>"
+        ]
+    },
+    {
+        "context": "Ce sunt  oficial limbi de  Filipine? ",
+        "id": 757,
+        "keywords": [
+            "Filipine",
+            "oficial limba"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Philippines>"
+        ]
+    },
+    {
+        "context": "Ce filme cu Brad Pitt ca protagonist au fost regizate de Guy Ritchie?",
+        "id": 759,
+        "keywords": [
+            "filme",
+            "Brad Pitt",
+            "protagonist",
+            "regizate",
+            "Guy Ritchie"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Guy_Ritchie>",
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Brad_Pitt>"
+        ]
+    },
+    {
+        "context": "Dă-mi nepoții lui Bruce Lee.",
+        "id": 760,
+        "keywords": [
+            "Bruce Lee",
+            "nepoți"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Bruce_Lee>"
+        ]
+    },
+    {
+        "context": "Care organizații au fost fondat în 1950? ",
+        "id": 764,
+        "keywords": [
+            "organizare",
+            "fondat",
+            "1950"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Organisation>"
+        ]
+    },
+    {
+        "context": "Da pe mine  Apollo 14 astronauți. ",
+        "id": 765,
+        "keywords": [
+            "astronaut",
+            "Apollo 14"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Apollo_14>"
+        ]
+    },
+    {
+        "context": "Care a scris  carte  piloni de  Pământ? ",
+        "id": 766,
+        "keywords": [
+            "a scris",
+            "carte",
+            "piloni de  Pământ"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Pillars_of_the_Earth>"
+        ]
+    },
+    {
+        "context": "Ce zboruri spațiale au fost lansate din Baikonur?",
+        "id": 768,
+        "keywords": [
+            "zbor spațial",
+            "lansat",
+            "Baikonur"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Baikonur_Cosmodrome>"
+        ]
+    },
+    {
+        "context": "Da pe mine A listă de toate trompeta jucători acea au fost bandleaders. ",
+        "id": 769,
+        "keywords": [
+            "trompeta jucător",
+            "șef de orchestră"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Bandleader>",
+            "<http://dbpedia.org/resource/Trumpet>"
+        ]
+    },
+    {
+        "context": "Cu cine este căsătorită fiica lui Ingrid Bergman?",
+        "id": 772,
+        "keywords": [
+            "Ingrid Bergman",
+            "fiică",
+            "căsătorită"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Ingrid_Bergman>"
+        ]
+    },
+    {
+        "context": "Cât de adânc este lacul Placid?",
+        "id": 773,
+        "keywords": [
+            "lacul Placid",
+            "adânc"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Lake_Placid_(Texas)>"
+        ]
+    },
+    {
+        "context": "Arată-mi toate muzeele din Londra",
+        "id": 774,
+        "keywords": [
+            "muzee",
+            "Londra"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Museum>",
+            "<http://dbpedia.org/resource/London>"
+        ]
+    },
+    {
+        "context": "Arată-mi toți jucătorii de basket care sunt mai înalți de 2 metri.",
+        "id": 779,
+        "keywords": [
+            "jucători de basket",
+            "mai înalți de 2 metri"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/BasketballPlayer>"
+        ]
+    },
+    {
+        "context": "În ce filme joacă Jesse Eisenberg?",
+        "id": 780,
+        "keywords": [
+            "filme",
+            "Jesse Eisenberg"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Jesse_Eisenberg>"
+        ]
+    },
+    {
+        "context": "Dă-mi toate organizațiile non-profit elvețiene.",
+        "id": 783,
+        "keywords": [
+            "organizații non-profit",
+            "elvețiene"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Nonprofit_organization>"
+        ]
+    },
+    {
+        "context": "Ce fel de muzică a cântat Lou Reed?",
+        "id": 785,
+        "keywords": [
+            "fel de muzică",
+            "Lou Reed",
+            "cântat"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Lou_Reed>"
+        ]
+    },
+    {
+        "context": "Unde joacă Red Sox?",
+        "id": 786,
+        "keywords": [
+            "unde",
+            "joacă",
+            "Red Sox"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Boston_Red_Sox>"
+        ]
+    },
+    {
+        "context": "Dă-mi toate țările traversate de Himalaya și capitalele lor.",
+        "id": 793,
+        "keywords": [
+            "țări",
+            "traversate de Himalaya",
+            "capitale"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Himalayas>"
+        ]
+    },
+    {
+        "context": "În ce filme joacă atât Liz Taylor cât și Richard Burton?",
+        "id": 801,
+        "keywords": [
+            "filme",
+            "joacă",
+            "Liz Taylor",
+            "Richard Burton"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Richard_Burton>",
+            "<http://dbpedia.org/resource/Elizabeth_Taylor>"
+        ]
+    },
+    {
+        "context": "Dă-mi toți astronauții ESA.",
+        "id": 802,
+        "keywords": [
+            "astronauți ESA"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/European_Space_Agency>",
+            "<http://dbpedia.org/ontology/Astronaut>"
+        ]
+    },
+    {
+        "context": "Ce bere este originară din Irlanda?",
+        "id": 807,
+        "keywords": [
+            "bere",
+            "originară",
+            "Irlanda"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Beer_in_Ireland>",
+            "<http://dbpedia.org/resource/Beer>"
+        ]
+    },
+    {
+        "context": "Peste ce țări se întinde lanțul munților Himalaya?",
+        "id": 808,
+        "keywords": [
+            "lanțul munților Himalaya",
+            "întinde",
+            "țară"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Himalayas>"
+        ]
+    },
+    {
+        "context": "În ce oraș a fost înmormântată fosta regină a Olandei, Juliana?",
+        "id": 814,
+        "keywords": [
+            "regina Olandei",
+            "Juliana",
+            "inmormântată",
+            "oraș"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Juliana_of_the_Netherlands>",
+            "<http://dbpedia.org/ontology/Settlement>"
+        ]
+    },
+    {
+        "context": "Care scriitori au studiat în Istanbul?",
+        "id": 818,
+        "keywords": [
+            "sciitori",
+            "studiat",
+            "Istanbul"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Writer>"
+        ]
+    },
+    {
+        "context": "Ce actor l-a jucat pe Chewbacca?",
+        "id": 826,
+        "keywords": [
+            "actor",
+            "jucat",
+            "Chewbacca"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Chewbacca>"
+        ]
+    },
+    {
+        "context": "Ce companii aeriene fac parte din alianța SkyTeam?",
+        "id": 830,
+        "keywords": [
+            "companii aeriene",
+            "parte din",
+            "alianța SkyTeam"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Airline>"
+        ]
+    },
+    {
+        "context": "Ce alte cărți avea fost scris de  autor de  eroare în Al nostru Stele? ",
+        "id": 832,
+        "keywords": [
+            "cărți",
+            "autor",
+            "eroare în Al nostru stele"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/John_Green_(author)>"
+        ]
+    },
+    {
+        "context": "Cine a scris Jocurile Foamei?",
+        "id": 839,
+        "keywords": [
+            "scris",
+            "Jocurile Foamei"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Hunger_Games>"
+        ]
+    },
+    {
+        "context": "Ce este  cel mai mic oraș de zonă în Germania? ",
+        "id": 853,
+        "keywords": [
+            "cel mai mic",
+            "oraș",
+            "Germania"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Category:Cities_in_Germany>"
+        ]
+    },
+    {
+        "context": "Cine l-a jucat pe Agent Smith în Matrix?",
+        "id": 858,
+        "keywords": [
+            "jucat",
+            "Agent Smith",
+            "Matrix"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Agent_Smith>"
+        ]
+    },
+    {
+        "context": "În care SUA stat este Fort Knox situat? ",
+        "id": 867,
+        "keywords": [
+            "Fort Knox",
+            "situat",
+            "SUA stat"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Fort_Knox>",
+            "<http://dbpedia.org/resource/United_States>"
+        ]
+    },
+    {
+        "context": "Ce este  cea mai mare oraș în America? ",
+        "id": 879,
+        "keywords": [
+            "cea mai mare",
+            "oraș",
+            "America"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/United_States>"
+        ]
+    },
+    {
+        "context": "Ce este  alma mamă de  cancelar de Germania Angela Merkel? ",
+        "id": 880,
+        "keywords": [
+            "Angela Merkel"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Angela_Merkel>"
+        ]
+    },
+    {
+        "context": "Unde este  locul naşterii de Goethe? ",
+        "id": 881,
+        "keywords": [
+            "Goethe"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Johann_Wolfgang_von_Goethe>"
+        ]
+    },
+    {
+        "context": "Ce este  cel mai inalt Munte în Saxonia Germania? ",
+        "id": 884,
+        "keywords": [
+            "cel mai inalt",
+            "Munte",
+            "Saxonia",
+            "Germania"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Ore_Mountains>"
+        ]
+    },
+    {
+        "context": "Care este  actual federal ministru de finanţa în Germania? ",
+        "id": 885,
+        "keywords": [
+            "federal ministru de finanţa",
+            "Germania"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Federal_Ministry_of_Finance_(Germany)>"
+        ]
+    },
+    {
+        "context": "În care stat Penn Stat Universitate este situat? ",
+        "id": 887,
+        "keywords": [
+            "Penn Stat Universitate"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Pennsylvania_State_University>"
+        ]
+    },
+    {
+        "context": "Cum mare este  zonă de REGATUL UNIT? ",
+        "id": 889,
+        "keywords": [
+            "zonă",
+            "Regatul Unit"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/United_Kingdom>"
+        ]
+    },
+    {
+        "context": "Cum mult este  elevație de Düsseldorf Aeroport ? ",
+        "id": 890,
+        "keywords": [
+            "Düsseldorf Aeroport"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Düsseldorf_Airport>"
+        ]
+    },
+    {
+        "context": "Cum mult este  populație de Mexic oraș ? ",
+        "id": 891,
+        "keywords": [
+            "Mexic oraș"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Mexico_City>"
+        ]
+    },
+    {
+        "context": "cand a fost  fondator Data de limba franceza a cincea republică? ",
+        "id": 892,
+        "keywords": [
+            "limba franceza a cincea republică"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/French_Fifth_Republic>"
+        ]
+    },
+    {
+        "context": "Cand a fost  ultimul episod de  televizor serie Prieteni difuzat? ",
+        "id": 894,
+        "keywords": [
+            "ultimul episod",
+            "Prieteni Televizor spectacol"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Friends>"
+        ]
+    },
+    {
+        "context": "Care este a 8- președinte de S.U.A? ",
+        "id": 895,
+        "keywords": [
+            "a 8- Președintele",
+            "Statele Unite ale Americii"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/8th_President_of_the_United_States>"
+        ]
+    },
+    {
+        "context": "Cum mult este  total populație de european uniune? ",
+        "id": 896,
+        "keywords": [
+            "european uniune"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/European_Union>"
+        ]
+    },
+    {
+        "context": "Ce este  naștere Nume de Adele? ",
+        "id": 897,
+        "keywords": [
+            "Adele"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Adele>"
+        ]
+    },
+    {
+        "context": "Ce este  populație de Cairo? ",
+        "id": 898,
+        "keywords": [
+            "populație",
+            "Cairo"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Cairo>"
+        ]
+    },
+    {
+        "context": "Unde este Sungkyunkwan Universitate? ",
+        "id": 901,
+        "keywords": [
+            "Sungkyunkwan",
+            "Universitate"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Sungkyunkwan_University>"
+        ]
+    },
+    {
+        "context": "Care este  autor de  interpretare de vise? ",
+        "id": 902,
+        "keywords": [
+            "vise"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Interpretation_of_Dreams>"
+        ]
+    },
+    {
+        "context": "Cand a fost  moarte de Shakespeare? ",
+        "id": 903,
+        "keywords": [
+            "Shakespeare"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/William_Shakespeare>"
+        ]
+    },
+    {
+        "context": "Unde este  origine de Carolina secerător? ",
+        "id": 905,
+        "keywords": [
+            "Carolina secerător"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Carolina_Reaper>"
+        ]
+    },
+    {
+        "context": "Care specie face un elefant aparține? ",
+        "id": 908,
+        "keywords": [
+            "specie",
+            "elefant"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Elephant>"
+        ]
+    },
+    {
+        "context": "Cu Cum mulți țări Iran are frontiere? ",
+        "id": 909,
+        "keywords": [
+            "Iran",
+            "frontiere"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Geography_of_Iran>"
+        ]
+    },
+    {
+        "context": "Cum mare este  total zonă de Nord Rin Westfalia? ",
+        "id": 911,
+        "keywords": [
+            "Nordul Rin Westfalia"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/North_Rhine-Westphalia>"
+        ]
+    },
+    {
+        "context": "Ce este Donald lui Trump principal Afaceri? ",
+        "id": 912,
+        "keywords": [
+            "Donald lui Trump",
+            "Afaceri"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Donald_Trump>"
+        ]
+    },
+    {
+        "context": "Cand voi start  final Meci de  fotbal lume ceașcă 2018? ",
+        "id": 913,
+        "keywords": [
+            "fotbal lume ceașcă 2018"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/2018_FIFA_World_Cup>"
+        ]
+    },
+    {
+        "context": "Cum mult este  populație Irak? ",
+        "id": 914,
+        "keywords": [
+            "Irak"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Iraq>"
+        ]
+    },
+    {
+        "context": "Cum mult este  populație densitate rang de Germania? ",
+        "id": 915,
+        "keywords": [
+            "Germania"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Germany>"
+        ]
+    },
+    {
+        "context": "Care sunt  Scriitori de  Perete album de Roz Floyd? ",
+        "id": 918,
+        "keywords": [
+            "perete"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Wall>"
+        ]
+    },
+    {
+        "context": "Ce animale sunt pe cale de dispariție?",
+        "id": 0,
+        "keywords": [
+            "animale",
+            "pe cale de dispariție"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Animal>"
+        ]
+    },
+    {
+        "context": "Cine a fost în misiunea Apollo 11?",
+        "id": 1,
+        "keywords": [
+            "oameni implicați",
+            "misiunea Apollo 11"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Apollo_11>"
+        ]
+    },
+    {
+        "context": "Din ce e compusă atmosfera lunii?",
+        "id": 2,
+        "keywords": [
+            "atmosferă",
+            "luna",
+            "compoziție"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Moon>"
+        ]
+    },
+    {
+        "context": "Când a avut loc Partida de ceai de la Boston",
+        "id": 3,
+        "keywords": [
+            "Partida de ceai de la Boston",
+            "avut loc"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Boston_Tea_Party>"
+        ]
+    },
+    {
+        "context": "Cine a scris Harry Potter?",
+        "id": 4,
+        "keywords": [
+            "scris",
+            "Harry Potter"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Harry_Potter>"
+        ]
+    },
+    {
+        "context": "Care actori joacă în Big Bang Theory?",
+        "id": 5,
+        "keywords": [
+            "actori",
+            "Big Bang Theory"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Big_Bang_Theory>"
+        ]
+    },
+    {
+        "context": "Cine interpretează vocea lui Bart Simpson?",
+        "id": 6,
+        "keywords": [
+            "voce",
+            "Bart Simpson"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Bart_Simpson>"
+        ]
+    },
+    {
+        "context": "Care este cel mai lung râu din China?",
+        "id": 8,
+        "keywords": [
+            "cel mai lung râu",
+            "China"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/China>",
+            "<http://dbpedia.org/ontology/River>"
+        ]
+    },
+    {
+        "context": "Câte luni are Marte?",
+        "id": 9,
+        "keywords": [
+            "câte",
+            "luni",
+            "Marte"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Mars>"
+        ]
+    },
+    {
+        "context": "Dă-mi o listă cu toți canadienii care locuiesc în Statele Unite.",
+        "id": 10,
+        "keywords": [
+            "listă",
+            "canadieni",
+            "locuiesc în Statele Unite"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/United_States>",
+            "<http://dbpedia.org/resource/Canada>"
+        ]
+    },
+    {
+        "context": "Când a dispărut pasărea Dodo?",
+        "id": 11,
+        "keywords": [
+            "când",
+            "dispărut",
+            "pasărea Dodo"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Dodo>"
+        ]
+    },
+    {
+        "context": "Arată-mi toate filmele cehe.",
+        "id": 12,
+        "keywords": [
+            "filme cehe"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Czech_Republic>"
+        ]
+    },
+    {
+        "context": "Ce râuri se varsă în Marea Nordului?",
+        "id": 13,
+        "keywords": [
+            "râuri",
+            "varsă",
+            "Marea Nordului"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/North_Sea>",
+            "<http://dbpedia.org/ontology/River>"
+        ]
+    },
+    {
+        "context": "Care țări au mai mult de zece vulcani?",
+        "id": 14,
+        "keywords": [
+            "țări",
+            "mai mult de zece vulcani"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Country>",
+            "<http://dbpedia.org/ontology/Volcano>"
+        ]
+    },
+    {
+        "context": "Arată-mi cărări din Marele Canion unde nu există pericol de inundații instantanee.",
+        "id": 16,
+        "keywords": [
+            "cărări",
+            "Marele Canion",
+            "fără pericol de inundații instantanee"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Grand_Canyon>"
+        ]
+    },
+    {
+        "context": "Cum a murit Michael Jackson?",
+        "id": 17,
+        "keywords": [
+            "cum",
+            "murit",
+            "Michael Jackson"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Michael_Jackson>"
+        ]
+    },
+    {
+        "context": "Pe ce dată este Ziua lui Columbus?",
+        "id": 18,
+        "keywords": [
+            "dată",
+            "Ziua lui Columbus"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Columbus_Day>"
+        ]
+    },
+    {
+        "context": "Cât de scund este cel mai scund jucător activ din NBA?",
+        "id": 19,
+        "keywords": [
+            "cât de scund",
+            "cel mai scund jucător activ",
+            "NBA"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/BasketballPlayer>",
+            "<http://dbpedia.org/resource/National_Basketball_Association>"
+        ]
+    },
+    {
+        "context": "Ce limbi se vorbesc în Pakistan?",
+        "id": 20,
+        "keywords": [
+            "limbi",
+            "Pakistan"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Pakistan>"
+        ]
+    },
+    {
+        "context": "Cine a devenit președinte după moartea lui JFK?",
+        "id": 21,
+        "keywords": [
+            "președinte",
+            "după moartea lui JFK"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/John_F._Kennedy>"
+        ]
+    },
+    {
+        "context": "Pentru ce este Elon Musk faimos?",
+        "id": 22,
+        "keywords": [
+            "faimos pentru",
+            "Elon Musk"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Elon_Musk>"
+        ]
+    },
+    {
+        "context": "Ce este  timp zona de Sare Lac Oraș? ",
+        "id": 39,
+        "keywords": [
+            "Sare Lac Oraș",
+            "timp zona"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Salt_Lake_City>"
+        ]
+    },
+    {
+        "context": "Ce este  cel mai inalt Munte în Germania? ",
+        "id": 40,
+        "keywords": [
+            "cel mai inalt",
+            "Munte",
+            "Germania"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Mountain>",
+            "<http://dbpedia.org/resource/Germany>"
+        ]
+    },
+    {
+        "context": "Ce artiști s-au născut în aceeași zi cu Rachel Stevens?",
+        "id": 43,
+        "keywords": [
+            "artist",
+            "născut în aceeași zi",
+            "Rachel Stevens"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Rachel_Stevens>",
+            "<http://dbpedia.org/ontology/Artist>"
+        ]
+    },
+    {
+        "context": "Ce este  profesie de Sincer Herbert? ",
+        "id": 44,
+        "keywords": [
+            "profesie",
+            "sincer",
+            "herbert"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Frank_Herbert>"
+        ]
+    },
+    {
+        "context": "Ce program de fidelizare pentru zboruri frecvente are cele mai multe companii aeriene?",
+        "id": 46,
+        "keywords": [
+            "program de fidelizare pentru zboruri frecvente",
+            "cele mai multe companii aeriene"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Airline>"
+        ]
+    },
+    {
+        "context": "Care european țări avea A constituţional monarhie? ",
+        "id": 47,
+        "keywords": [
+            "european țară",
+            "constituţional monarhie"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Category:Countries_in_Europe>",
+            "<http://dbpedia.org/resource/Constitutional_monarchy>"
+        ]
+    },
+    {
+        "context": " Paris de  Vest ",
+        "id": 48,
+        "keywords": [
+            "San Francisco",
+            "poreclă"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/San_Francisco>"
+        ]
+    },
+    {
+        "context": "Care țări în  european Uniune adoptat  Euro? ",
+        "id": 50,
+        "keywords": [
+            "european Uniune",
+            "țară",
+            "adopta",
+            "Euro"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Country>"
+        ]
+    },
+    {
+        "context": "Care software-ul are fost publicat de Însemna Hamster Software-ul? ",
+        "id": 51,
+        "keywords": [
+            "software-ul",
+            "publicat",
+            "hamster",
+            "software-ul"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Software>"
+        ]
+    },
+    {
+        "context": "Da pe mine toate profesional skateboarderi din Suedia. ",
+        "id": 54,
+        "keywords": [
+            "profesional",
+            "skateboarder",
+            "Suedia"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Skateboarder>"
+        ]
+    },
+    {
+        "context": "Care stat american a fost recunoscut ultimul?",
+        "id": 57,
+        "keywords": [
+            "stat american",
+            "recunoscut",
+            "ultimul"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Category:States_of_the_United_States>"
+        ]
+    },
+    {
+        "context": "Care clasă face  miriapod aparține la? ",
+        "id": 58,
+        "keywords": [
+            "miriapod",
+            "clasă",
+            "aparține"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Millipede>"
+        ]
+    },
+    {
+        "context": "Da pe mine  pagina principala de Forbes. ",
+        "id": 59,
+        "keywords": [
+            "Forbes",
+            "pagina principala"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Forbes>"
+        ]
+    },
+    {
+        "context": "Cine este soțul Amandei Palmer?",
+        "id": 60,
+        "keywords": [
+            "Amanda Palmer",
+            "soț"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Amanda_Palmer>"
+        ]
+    },
+    {
+        "context": "Cand făcut Finlanda a adera  SUA? ",
+        "id": 62,
+        "keywords": [
+            "Finlanda",
+            "european Uniune",
+            "a adera"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Finland>"
+        ]
+    },
+    {
+        "context": "Care informatician a câștigat un Oscar?",
+        "id": 63,
+        "keywords": [
+            "informatician",
+            "câștigat",
+            "Oscar"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Academy_Award>",
+            "<http://dbpedia.org/resource/Computer_science>"
+        ]
+    },
+    {
+        "context": "Dă-mi actori englezi protagoniști în Lovesick.",
+        "id": 64,
+        "keywords": [
+            "actori englezi",
+            "protagoniști",
+            "Lovesick"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Lovesick_(1983_film)>",
+            "<http://dbpedia.org/resource/United_Kingdom>"
+        ]
+    },
+    {
+        "context": "În ce oraș s-a născut președintele Muntenegrului?",
+        "id": 65,
+        "keywords": [
+            "oraș",
+            "născut",
+            "președintele Muntenegrului"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/President_of_Montenegro>",
+            "<http://dbpedia.org/resource/Capital_city>"
+        ]
+    },
+    {
+        "context": "Care este numele real al lui Batman?",
+        "id": 68,
+        "keywords": [
+            "nume real",
+            "Batman"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Batman>"
+        ]
+    },
+    {
+        "context": "Care este  autor de WikiLeaks? ",
+        "id": 69,
+        "keywords": [
+            "autor",
+            "wikileaks"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/WikiLeaks>"
+        ]
+    },
+    {
+        "context": "Sean Parnell era guvernatorul statului american?",
+        "id": 70,
+        "keywords": [
+            "Statul S.U.A.",
+            "guvernatorul",
+            "Sean Parnell"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Sean_Parnell>"
+        ]
+    },
+    {
+        "context": "Care a fost  soție de Președintele Lincoln? ",
+        "id": 71,
+        "keywords": [
+            "soție",
+            "președinte",
+            "lincoln"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Abraham_Lincoln>"
+        ]
+    },
+    {
+        "context": "Ce sonde spațiale au fost trimise în orbită în jurul soarelui?",
+        "id": 73,
+        "keywords": [
+            "sonde spațiale",
+            "orbită în jurul soarelui"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Category:Missions_to_the_Sun>"
+        ]
+    },
+    {
+        "context": "Câți studenți are Universitatea Liberă din Amsterdam?",
+        "id": 74,
+        "keywords": [
+            "Universitatea Liberă",
+            "Amsterdam",
+            "studenți"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Vrije_Universiteit_Amsterdam>"
+        ]
+    },
+    {
+        "context": "Ce este  venituri de IBM? ",
+        "id": 75,
+        "keywords": [
+            "venituri",
+            "ibm"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/IBM>"
+        ]
+    },
+    {
+        "context": "Care a fost Tom Hanks căsătorit la? ",
+        "id": 76,
+        "keywords": [
+            "tom",
+            "sculuri",
+            "căsătorit"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Tom_Hanks>"
+        ]
+    },
+    {
+        "context": "Dă-mi toate navele spațiale care au zburat spre Marte.",
+        "id": 78,
+        "keywords": [
+            "nave spațiale",
+            "zburat",
+            "Marte"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Category:Mars_rovers>"
+        ]
+    },
+    {
+        "context": "Care creată Engleză Wikipedia? ",
+        "id": 81,
+        "keywords": [
+            "creată",
+            "Engleză",
+            "wikipedia"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Wikipedia>"
+        ]
+    },
+    {
+        "context": "Da pe mine toate Femeie limba germana Chancellors. ",
+        "id": 82,
+        "keywords": [
+            "limba germana cancelar",
+            "Femeie"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Chancellor_of_Germany>"
+        ]
+    },
+    {
+        "context": "Care deține Cine? ",
+        "id": 83,
+        "keywords": [
+            "propriu",
+            "care"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Aldi>"
+        ]
+    },
+    {
+        "context": "Care cărți au fost scris de Danielle Oţel? ",
+        "id": 84,
+        "keywords": [
+            "cărți",
+            "scris",
+            "danielle",
+            "oţel"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Book>",
+            "<http://dbpedia.org/resource/Danielle_Steel>"
+        ]
+    },
+    {
+        "context": "Cât de adânc este lacul Chiemsee?",
+        "id": 85,
+        "keywords": [
+            "lacul Chiemsee",
+            "adânc"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Chiemsee>"
+        ]
+    },
+    {
+        "context": "Ce companii lucrează în industria aerospațială, precum și în medicină?",
+        "id": 86,
+        "keywords": [
+            "companii",
+            "industrie aerospațială",
+            "medicină"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Medical>",
+            "<http://dbpedia.org/resource/Aerospace>",
+            "<http://dbpedia.org/ontology/Company>"
+        ]
+    },
+    {
+        "context": "Care profesional surferi au fost născut pe  Filipine? ",
+        "id": 87,
+        "keywords": [
+            "profesional surfer",
+            "născut",
+            "Filipine"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Surfer>",
+            "<http://dbpedia.org/resource/Philippines>"
+        ]
+    },
+    {
+        "context": "Care a fost  Tată de Regină Elizabeth II? ",
+        "id": 89,
+        "keywords": [
+            "Tată",
+            "Regină Elizabeth II"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Elizabeth_II>"
+        ]
+    },
+    {
+        "context": "Dă-mi toți președinții americani în ultimii 20 de ani.",
+        "id": 90,
+        "keywords": [
+            "Președinții americani",
+            "ultimii 20 de ani"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Person>",
+            "<http://dbpedia.org/resource/Category:Presidents_of_the_United_States>"
+        ]
+    },
+    {
+        "context": "Când va fi filmul Worst Case Scenario în cinematografele din Olanda?",
+        "id": 91,
+        "keywords": [
+            "film",
+            "Worst Case Scenario",
+            "cinematograf",
+            "Olanda"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Worst_Case_Scenario_(film)>"
+        ]
+    },
+    {
+        "context": "Care filială a TUI Travel deservește atât Glasgow cât și Dublin?",
+        "id": 93,
+        "keywords": [
+            "filială",
+            "TUI Travel",
+            "deservește",
+            "Glasgow",
+            "Dublin"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Glasgow_International_Airport>",
+            "<http://dbpedia.org/resource/TUI_Travel>",
+            "<http://dbpedia.org/resource/Dublin_Airport>"
+        ]
+    },
+    {
+        "context": "Ce limbi se vorbesc în Pakistan?",
+        "id": 94,
+        "keywords": [
+            "limbi",
+            "Pakistan"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Pakistan>"
+        ]
+    },
+    {
+        "context": "Care este  fiică de Factură Clinton căsătorit la? ",
+        "id": 95,
+        "keywords": [
+            "Factură Clinton",
+            "fiică",
+            "căsătorit"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Bill_Clinton>"
+        ]
+    },
+    {
+        "context": "Care sunt numele Țestoaselor Ninja?",
+        "id": 100,
+        "keywords": [
+            "fume",
+            "Țestoase Ninja"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Teenage_Mutant_Ninja_Turtles>"
+        ]
+    },
+    {
+        "context": "Care este numele școlii unde a studiat soția lui Obama?",
+        "id": 101,
+        "keywords": [
+            "numele școlii",
+            "soția lui Obama",
+            "studia"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Barack_Obama>"
+        ]
+    },
+    {
+        "context": "Când a proclamat Paraguay independența sa?",
+        "id": 102,
+        "keywords": [
+            "Paraguay",
+            "proclama",
+            "independenţă"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Paraguay>"
+        ]
+    },
+    {
+        "context": "Care este  guvernator de Texas? ",
+        "id": 107,
+        "keywords": [
+            "guvernator",
+            "Texas"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Texas>"
+        ]
+    },
+    {
+        "context": "Da pe mine  oficial site-uri web de actori de  televiziune spectacol Fermecat. ",
+        "id": 108,
+        "keywords": [
+            "oficial",
+            "site-uri web",
+            "actori",
+            "televiziune",
+            "Fermecat"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Charmed>"
+        ]
+    },
+    {
+        "context": "Câte calorii are o baghetă?",
+        "id": 109,
+        "keywords": [
+            "calorii",
+            "baghetă"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Baguette>"
+        ]
+    },
+    {
+        "context": "În ce studio au înregistrat Beatles primul lor albunm?",
+        "id": 112,
+        "keywords": [
+            "Beatles",
+            "înregistrat",
+            "primul album",
+            "studio"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Beatles>",
+            "<http://dbpedia.org/ontology/Album>"
+        ]
+    },
+    {
+        "context": "Care bere fabricarea berii companii sunt situat în Nord-Rin Westfalia? ",
+        "id": 113,
+        "keywords": [
+            "fabricarea berii companii",
+            "Nord Rinul Westfalia"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Category:Companies_based_in_North_Rhine-Westphalia>",
+            "<http://dbpedia.org/ontology/Brewery>"
+        ]
+    },
+    {
+        "context": "Cine a fondat Intel?",
+        "id": 114,
+        "keywords": [
+            "Intel",
+            "fondat"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Intel>"
+        ]
+    },
+    {
+        "context": "Cine este cel mai tânăr jucător din Premier League?",
+        "id": 115,
+        "keywords": [
+            "juător",
+            "Premier League",
+            "cel mai tânăr"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Premier_League>"
+        ]
+    },
+    {
+        "context": "Dă-mi capitalele tuturor țărilor din Africa.",
+        "id": 117,
+        "keywords": [
+            "Africa",
+            "țară",
+            "capitală"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Category:Countries_in_Africa>"
+        ]
+    },
+    {
+        "context": "Ce poduri sunt de același tip ca cel din Manhattan?",
+        "id": 118,
+        "keywords": [
+            "pod",
+            "același tip",
+            "Podul din Manhattan"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Bridge>",
+            "<http://dbpedia.org/resource/Manhattan_Bridge>"
+        ]
+    }
+]

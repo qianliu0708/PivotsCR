@@ -1,0 +1,2656 @@
+[
+    {
+        "context": "Кто созданный Википедия? ",
+        "id": 2,
+        "keywords": [
+            "Википедия",
+            "созданный"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Wikipedia>"
+        ]
+    },
+    {
+        "context": "В который страна делает  Нил Начало? ",
+        "id": 4,
+        "keywords": [
+            "Нил",
+            "Начало",
+            "страна"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Nile>"
+        ]
+    },
+    {
+        "context": "Который река делает  Brooklyn Мост пересекать? ",
+        "id": 5,
+        "keywords": [
+            "река",
+            "пересекать",
+            "Brooklyn Мост"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Brooklyn_Bridge>"
+        ]
+    },
+    {
+        "context": "Дайте меня все города в новый Джерси с Больше чем 100000 жители. ",
+        "id": 8,
+        "keywords": [
+            "новый Джерси",
+            "город",
+            "жителей",
+            "Больше чем 100000"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/City>",
+            "<http://dbpedia.org/resource/New_Jersey>"
+        ]
+    },
+    {
+        "context": "Который актеры мы Родился в Германия? ",
+        "id": 9,
+        "keywords": [
+            "актер",
+            "Родился",
+            "Германия"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Actor>"
+        ]
+    },
+    {
+        "context": "Который страны иметь Больше чем два официальный языки? ",
+        "id": 10,
+        "keywords": [
+            "страна",
+            "официальный язык",
+            "Больше чем два"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Country>"
+        ]
+    },
+    {
+        "context": "Дайте меня все люди что мы Родился в Вена а также умер в Берлин. ",
+        "id": 12,
+        "keywords": [
+            "люди",
+            "Родился",
+            "Вена",
+            "",
+            "Берлин"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Berlin>",
+            "<http://dbpedia.org/resource/Vienna>"
+        ]
+    },
+    {
+        "context": "Дайте меня все кино с Том Круиз. ",
+        "id": 13,
+        "keywords": [
+            "кино",
+            "Том Круиз"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Tom_Cruise>"
+        ]
+    },
+    {
+        "context": "Как высокий является Майкл Иордания? ",
+        "id": 14,
+        "keywords": [
+            "высокий",
+            "Майкл Иордания"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Michael_Jordan>"
+        ]
+    },
+    {
+        "context": "Который страны иметь Больше чем 10 пещеры? ",
+        "id": 23,
+        "keywords": [
+            "страна",
+            "пещера",
+            "Больше чем 10"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Country>",
+            "<http://dbpedia.org/ontology/Cave>"
+        ]
+    },
+    {
+        "context": "Дайте меня все футбольный клубы в Испания. ",
+        "id": 25,
+        "keywords": [
+            "Испания",
+            "футбольный клуб"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/SoccerClub>"
+        ]
+    },
+    {
+        "context": "Который Другие оружие сделал  дизайнер из  Узи развиваться? ",
+        "id": 26,
+        "keywords": [
+            "Узи",
+            "дизайнер",
+            "развивать",
+            "оружие"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Uzi>",
+            "<http://dbpedia.org/ontology/Weapon>"
+        ]
+    },
+    {
+        "context": "Который страны принят  Евро? ",
+        "id": 28,
+        "keywords": [
+            "страна",
+            "принять",
+            "Евро"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Country>"
+        ]
+    },
+    {
+        "context": "Который страна делает  создатель из Miffy приехать из? ",
+        "id": 29,
+        "keywords": [
+            "Miffy",
+            "создатель",
+            "страна"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Miffy>"
+        ]
+    },
+    {
+        "context": "Был Марк Шагал  Еврей? ",
+        "id": 33,
+        "keywords": [
+            "Марк Шагал",
+            "иудей"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Marc_Chagall>"
+        ]
+    },
+    {
+        "context": "Который президенты мы Родился в 1945? ",
+        "id": 34,
+        "keywords": [
+            "президент",
+            "Родился",
+            "1945"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/President>"
+        ]
+    },
+    {
+        "context": "Был У.С. президент Джексон участвует в  война? ",
+        "id": 36,
+        "keywords": [
+            "У.С. президент",
+            "Джексон",
+            "война"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Andrew_Jackson>"
+        ]
+    },
+    {
+        "context": "Какие является  столица из Канада? ",
+        "id": 37,
+        "keywords": [
+            "столица",
+            "Канада"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Canada>"
+        ]
+    },
+    {
+        "context": "Для который метка сделал Элвис запись его первый альбом? ",
+        "id": 39,
+        "keywords": [
+            "Элвис",
+            "первый",
+            "альбом",
+            "метка"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Elvis_Presley>",
+            "<http://dbpedia.org/ontology/Album>"
+        ]
+    },
+    {
+        "context": "Дайте меня все острова что принадлежать в Япония. ",
+        "id": 43,
+        "keywords": [
+            "острова",
+            "Япония"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Island>",
+            "<http://dbpedia.org/resource/Japan>"
+        ]
+    },
+    {
+        "context": "Который шахматы игроки умер в  одна и та же место Oни мы Родился в? ",
+        "id": 47,
+        "keywords": [
+            "шахматы игроки",
+            "Британская граф",
+            "",
+            "одна и та же",
+            "место",
+            "Родился"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/ChessPlayer>"
+        ]
+    },
+    {
+        "context": "Кто был  жена из У.С. президент Линкольн? ",
+        "id": 50,
+        "keywords": [
+            "У.С. президент",
+            "Линкольн",
+            "жена"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Abraham_Lincoln>"
+        ]
+    },
+    {
+        "context": "Является Мишель Обама  жена из Барак Обама? ",
+        "id": 52,
+        "keywords": [
+            "Мишель Обама",
+            "жена",
+            "Барак Обама"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Michelle_Obama>",
+            "<http://dbpedia.org/resource/Barack_Obama>"
+        ]
+    },
+    {
+        "context": "В который программирование язык является GIMP написано? ",
+        "id": 57,
+        "keywords": [
+            "GIMP",
+            "программирование язык"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/GIMP>"
+        ]
+    },
+    {
+        "context": "В который страна является  Лимерик Озеро? ",
+        "id": 58,
+        "keywords": [
+            "Лимерик Озеро",
+            "страна"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Limerick_Lake>"
+        ]
+    },
+    {
+        "context": "Кто произведенный фильмы в главной роли Натали Портман? ",
+        "id": 60,
+        "keywords": [
+            "производить",
+            "фильм",
+            "в главной роли",
+            "Натали Портман"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Natalie_Portman>"
+        ]
+    },
+    {
+        "context": "Какие является  второй наибольший гора на Земля? ",
+        "id": 64,
+        "keywords": [
+            "гора",
+            "второй наибольший"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Mountain>"
+        ]
+    },
+    {
+        "context": "Дайте меня все датский фильмы. ",
+        "id": 66,
+        "keywords": [
+            "фильм",
+            "Дания"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Denmark>"
+        ]
+    },
+    {
+        "context": "Какие является  крупнейший город в Австралия? ",
+        "id": 67,
+        "keywords": [
+            "Австралия",
+            "крупнейший город"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Australia>"
+        ]
+    },
+    {
+        "context": "В который город сделал Джон F. Кеннеди ? ",
+        "id": 71,
+        "keywords": [
+            "город",
+            "Джон F. Кеннеди",
+            ""
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/City>",
+            "<http://dbpedia.org/resource/John_F._Kennedy>"
+        ]
+    },
+    {
+        "context": "Который горы находятся выше чем  Нанга Парбат? ",
+        "id": 75,
+        "keywords": [
+            "гора",
+            "выше",
+            "Нанга Парбат"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Nanga_Parbat>",
+            "<http://dbpedia.org/ontology/Mountain>"
+        ]
+    },
+    {
+        "context": "Какие является  наибольший горы? ",
+        "id": 79,
+        "keywords": [
+            "гора",
+            "наибольший"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Mountain>"
+        ]
+    },
+    {
+        "context": "Какие является  рождение имя из Angela Меркель? ",
+        "id": 82,
+        "keywords": [
+            "рождение имя",
+            "Angela Меркель"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Angela_Merkel>"
+        ]
+    },
+    {
+        "context": "Какие является  самый длинный река? ",
+        "id": 83,
+        "keywords": [
+            "река",
+            "самый длинный"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/River>"
+        ]
+    },
+    {
+        "context": "Сделал Сократ влияние Аристотель? ",
+        "id": 84,
+        "keywords": [
+            "Сократ",
+            "влияние",
+            "Аристотель"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Socrates>",
+            "<http://dbpedia.org/resource/Aristotle>"
+        ]
+    },
+    {
+        "context": "В который фильмы направленный от Garry Маршалл был Юлия Робертс в главной роли? ",
+        "id": 85,
+        "keywords": [
+            "фильм",
+            "направленный",
+            "Garry Маршалл",
+            "в главной роли",
+            "Юлия Робертс"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Julia_Roberts>",
+            "<http://dbpedia.org/resource/Garry_Marshall>"
+        ]
+    },
+    {
+        "context": "Список все игры от ВРЕМЯ ПО ГРИНВИЧУ. ",
+        "id": 89,
+        "keywords": [
+            "игра",
+            "время по Гринвичу"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/GMT_Games>"
+        ]
+    },
+    {
+        "context": "Который организации мы основанный в 1930? ",
+        "id": 90,
+        "keywords": [
+            "организация",
+            "основанный",
+            "1930"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Organisation>"
+        ]
+    },
+    {
+        "context": "Дайте меня все космонавты. ",
+        "id": 93,
+        "keywords": [
+            "космонавты"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Astronaut>"
+        ]
+    },
+    {
+        "context": "Дайте меня  список из все бэнд-лидер что играть труба. ",
+        "id": 98,
+        "keywords": [
+            "бэндлидер",
+            "играть",
+            "труба"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Bandleader>",
+            "<http://dbpedia.org/resource/Trumpet>"
+        ]
+    },
+    {
+        "context": "Дайте меня все книги написано от Danielle Стали. ",
+        "id": 109,
+        "keywords": [
+            "книга",
+            "написано",
+            "Danielle Стали"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Book>",
+            "<http://dbpedia.org/resource/Danielle_Steel>"
+        ]
+    },
+    {
+        "context": "Сделал тесла выиграть  нобелевский приз в физика? ",
+        "id": 110,
+        "keywords": [
+            "тесла",
+            "нобелевский приз",
+            "физика"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Nikola_Tesla>",
+            "<http://dbpedia.org/resource/Nobel_Prize_in_Physics>"
+        ]
+    },
+    {
+        "context": "Дайте меня все библиотеки установленный ранее чем 1400. ",
+        "id": 114,
+        "keywords": [
+            "библиотеки",
+            "установленный",
+            "ранее чем 1400"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Library>"
+        ]
+    },
+    {
+        "context": "Является Египта крупнейший город также его столица? ",
+        "id": 115,
+        "keywords": [
+            "крупнейший город",
+            "Египет",
+            "столица"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Egypt>"
+        ]
+    },
+    {
+        "context": "Дайте меня все B-сайда из  Ramones. ",
+        "id": 118,
+        "keywords": [
+            "Ramones",
+            "B-сайда"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Ramones>"
+        ]
+    },
+    {
+        "context": "Дайте меня все фильмы произведенный от случай Roach. ",
+        "id": 119,
+        "keywords": [
+            "фильм",
+            "производить",
+            "случай плотва"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Hal_Roach>",
+            "<http://dbpedia.org/ontology/Film>"
+        ]
+    },
+    {
+        "context": "Который программного обеспечения имеет было развитая от организации основанный в California? ",
+        "id": 122,
+        "keywords": [
+            "организация",
+            "основанный",
+            "Калифорния",
+            "развивать",
+            "программного обеспечения"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Software>",
+            "<http://dbpedia.org/ontology/Company>"
+        ]
+    },
+    {
+        "context": "Какие является  валюта из  Чешский Республика? ",
+        "id": 123,
+        "keywords": [
+            "Чешский республика",
+            "валюта"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Czech_Republic>"
+        ]
+    },
+    {
+        "context": "Дайте меня все компании в Мюнхен. ",
+        "id": 131,
+        "keywords": [
+            "Компания",
+            "Мюнхен"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Company>"
+        ]
+    },
+    {
+        "context": "Был  кубинский ракета Кризис ранее чем  залив из Свиньи Вторжение? ",
+        "id": 132,
+        "keywords": [
+            "кубинский ракета Кризис",
+            "ранее",
+            "залив из Свиньи нашествие"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Bay_of_Pigs_Invasion>",
+            "<http://dbpedia.org/resource/Cuban_missile_crisis>"
+        ]
+    },
+    {
+        "context": "Дайте меня все методист политики. ",
+        "id": 135,
+        "keywords": [
+            "политик",
+            "методист"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Methodism>",
+            "<http://dbpedia.org/ontology/Politician>"
+        ]
+    },
+    {
+        "context": "Дайте меня все футбольный клубы в  премьер Лига. ",
+        "id": 136,
+        "keywords": [
+            "премьер лига",
+            "футбольный клуб"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/SoccerClub>",
+            "<http://dbpedia.org/resource/Premier_League>"
+        ]
+    },
+    {
+        "context": "Который монархи мы в браке в  Немецкий? ",
+        "id": 137,
+        "keywords": [
+            "монарх",
+            "в браке",
+            "Немецкий"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Monarch>"
+        ]
+    },
+    {
+        "context": "Дайте меня все датский кино. ",
+        "id": 150,
+        "keywords": [
+            "кино",
+            "Дания"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Denmark>"
+        ]
+    },
+    {
+        "context": "Является Рита Wilson  жена из Том Хэнкс? ",
+        "id": 151,
+        "keywords": [
+            "Рита Wilson",
+            "жена",
+            "Том Hanks"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Rita_Wilson>",
+            "<http://dbpedia.org/resource/Tom_Hanks>"
+        ]
+    },
+    {
+        "context": "Который фильмы в главной роли Clint Иствуд сделал он непосредственный сам? ",
+        "id": 152,
+        "keywords": [
+            "фильм",
+            "в главной роли",
+            "непосредственный",
+            "Clint Иствуд"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Clint_Eastwood>"
+        ]
+    },
+    {
+        "context": "Который телевидение шоу мы созданный от Джон Клиз? ",
+        "id": 155,
+        "keywords": [
+            "телевидение показать",
+            "Создайте",
+            "Джон Клиз"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/TelevisionShow>",
+            "<http://dbpedia.org/resource/John_Cleese>"
+        ]
+    },
+    {
+        "context": "Дайте меня все федеральный канцлеры из Германия. ",
+        "id": 162,
+        "keywords": [
+            "Германия",
+            "федеральный канцлеры"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Person>"
+        ]
+    },
+    {
+        "context": "Какие находятся  Топ 10 действие ролевая видео игры в соответствии в IGN? ",
+        "id": 176,
+        "keywords": [
+            "Топ 10",
+            "действие",
+            "ролевая игры",
+            "IGN"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Category:Action_role-playing_video_games>"
+        ]
+    },
+    {
+        "context": "Дайте меня все фильмы произведенный от Стивен Спилберг с  бюджет из в наименее $ 80 млн. ",
+        "id": 179,
+        "keywords": [
+            "фильмы",
+            "режиссер",
+            "Стивен Спилберг",
+            "производство бюджет",
+            "$ 80 миллиона"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Steven_Spielberg>"
+        ]
+    },
+    {
+        "context": "Дайте меня все писатели что выиграл  Нобель приз в литература. ",
+        "id": 180,
+        "keywords": [
+            "писатель",
+            "выиграть",
+            "Нобель приз в литература"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Writer>",
+            "<http://dbpedia.org/resource/Nobel_Prize_in_Literature>"
+        ]
+    },
+    {
+        "context": "Кто является  Самый высокий игрок из  Atlanta Соколы? ",
+        "id": 185,
+        "keywords": [
+            "Atlanta Соколы",
+            "игрок",
+            "Самый высокий"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Atlanta_Falcons>"
+        ]
+    },
+    {
+        "context": "Который реки течь в  Немецкий озеро? ",
+        "id": 186,
+        "keywords": [
+            "реки",
+            "течь",
+            "Немецкий озеро"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Lake>",
+            "<http://dbpedia.org/resource/Germany>",
+            "<http://dbpedia.org/ontology/River>"
+        ]
+    },
+    {
+        "context": "Который ракеты мы запущенный из Байконуре? ",
+        "id": 188,
+        "keywords": [
+            "ракеты",
+            "запущенный",
+            "Космодром"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Baikonur_Cosmodrome>",
+            "<http://dbpedia.org/ontology/Rocket>"
+        ]
+    },
+    {
+        "context": "Дайте меня все шведский океанографы. ",
+        "id": 192,
+        "keywords": [
+            "шведский",
+            "океанограф"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Oceanography>",
+            "<http://dbpedia.org/resource/Sweden>"
+        ]
+    },
+    {
+        "context": "Дайте меня все актеры кто мы Родился в Берлин. ",
+        "id": 193,
+        "keywords": [
+            "актеры",
+            "Родился",
+            "Берлин"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Berlin>",
+            "<http://dbpedia.org/ontology/Actor>"
+        ]
+    },
+    {
+        "context": "Как тяжелый является Юпитер самый светлый Луна? ",
+        "id": 203,
+        "keywords": [
+            "как тяжелый",
+            "Юпитер",
+            "Луна",
+            "самый светлый"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Jupiter>"
+        ]
+    },
+    {
+        "context": "Дайте меня все австралиец металкор группы. ",
+        "id": 206,
+        "keywords": [
+            "австралиец",
+            "металкор группы"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Band>",
+            "<http://dbpedia.org/resource/Metalcore>"
+        ]
+    },
+    {
+        "context": "Который компании иметь Больше чем 1 миллиона сотрудники? ",
+        "id": 209,
+        "keywords": [
+            "Компания",
+            "Больше чем 1 миллиона",
+            "сотрудников"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Company>"
+        ]
+    },
+    {
+        "context": "Дайте все пловцы что мы Родился в Москва. ",
+        "id": 210,
+        "keywords": [
+            "пловец",
+            "Родился",
+            "Москва"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Moscow>",
+            "<http://dbpedia.org/ontology/Swimmer>"
+        ]
+    },
+    {
+        "context": "Как многие музеи делает Париж иметь? ",
+        "id": 212,
+        "keywords": [
+            "как многие",
+            "музей",
+            "Париж"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Museum>",
+            "<http://dbpedia.org/resource/Paris>"
+        ]
+    },
+    {
+        "context": "Дайте меня все  ТВ шоу с Нил Патрик Харрис. ",
+        "id": 215,
+        "keywords": [
+            "ТВ шоу",
+            "Нил Патрик Харрис"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/TelevisionShow>",
+            "<http://dbpedia.org/resource/Neil_Patrick_Harris>"
+        ]
+    },
+    {
+        "context": "Показать  список из футбольный клубы что играть в  Бундеслига. ",
+        "id": 216,
+        "keywords": [
+            "футбольный клубы",
+            "играть",
+            "Бундеслига"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/SoccerClub>",
+            "<http://dbpedia.org/resource/Bundesliga>"
+        ]
+    },
+    {
+        "context": "Который программирование языки влияние Javascript? ",
+        "id": 219,
+        "keywords": [
+            "программирование языки",
+            "влияние",
+            "Javascript"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/ProgrammingLanguage>",
+            "<http://dbpedia.org/resource/JavaScript>"
+        ]
+    },
+    {
+        "context": "Показать меня все  пивоварни в Австралия. ",
+        "id": 222,
+        "keywords": [
+            "пивоварни",
+            "Австралия"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Brewery>"
+        ]
+    },
+    {
+        "context": "Который мосты пересекать  Его? ",
+        "id": 228,
+        "keywords": [
+            "мосты",
+            "пересекать",
+            "его"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Bridge>",
+            "<http://dbpedia.org/resource/Seine>"
+        ]
+    },
+    {
+        "context": "Показать меня все английский готика здания в Кент. ",
+        "id": 232,
+        "keywords": [
+            "английский готика здания",
+            "Кент"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Kent>",
+            "<http://dbpedia.org/resource/English_Gothic_architecture>",
+            "<http://dbpedia.org/ontology/Building>"
+        ]
+    },
+    {
+        "context": "Который аэропорты делает Воздух Китай обслуживать? ",
+        "id": 235,
+        "keywords": [
+            "аэропорты",
+            "Воздух Китай"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Air_China>"
+        ]
+    },
+    {
+        "context": "Кто был президент из Пакистан в 1978? ",
+        "id": 244,
+        "keywords": [
+            "президент",
+            "Пакистан",
+            "1978"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/President_of_Pakistan>"
+        ]
+    },
+    {
+        "context": "Который оружие сделал трепальщик льна & Koch развиваться? ",
+        "id": 287,
+        "keywords": [
+            "трепальщик льна & Koch",
+            "развивать",
+            "оружие"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Heckler_&_Koch>",
+            "<http://dbpedia.org/ontology/Weapon>"
+        ]
+    },
+    {
+        "context": "Список все  мюзиклы с Музыка от Леонард Бернштейн. ",
+        "id": 453,
+        "keywords": [
+            "мюзиклы",
+            "Музыка от",
+            "Леонард Бернштейн"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Leonard_Bernstein>",
+            "<http://dbpedia.org/ontology/Musical>"
+        ]
+    },
+    {
+        "context": "Дайте меня все шведский каникулы. ",
+        "id": 483,
+        "keywords": [
+            "шведский каникулы"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Holiday>",
+            "<http://dbpedia.org/resource/Sweden>"
+        ]
+    },
+    {
+        "context": "Который футбольный игроки мы Родился на Мальта? ",
+        "id": 485,
+        "keywords": [
+            "футбольный игрок",
+            "Родился на",
+            "Мальта"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Malta>",
+            "<http://dbpedia.org/ontology/SoccerPlayer>"
+        ]
+    },
+    {
+        "context": "Который программирование языки мы влияние от Perl? ",
+        "id": 487,
+        "keywords": [
+            "программирование языки",
+            "влияние от",
+            "Perl"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/ProgrammingLanguage>"
+        ]
+    },
+    {
+        "context": "Кто убитый Джон Леннон? ",
+        "id": 491,
+        "keywords": [
+            "убитый",
+            "Джон Леннон"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Death_of_John_Lennon>",
+            "<http://dbpedia.org/ontology/Person>"
+        ]
+    },
+    {
+        "context": "Дайте меня  валюта из Китай. ",
+        "id": 497,
+        "keywords": [
+            "валюта",
+            "Китай"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/China>"
+        ]
+    },
+    {
+        "context": "Является Darth Вейдер Люк отец? ",
+        "id": 499,
+        "keywords": [
+            "Darth Вейдер",
+            "отец",
+            "Люк"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Darth_Vader>"
+        ]
+    },
+    {
+        "context": "Как многие авиакомпании находятся члены из  звезда Альянс? ",
+        "id": 502,
+        "keywords": [
+            "как многие",
+            "авиакомпании",
+            "член",
+            "звезда союз"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Star_Alliance>",
+            "<http://dbpedia.org/ontology/Airline>"
+        ]
+    },
+    {
+        "context": "Показать меня все кто был Родился на Хэллоуин. ",
+        "id": 504,
+        "keywords": [
+            "человек",
+            "Родился на",
+            "Хэллоуин"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Person>",
+            "<http://dbpedia.org/resource/Halloween>"
+        ]
+    },
+    {
+        "context": "Который греческий стороны находятся проевропейской? ",
+        "id": 512,
+        "keywords": [
+            "греческий вечеринка",
+            "проевропейской"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Pro-Europeanism>",
+            "<http://dbpedia.org/resource/Greece>",
+            "<http://dbpedia.org/ontology/PoliticalParty>"
+        ]
+    },
+    {
+        "context": "Кто является  самый тяжелый игрок из  Чикаго Быков? ",
+        "id": 519,
+        "keywords": [
+            "самый тяжелый игрок",
+            "Чикаго Быки"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Person>"
+        ]
+    },
+    {
+        "context": "Который вулканы в Япония извергался поскольку 2000? ",
+        "id": 520,
+        "keywords": [
+            "вулканы",
+            "Япония",
+            "извергался",
+            "поскольку 2000"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Volcano>",
+            "<http://dbpedia.org/resource/Japan>"
+        ]
+    },
+    {
+        "context": "Кто развитая Отними? ",
+        "id": 525,
+        "keywords": [
+            "разработчик",
+            "слабина"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Slack_(software)>"
+        ]
+    },
+    {
+        "context": "Какие является  крупнейший страна в  Мир? ",
+        "id": 528,
+        "keywords": [
+            "крупнейший страна",
+            "Мир"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Country>"
+        ]
+    },
+    {
+        "context": "Список все эпизоды из  первый время года из  ГБО телевидение серии  Сопрано! ",
+        "id": 542,
+        "keywords": [
+            "ГБО",
+            "телевидение серии",
+            "Сопрано",
+            "первый время года",
+            "эпизод"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Sopranos>"
+        ]
+    },
+    {
+        "context": "В который страны делать люди говорить Японский? ",
+        "id": 567,
+        "keywords": [
+            "который страны",
+            "говорить",
+            "Японский"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Country>",
+            "<http://dbpedia.org/resource/Japanese_language>"
+        ]
+    },
+    {
+        "context": "Какие является  самый большой стадион в Испания? ",
+        "id": 589,
+        "keywords": [
+            "самый большой стадион",
+            "Испания"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Stadium>",
+            "<http://dbpedia.org/resource/Spain>"
+        ]
+    },
+    {
+        "context": "Делать урду а также персидский иметь  общий корень? ",
+        "id": 710,
+        "keywords": [
+            "урду",
+            "персидский",
+            "общий корень"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Urdu>",
+            "<http://dbpedia.org/resource/Persian_language>"
+        ]
+    },
+    {
+        "context": "Список все настольные игры от ВРЕМЯ ПО ГРИНВИЧУ. ",
+        "id": 748,
+        "keywords": [
+            "настольная игра",
+            "время по Гринвичу"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/GMT_Games>"
+        ]
+    },
+    {
+        "context": "Кто развитая Skype? ",
+        "id": 749,
+        "keywords": [
+            "развивать",
+            "Skype"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Skype>"
+        ]
+    },
+    {
+        "context": "Который люди мы Родился в Ираклион? ",
+        "id": 750,
+        "keywords": [
+            "люди",
+            "Родился",
+            "ираклион"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Person>",
+            "<http://dbpedia.org/resource/Heraklion>"
+        ]
+    },
+    {
+        "context": "В который У.С. государство является Площадь 51 располагается? ",
+        "id": 751,
+        "keywords": [
+            "Площадь 51",
+            "располагается",
+            "У.С. государство"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/United_States>",
+            "<http://dbpedia.org/resource/Area_51>"
+        ]
+    },
+    {
+        "context": "Кто является  мэр из новый Йорк Город? ",
+        "id": 752,
+        "keywords": [
+            "новый Йорк город",
+            "мэр"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/New_York_City>"
+        ]
+    },
+    {
+        "context": "Который страны иметь мест с Больше чем два пещеры? ",
+        "id": 753,
+        "keywords": [
+            "страна",
+            "место",
+            "пещера",
+            "Больше чем два"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Cave>",
+            "<http://dbpedia.org/ontology/Country>"
+        ]
+    },
+    {
+        "context": "где сделал Авраам Линкольн ? ",
+        "id": 754,
+        "keywords": [
+            "Авраам Линкольн",
+            ""
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Abraham_Lincoln>"
+        ]
+    },
+    {
+        "context": "Дайте меня все актеры в главной роли в кино направленный от а также в главной роли Уильям Шатнер. ",
+        "id": 756,
+        "keywords": [
+            "актер",
+            "в главной роли",
+            "кино",
+            "непосредственный",
+            "в главной роли",
+            "Уильям Шатнер"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/William_Shatner>"
+        ]
+    },
+    {
+        "context": "Какие находятся  официальный языки из  Филиппины? ",
+        "id": 757,
+        "keywords": [
+            "Филиппины",
+            "официальный язык"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Philippines>"
+        ]
+    },
+    {
+        "context": "Который кино в главной роли штифтик Питт мы направленный от парень Ritchie? ",
+        "id": 759,
+        "keywords": [
+            "кино",
+            "в главной роли",
+            "штифтик Питт",
+            "направленный",
+            "парень Ritchie"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Guy_Ritchie>",
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Brad_Pitt>"
+        ]
+    },
+    {
+        "context": "Дайте меня  внучата из Брюс Lee. ",
+        "id": 760,
+        "keywords": [
+            "Брюс подветренный",
+            "внучата"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Bruce_Lee>"
+        ]
+    },
+    {
+        "context": "Который организации мы основанный в 1950? ",
+        "id": 764,
+        "keywords": [
+            "организация",
+            "основанный",
+            "1950"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Organisation>"
+        ]
+    },
+    {
+        "context": "Дайте меня  Аполлон 14 астронавты. ",
+        "id": 765,
+        "keywords": [
+            "космонавт",
+            "Аполлон 14"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Apollo_14>"
+        ]
+    },
+    {
+        "context": "Кто писал  книга  столбы из  Земля? ",
+        "id": 766,
+        "keywords": [
+            "писал",
+            "книга",
+            "столбы из  Земля"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Pillars_of_the_Earth>"
+        ]
+    },
+    {
+        "context": "Который космические полеты мы запущенный из Байконуре? ",
+        "id": 768,
+        "keywords": [
+            "космический полет",
+            "запущенный",
+            "Космодром"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Baikonur_Cosmodrome>"
+        ]
+    },
+    {
+        "context": "Дайте меня  список из все труба игроки что мы бэнд-лидер. ",
+        "id": 769,
+        "keywords": [
+            "труба игрок",
+            "бэндлидер"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Bandleader>",
+            "<http://dbpedia.org/resource/Trumpet>"
+        ]
+    },
+    {
+        "context": "Кто является  дочь из Ingrid Bergman в браке к? ",
+        "id": 772,
+        "keywords": [
+            "Ingrid Bergman",
+            "дочь",
+            "в браке"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Ingrid_Bergman>"
+        ]
+    },
+    {
+        "context": "Как глубоко является Озеро Плэсиде? ",
+        "id": 773,
+        "keywords": [
+            "Озеро безмятежный",
+            "глубина"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Lake_Placid_(Texas)>"
+        ]
+    },
+    {
+        "context": "Показать меня все музеи в Лондон. ",
+        "id": 774,
+        "keywords": [
+            "музеи",
+            "Лондон"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Museum>",
+            "<http://dbpedia.org/resource/London>"
+        ]
+    },
+    {
+        "context": "Показать меня все баскетбол игроки что находятся выше чем 2 метров. ",
+        "id": 779,
+        "keywords": [
+            "баскетбол игроки",
+            "выше чем 2 метры"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/BasketballPlayer>"
+        ]
+    },
+    {
+        "context": "Какие кино делает Джесси Eisenberg играть в? ",
+        "id": 780,
+        "keywords": [
+            "кино",
+            "Джесси Eisenberg"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Jesse_Eisenberg>"
+        ]
+    },
+    {
+        "context": "Дайте меня все швейцарцы Некоммерческий организаций. ",
+        "id": 783,
+        "keywords": [
+            "швейцарцы",
+            "Некоммерческий организация"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Nonprofit_organization>"
+        ]
+    },
+    {
+        "context": "Какие своего рода из Музыка сделал Лу камыш играть? ",
+        "id": 785,
+        "keywords": [
+            "своего рода из Музыка",
+            "Лу камыш",
+            "играть"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Lou_Reed>"
+        ]
+    },
+    {
+        "context": "где делать  красный носки играть? ",
+        "id": 786,
+        "keywords": [
+            "где",
+            "красный носки",
+            "играть"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Boston_Red_Sox>"
+        ]
+    },
+    {
+        "context": "Дайте меня  столицы из все страны что  Гималаи бег через. ",
+        "id": 793,
+        "keywords": [
+            "страны Гималаи бег через",
+            "столицы"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Himalayas>"
+        ]
+    },
+    {
+        "context": "Который кино звезда и то и другое Лиз Тейлор а также Ричард Burton? ",
+        "id": 801,
+        "keywords": [
+            "кино",
+            "звезда",
+            "Лиз Тейлор",
+            "Ричард Burton?"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Richard_Burton>",
+            "<http://dbpedia.org/resource/Elizabeth_Taylor>"
+        ]
+    },
+    {
+        "context": "Дайте меня все ESA астронавты. ",
+        "id": 802,
+        "keywords": [
+            "ESA космонавты"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/European_Space_Agency>",
+            "<http://dbpedia.org/ontology/Astronaut>"
+        ]
+    },
+    {
+        "context": "к который страны делает  гималайский гора система продлить? ",
+        "id": 808,
+        "keywords": [
+            "гималайский гора система",
+            "простираться",
+            "страна"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Himalayas>"
+        ]
+    },
+    {
+        "context": "В который город был  бывший Голландский Королева Юлиана похоронен? ",
+        "id": 814,
+        "keywords": [
+            "Голландский Королева Юлиана",
+            "похороненный",
+            "город"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Juliana_of_the_Netherlands>",
+            "<http://dbpedia.org/ontology/Settlement>"
+        ]
+    },
+    {
+        "context": "Который писатели изучал в Стамбул? ",
+        "id": 818,
+        "keywords": [
+            "писатели",
+            "изучал",
+            "Стамбул"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Writer>"
+        ]
+    },
+    {
+        "context": "Который актер играл Чубакка? ",
+        "id": 826,
+        "keywords": [
+            "актер",
+            "играть",
+            "Чубакка"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Chewbacca>"
+        ]
+    },
+    {
+        "context": "Какие авиакомпании находятся часть из  SkyTeam союз? ",
+        "id": 830,
+        "keywords": [
+            "авиакомпании",
+            "часть из",
+            "SkyTeam союз"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Airline>"
+        ]
+    },
+    {
+        "context": "Какие Другие книги иметь было написано от  автор из  придираться в наш Звезды? ",
+        "id": 832,
+        "keywords": [
+            "книги",
+            "автор",
+            "придираться в наш Звезды"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/John_Green_(author)>"
+        ]
+    },
+    {
+        "context": "Кто писал  голодание Игры? ",
+        "id": 839,
+        "keywords": [
+            "писал",
+            "голодание Игры"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Hunger_Games>"
+        ]
+    },
+    {
+        "context": "Какие является  наименьшее город от площадь в Германия? ",
+        "id": 853,
+        "keywords": [
+            "наименьшее",
+            "город",
+            "Германия"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Category:Cities_in_Germany>"
+        ]
+    },
+    {
+        "context": "Кто играл агент кузнец в Матрица? ",
+        "id": 858,
+        "keywords": [
+            "играл",
+            "агент кузнец",
+            "матрица"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Agent_Smith>"
+        ]
+    },
+    {
+        "context": "В который У.С. государство является Форт Нокс располагается? ",
+        "id": 867,
+        "keywords": [
+            "Форт Нокс",
+            "располагается",
+            "У.С. государство"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Fort_Knox>",
+            "<http://dbpedia.org/resource/United_States>"
+        ]
+    },
+    {
+        "context": "Какие является  крупнейший город в Америка? ",
+        "id": 879,
+        "keywords": [
+            "крупнейший",
+            "город",
+            "Америка"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/United_States>"
+        ]
+    },
+    {
+        "context": "Какие является  альма мать из  канцлер из Германия Angela Меркель? ",
+        "id": 880,
+        "keywords": [
+            "Angela Меркель"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Angela_Merkel>"
+        ]
+    },
+    {
+        "context": "где является  место рождения из Гете? ",
+        "id": 881,
+        "keywords": [
+            "Гете"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Johann_Wolfgang_von_Goethe>"
+        ]
+    },
+    {
+        "context": "Какие является  наибольший гора в Саксония Германия? ",
+        "id": 884,
+        "keywords": [
+            "наибольший",
+            "гора",
+            "Саксония",
+            "Германия"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Ore_Mountains>"
+        ]
+    },
+    {
+        "context": "Кто является  текущий федеральный министр из финансы в Германия? ",
+        "id": 885,
+        "keywords": [
+            "федеральный министр из финансы",
+            "Германия"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Federal_Ministry_of_Finance_(Germany)>"
+        ]
+    },
+    {
+        "context": "В который государство Penn состояние Университет является располагается? ",
+        "id": 887,
+        "keywords": [
+            "Penn состояние Университет"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Pennsylvania_State_University>"
+        ]
+    },
+    {
+        "context": "Как большой является  площадь из ВЕЛИКОБРИТАНИЯ? ",
+        "id": 889,
+        "keywords": [
+            "площадь",
+            "Великобритания"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/United_Kingdom>"
+        ]
+    },
+    {
+        "context": "как много является  высота из Дюссельдорф аэропорт ? ",
+        "id": 890,
+        "keywords": [
+            "Дюссельдорф аэропорт"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Düsseldorf_Airport>"
+        ]
+    },
+    {
+        "context": "Как много является  Население из Мексика город ? ",
+        "id": 891,
+        "keywords": [
+            "Мексика город"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Mexico_City>"
+        ]
+    },
+    {
+        "context": "когда был  учредительный Дата из Французский пятый республика? ",
+        "id": 892,
+        "keywords": [
+            "Французский пятый республика"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/French_Fifth_Republic>"
+        ]
+    },
+    {
+        "context": "когда был  последний эпизод из  ТВ серии друзья эфир? ",
+        "id": 894,
+        "keywords": [
+            "последний эпизод",
+            "друзья ТВ показать"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Friends>"
+        ]
+    },
+    {
+        "context": "Кто является восьмых президент из НАС? ",
+        "id": 895,
+        "keywords": [
+            "восьмых президент",
+            "США"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/8th_President_of_the_United_States>"
+        ]
+    },
+    {
+        "context": "как много является  Всего Население из Европейская союз? ",
+        "id": 896,
+        "keywords": [
+            "Европейская союз"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/European_Union>"
+        ]
+    },
+    {
+        "context": "Какие является  рождение имя из Адель? ",
+        "id": 897,
+        "keywords": [
+            "Адель"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Adele>"
+        ]
+    },
+    {
+        "context": "Какие является  Население из Каир? ",
+        "id": 898,
+        "keywords": [
+            "Население",
+            "Каир"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Cairo>"
+        ]
+    },
+    {
+        "context": "где является Sungkyunkwan Университет? ",
+        "id": 901,
+        "keywords": [
+            "Sungkyunkwan",
+            "Университет"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Sungkyunkwan_University>"
+        ]
+    },
+    {
+        "context": "Кто является  автор из  интерпретация из мечты? ",
+        "id": 902,
+        "keywords": [
+            "Мечты"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Interpretation_of_Dreams>"
+        ]
+    },
+    {
+        "context": "когда был  смерть из Шекспир? ",
+        "id": 903,
+        "keywords": [
+            "Шекспир"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/William_Shakespeare>"
+        ]
+    },
+    {
+        "context": "где является  происхождения из Каролина жнец? ",
+        "id": 905,
+        "keywords": [
+            "Каролина жатка"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Carolina_Reaper>"
+        ]
+    },
+    {
+        "context": "Который вид делает  слон принадлежат? ",
+        "id": 908,
+        "keywords": [
+            "вид",
+            "слон"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Elephant>"
+        ]
+    },
+    {
+        "context": "С как многие страны Иран имеет границы? ",
+        "id": 909,
+        "keywords": [
+            "Иран",
+            "границы"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Geography_of_Iran>"
+        ]
+    },
+    {
+        "context": "как большой является  Всего площадь из север Рейн Вестфалия? ",
+        "id": 911,
+        "keywords": [
+            "север Рейн Вестфалия"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/North_Rhine-Westphalia>"
+        ]
+    },
+    {
+        "context": "Какие является Дональд Трампа главный бизнес? ",
+        "id": 912,
+        "keywords": [
+            "Дональд Трампа",
+            "бизнес"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Donald_Trump>"
+        ]
+    },
+    {
+        "context": "когда будем Начало  окончательный совпадение из  футбол Мир кружка 2018? ",
+        "id": 913,
+        "keywords": [
+            "футбол Мир кружка 2018"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/2018_FIFA_World_Cup>"
+        ]
+    },
+    {
+        "context": "как много является  Население Ирак? ",
+        "id": 914,
+        "keywords": [
+            "Ирак"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Iraq>"
+        ]
+    },
+    {
+        "context": "как много является  Население плотность ранг из Германия? ",
+        "id": 915,
+        "keywords": [
+            "Германия"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Germany>"
+        ]
+    },
+    {
+        "context": "Кто находятся  писатели из  стена альбом из розовый Флойд? ",
+        "id": 918,
+        "keywords": [
+            "стена"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Wall>"
+        ]
+    },
+    {
+        "context": "Который животные находятся критически находящихся под угрозой исчезновения? ",
+        "id": 0,
+        "keywords": [
+            "животное",
+            "критически находящихся под угрозой исчезновения"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Animal>"
+        ]
+    },
+    {
+        "context": "Какие является  самый длинный река в Китай? ",
+        "id": 8,
+        "keywords": [
+            "самый длинный река",
+            "Китай"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/China>",
+            "<http://dbpedia.org/ontology/River>"
+        ]
+    },
+    {
+        "context": "Показать меня все Чешский кино. ",
+        "id": 12,
+        "keywords": [
+            "Чешский кино"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Film>",
+            "<http://dbpedia.org/resource/Czech_Republic>"
+        ]
+    },
+    {
+        "context": "Который реки течь в  север Море? ",
+        "id": 13,
+        "keywords": [
+            "реки",
+            "течь",
+            "север Море"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/North_Sea>",
+            "<http://dbpedia.org/ontology/River>"
+        ]
+    },
+    {
+        "context": "Который страны иметь Больше чем 10 Вулканы? ",
+        "id": 14,
+        "keywords": [
+            "страны",
+            "Больше чем 10 вулканы"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Country>",
+            "<http://dbpedia.org/ontology/Volcano>"
+        ]
+    },
+    {
+        "context": "Как короткая является  самый короткий активный NBA игрок? ",
+        "id": 19,
+        "keywords": [
+            "Как короткая",
+            "самый короткий активный игрок",
+            "NBA"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/BasketballPlayer>",
+            "<http://dbpedia.org/resource/National_Basketball_Association>"
+        ]
+    },
+    {
+        "context": "Кто стал президент после JFK умер? ",
+        "id": 21,
+        "keywords": [
+            "президент",
+            "после JFK смерть"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/John_F._Kennedy>"
+        ]
+    },
+    {
+        "context": "Какие является  время зона из Поваренная соль Озеро Город? ",
+        "id": 39,
+        "keywords": [
+            "Поваренная соль Озеро город",
+            "время зона"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Salt_Lake_City>"
+        ]
+    },
+    {
+        "context": "Какие является  наибольший гора в Германия? ",
+        "id": 40,
+        "keywords": [
+            "наибольший",
+            "гора",
+            "Германия"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Mountain>",
+            "<http://dbpedia.org/resource/Germany>"
+        ]
+    },
+    {
+        "context": "Который художники мы Родился на  одна и та же Дата в виде Рейчел Стивенс? ",
+        "id": 43,
+        "keywords": [
+            "художник",
+            "Родился одна и та же Дата",
+            "Рейчел Стивенс"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Rachel_Stevens>",
+            "<http://dbpedia.org/ontology/Artist>"
+        ]
+    },
+    {
+        "context": "Какие является  профессия из Фрэнк Герберт? ",
+        "id": 44,
+        "keywords": [
+            "профессия",
+            "откровенный",
+            "Герберт"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Frank_Herbert>"
+        ]
+    },
+    {
+        "context": "Который частый листовка программа имеет  большинство авиакомпании? ",
+        "id": 46,
+        "keywords": [
+            "частый листовка программа",
+            "большинство авиакомпании"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Airline>"
+        ]
+    },
+    {
+        "context": "Который Европейская страны иметь  конституционная монархия? ",
+        "id": 47,
+        "keywords": [
+            "Европейская страна",
+            "конституционная монархия"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Category:Countries_in_Europe>",
+            "<http://dbpedia.org/resource/Constitutional_monarchy>"
+        ]
+    },
+    {
+        "context": " Париж из  запад ",
+        "id": 48,
+        "keywords": [
+            "Сан - Франциско",
+            "прозвище"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/San_Francisco>"
+        ]
+    },
+    {
+        "context": "Который страны в  Европейская союз принят  Евро? ",
+        "id": 50,
+        "keywords": [
+            "Европейская союз",
+            "страна",
+            "принять",
+            "Евро"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Country>"
+        ]
+    },
+    {
+        "context": "Который программного обеспечения имеет было опубликованный от Имею в виду хомяк Программного обеспечения? ",
+        "id": 51,
+        "keywords": [
+            "программного обеспечения",
+            "опубликованный",
+            "хомяк",
+            "программного обеспечения"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Software>"
+        ]
+    },
+    {
+        "context": "Дайте меня все профессиональный скейтбордисты из Швеция. ",
+        "id": 54,
+        "keywords": [
+            "профессиональный",
+            "скейтбордист",
+            "Швеция"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Skateboarder>"
+        ]
+    },
+    {
+        "context": "Который У.С. государство имеет было признал последний? ",
+        "id": 57,
+        "keywords": [
+            "У.С. государство",
+            "признавать",
+            "последний"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Category:States_of_the_United_States>"
+        ]
+    },
+    {
+        "context": "Который класс делает  многоножка принадлежать к? ",
+        "id": 58,
+        "keywords": [
+            "многоножка",
+            "класс",
+            "принадлежать"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Millipede>"
+        ]
+    },
+    {
+        "context": "Дайте меня  домашняя страница из Forbes. ",
+        "id": 59,
+        "keywords": [
+            "Forbes",
+            "домашняя страница"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Forbes>"
+        ]
+    },
+    {
+        "context": "Кто является  муж из Аманда Палмер? ",
+        "id": 60,
+        "keywords": [
+            "Аманда паломник",
+            "муж"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Amanda_Palmer>"
+        ]
+    },
+    {
+        "context": "когда сделал Финляндия присоединиться  США? ",
+        "id": 62,
+        "keywords": [
+            "Финляндия",
+            "Европейская союз",
+            "присоединиться"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Finland>"
+        ]
+    },
+    {
+        "context": "Который компьютер ученый выиграл  Оскар? ",
+        "id": 63,
+        "keywords": [
+            "компьютер ученый",
+            "выиграть",
+            "Оскар"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Academy_Award>",
+            "<http://dbpedia.org/resource/Computer_science>"
+        ]
+    },
+    {
+        "context": "Дайте меня английский актеры в главной роли в Lovesick. ",
+        "id": 64,
+        "keywords": [
+            "английский актеры",
+            "в главной роли",
+            "томящийся от любви"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Lovesick_(1983_film)>",
+            "<http://dbpedia.org/resource/United_Kingdom>"
+        ]
+    },
+    {
+        "context": "В который город был  президент из Черногория Родился? ",
+        "id": 65,
+        "keywords": [
+            "город",
+            "Родился",
+            "президент из Черногория"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/President_of_Montenegro>",
+            "<http://dbpedia.org/resource/Capital_city>"
+        ]
+    },
+    {
+        "context": "Какие является Бэтмена реальный имя? ",
+        "id": 68,
+        "keywords": [
+            "реальный имя",
+            "Бэтмен"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Batman>"
+        ]
+    },
+    {
+        "context": "Кто является  автор из WikiLeaks? ",
+        "id": 69,
+        "keywords": [
+            "автор",
+            "Викиликс"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/WikiLeaks>"
+        ]
+    },
+    {
+        "context": "Шон Парнелл был губернатором штата США?",
+        "id": 70,
+        "keywords": [
+            "Штат США",
+            "губернатор",
+            "Шон Парнелл"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Sean_Parnell>"
+        ]
+    },
+    {
+        "context": "Кто был  жена из президент Линкольн? ",
+        "id": 71,
+        "keywords": [
+            "жена",
+            "президент",
+            "линкольн"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Abraham_Lincoln>"
+        ]
+    },
+    {
+        "context": "Который пространство зонды мы послал в орбита вокруг  солнце? ",
+        "id": 73,
+        "keywords": [
+            "пространство зонды",
+            "орбита вокруг  солнце"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Category:Missions_to_the_Sun>"
+        ]
+    },
+    {
+        "context": "Как многие студенты делает  Свободно Университет в Амстердам иметь? ",
+        "id": 74,
+        "keywords": [
+            "Свободно Университет",
+            "Амстердам",
+            "студенты"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Vrije_Universiteit_Amsterdam>"
+        ]
+    },
+    {
+        "context": "Какие является  доход из IBM? ",
+        "id": 75,
+        "keywords": [
+            "доход",
+            "IBM"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/IBM>"
+        ]
+    },
+    {
+        "context": "Кто был Том Hanks в браке к? ",
+        "id": 76,
+        "keywords": [
+            "Том",
+            "мотки",
+            "в браке"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Tom_Hanks>"
+        ]
+    },
+    {
+        "context": "Дайте меня все космические корабли что полетела в Марс. ",
+        "id": 78,
+        "keywords": [
+            "космические корабли",
+            "полетела в",
+            "Марс"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Category:Mars_rovers>"
+        ]
+    },
+    {
+        "context": "Кто созданный английский Википедия? ",
+        "id": 81,
+        "keywords": [
+            "созданный",
+            "английский",
+            "википедия"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Wikipedia>"
+        ]
+    },
+    {
+        "context": "Дайте меня все женский пол Немецкий канцлеры. ",
+        "id": 82,
+        "keywords": [
+            "Немецкий канцлер",
+            "женский пол"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Chancellor_of_Germany>"
+        ]
+    },
+    {
+        "context": "Кто владеет Кто? ",
+        "id": 83,
+        "keywords": [
+            "своя",
+            "который"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Aldi>"
+        ]
+    },
+    {
+        "context": "Который книги мы написано от Danielle Стали? ",
+        "id": 84,
+        "keywords": [
+            "книги",
+            "написано",
+            "Danielle",
+            "стали"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Book>",
+            "<http://dbpedia.org/resource/Danielle_Steel>"
+        ]
+    },
+    {
+        "context": "Как глубоко является Озеро Кимзе? ",
+        "id": 85,
+        "keywords": [
+            "Озеро Кимзе",
+            "глубина"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Chiemsee>"
+        ]
+    },
+    {
+        "context": "Который компании Работа в  авиационно-космический промышленность в виде Что ж в виде в лекарственное средство? ",
+        "id": 86,
+        "keywords": [
+            "Компания",
+            "авиационно-космический промышленность",
+            "лекарственное средство"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Medical>",
+            "<http://dbpedia.org/resource/Aerospace>",
+            "<http://dbpedia.org/ontology/Company>"
+        ]
+    },
+    {
+        "context": "Который профессиональный серферов мы Родился на  Филиппины? ",
+        "id": 87,
+        "keywords": [
+            "профессиональный серфер",
+            "Родился",
+            "Филиппины"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Surfer>",
+            "<http://dbpedia.org/resource/Philippines>"
+        ]
+    },
+    {
+        "context": "Кто был  отец из Королева Элизабет II? ",
+        "id": 89,
+        "keywords": [
+            "отец",
+            "Королева Элизабет II"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Elizabeth_II>"
+        ]
+    },
+    {
+        "context": "Дайте меня все американский президенты в  последний 20 года. ",
+        "id": 90,
+        "keywords": [
+            "американский президенты",
+            "последний 20 лет"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Person>",
+            "<http://dbpedia.org/resource/Category:Presidents_of_the_United_States>"
+        ]
+    },
+    {
+        "context": "когда является  кино Наихудший случай сценарий собирается в быть в кинотеатры в  Нидерланды? ",
+        "id": 91,
+        "keywords": [
+            "кино",
+            "Наихудший случай сценарий",
+            "кино",
+            "Нидерланды"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Worst_Case_Scenario_(film)>"
+        ]
+    },
+    {
+        "context": "Который дочернее предприятие из T UI Путешествовать служит и то и другое Глазго а также Дублин? ",
+        "id": 93,
+        "keywords": [
+            "дочернее предприятие",
+            "T UI Путешествовать",
+            "обслуживать",
+            "Глазго",
+            "Дублин"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Glasgow_International_Airport>",
+            "<http://dbpedia.org/resource/TUI_Travel>",
+            "<http://dbpedia.org/resource/Dublin_Airport>"
+        ]
+    },
+    {
+        "context": "Какие языки делать Oни говорить в Пакистан? ",
+        "id": 94,
+        "keywords": [
+            "языки",
+            "Пакистан"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Pakistan>"
+        ]
+    },
+    {
+        "context": "Кто является  дочь из Билл Клинтон в браке к? ",
+        "id": 95,
+        "keywords": [
+            "Билл Клинтон",
+            "дочь",
+            "в браке"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Bill_Clinton>"
+        ]
+    },
+    {
+        "context": "Какие находятся  имена из  Подростковая мутант Ниндзя Черепахи? ",
+        "id": 100,
+        "keywords": [
+            "имена",
+            "Подростковая мутант Ниндзя Черепахи"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Teenage_Mutant_Ninja_Turtles>"
+        ]
+    },
+    {
+        "context": "Какие является  имя из  школа где Обама жена изучал? ",
+        "id": 101,
+        "keywords": [
+            "школа имя",
+            "Обама жена",
+            "изучение"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Barack_Obama>"
+        ]
+    },
+    {
+        "context": "когда сделал Парагвай провозглашать его независимость? ",
+        "id": 102,
+        "keywords": [
+            "Парагвай",
+            "провозглашать",
+            "независимость"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Paraguay>"
+        ]
+    },
+    {
+        "context": "Кто является  губернатор из Техас? ",
+        "id": 107,
+        "keywords": [
+            "губернатор",
+            "Техас"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Texas>"
+        ]
+    },
+    {
+        "context": "Дайте меня  официальный сайты из актеры из  телевидение показать Зачарованные. ",
+        "id": 108,
+        "keywords": [
+            "официальный",
+            "сайты",
+            "актеры",
+            "телевидение",
+            "Зачарованные"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Charmed>"
+        ]
+    },
+    {
+        "context": "Как многие калорий делает  багет иметь? ",
+        "id": 109,
+        "keywords": [
+            "калорий",
+            "багет"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Baguette>"
+        ]
+    },
+    {
+        "context": "В который студия сделал  Битлз запись их первый альбом? ",
+        "id": 112,
+        "keywords": [
+            "Битлз",
+            "запись",
+            "первый альбом",
+            "студия"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/The_Beatles>",
+            "<http://dbpedia.org/ontology/Album>"
+        ]
+    },
+    {
+        "context": "Который пиво пивоварение компании находятся располагается в Северный Рейн Вестфалия? ",
+        "id": 113,
+        "keywords": [
+            "пивоварение компании",
+            "север рейн Вестфалия"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Category:Companies_based_in_North_Rhine-Westphalia>",
+            "<http://dbpedia.org/ontology/Brewery>"
+        ]
+    },
+    {
+        "context": "Кто основанный Intel? ",
+        "id": 114,
+        "keywords": [
+            "Intel",
+            "основанный"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Intel>"
+        ]
+    },
+    {
+        "context": "Кто является  младший игрок в  премьер Лига? ",
+        "id": 115,
+        "keywords": [
+            "игрок",
+            "премьер лига",
+            "младший"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Premier_League>"
+        ]
+    },
+    {
+        "context": "Дайте меня  столицы из все страны в Африка. ",
+        "id": 117,
+        "keywords": [
+            "Африка",
+            "страна",
+            "столица"
+        ],
+        "uris": [
+            "<http://dbpedia.org/resource/Category:Countries_in_Africa>"
+        ]
+    },
+    {
+        "context": "Который мосты находятся из  одна и та же тип в виде  Манхеттен Мост? ",
+        "id": 118,
+        "keywords": [
+            "мост",
+            "одна и та же тип",
+            "Манхеттен Мост"
+        ],
+        "uris": [
+            "<http://dbpedia.org/ontology/Bridge>",
+            "<http://dbpedia.org/resource/Manhattan_Bridge>"
+        ]
+    }
+]
