@@ -3,8 +3,52 @@ from tqdm import tqdm
 import pickle
 import os
 import bz2
-from data_process.gen_uris_in_KB import clear_uri2mention,generate_mention2uri
 from whoosh.analysis import StemmingAnalyzer,FancyAnalyzer,LanguageAnalyzer,StemFilter,RegexTokenizer
+def clear_uri2mention(uri2mention_dict, outputfile):
+    new_uri2mention_dict = {}
+    for uri, mention_list in tqdm(uri2mention_dict.items()):
+        new_mention_list = []
+        for mention in mention_list:
+            mention = mention.replace("_", " ")
+            mention = mention.replace(":", " ")
+            mention = mention.replace("\"", " ")
+            mention = mention.replace("\'", " ")
+            mention = mention.replace("-", " ")
+            mention = mention.replace(">", "")
+            mention = mention.replace("@en", "")
+            mention = mention.replace("/", " ")
+            mention = mention.replace(",", " ")
+            mention = mention.strip()
+            new_mention_list.append(mention)
+        final_mention_list = []
+        if len(new_mention_list) > 1:
+            for m1 in new_mention_list:
+                Flag = True
+                for m2 in new_mention_list:
+                    if m1 != m2:
+                        if m1 in m2:
+                            Flag = False
+                if Flag:
+                    final_mention_list.append(m1)
+        else:
+            final_mention_list = new_mention_list
+        new_uri2mention_dict[uri] = list(set(final_mention_list))
+    pickle.dump(new_uri2mention_dict, open(outputfile, 'wb'))
+    return new_uri2mention_dict
+def generate_mention2uri(uri2mention_dict, output_file):
+    mention2uri_dict = {}
+    for k, v in tqdm(uri2mention_dict.items()):
+        for mention in v:
+            if mention in mention2uri_dict:
+                if k not in mention2uri_dict[mention]:
+                    mention2uri_dict[mention].append(k)
+            else:
+                mention2uri_dict[mention] = [k]
+    pickle.dump(mention2uri_dict, open(output_file, 'wb'))
+    print(len(mention2uri_dict))
+    return mention2uri_dict
+
+
 if __name__ == '__main__':
     labels = ['labels_en',
               'category_labels_en']
@@ -19,37 +63,37 @@ if __name__ == '__main__':
         'instance_types_transitive_en'
     ]
 
-    sub_pred_obj_dir = "data_process/spo_dir"
-    bz_dir = "data_process/DBpedia_bz"
+    sub_pred_obj_dir = "KBs/spo_dir"
+    bz_dir = "KBs"
     if not os.path.exists(sub_pred_obj_dir):
         os.makedirs(sub_pred_obj_dir)
-    #----------Gen subject predict and object pickles------------------------
-    # for file in tqdm(used_file_name):
-    #     filename = os.path.join(bz_dir, file + ".ttl.bz2")
-    #     source_file = bz2.open(filename, "r")
-    #     count = 0
-    #     subject_set = set()
-    #     predicate_set = set()
-    #     object_set = set()
-    #
-    #     for line in source_file:
-    #         triple = line.decode().strip().split()
-    #         if triple[0] == '#':
-    #             continue
-    #         count += 1
-    #         subject_set.add(triple[0])
-    #         predicate_set.add(triple[1])
-    #         object_set.add(triple[2])
-    #     print(file, count, '----------------------')
-    #     print('\t subject:', len(subject_set))
-    #     print('\t predicate:', len(predicate_set))
-    #     print('\t object:', len(object_set))
-    #     pickle.dump(subject_set, open("{}/{}-subject.pk".format(sub_pred_obj_dir,file), 'wb'))
-    #     pickle.dump(predicate_set, open("{}/{}-predicate.pk".format(sub_pred_obj_dir,file), 'wb'))
-    #     pickle.dump(object_set, open("{}/{}-object.pk".format(sub_pred_obj_dir,file), 'wb'))
+    # ----------Gen subject predict and object pickles------------------------
+    for file in tqdm(used_file_name):
+        filename = os.path.join(bz_dir, file + ".ttl.bz2")
+        source_file = bz2.open(filename, "r")
+        count = 0
+        subject_set = set()
+        predicate_set = set()
+        object_set = set()
+
+        for line in source_file:
+            triple = line.decode().strip().split()
+            if triple[0] == '#':
+                continue
+            count += 1
+            subject_set.add(triple[0])
+            predicate_set.add(triple[1])
+            object_set.add(triple[2])
+        print(file, count, '----------------------')
+        print('\t subject:', len(subject_set))
+        print('\t predicate:', len(predicate_set))
+        print('\t object:', len(object_set))
+        pickle.dump(subject_set, open("{}/{}-subject.pk".format(sub_pred_obj_dir,file), 'wb'))
+        pickle.dump(predicate_set, open("{}/{}-predicate.pk".format(sub_pred_obj_dir,file), 'wb'))
+        pickle.dump(object_set, open("{}/{}-object.pk".format(sub_pred_obj_dir,file), 'wb'))
     # # #----------------------Finished SPO process--------------------------
-    # exit()
-    uri_dict_file = "data_process/FinalData/uri2mention.pk"
+    print("finished spo")
+    uri_dict_file = "KBs/clean_kb_data/uri2mention_dis.pk"
     uri_dict = pickle.load(open(uri_dict_file, 'rb'))
     uri_and_itsbz = {}
     for key in uri_dict.keys():
@@ -77,8 +121,10 @@ if __name__ == '__main__':
         if uri not in iso_uri:
             new_uri_dict[uri] =mention
 
-    pickle.dump(new_uri_dict,open("uri2mention_dis2.pk",'wb'))
+    output_u2m = "KBs/clean_kb_data/uri2mention_dis_iso.pk"
+    output_m2u = "KBs/clean_kb_data/mention2uri_dis_iso.pk"
+    # pickle.dump(new_uri_dict,open(output_file,'wb'))
     print("new_uris:",len(new_uri_dict))
-    new_uri2mention_dict = clear_uri2mention(new_uri_dict, "uri2mention_dis2.pk")
-    mention2uri_dict = generate_mention2uri(new_uri2mention_dict, "mention2uri_dis2.pk")
+    new_uri2mention_dict = clear_uri2mention(new_uri_dict, output_u2m)
+    mention2uri_dict = generate_mention2uri(new_uri2mention_dict, output_m2u)
     print(mention2uri_dict['river'])

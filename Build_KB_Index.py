@@ -2,21 +2,22 @@ from whoosh.analysis import FancyAnalyzer
 from whoosh.index import create_in
 from whoosh.fields import *
 from whoosh.qparser import QueryParser
-from whoosh.analysis import StemmingAnalyzer,FancyAnalyzer
+from whoosh.analysis import StemmingAnalyzer, FancyAnalyzer
 from tqdm import tqdm
 import pickle
+import os
 
 if __name__ == '__main__':
 
-    uri2mention_file = "uri2mention_dis.pk"
-    output_cleaned_mention2uri_file = "cleaned_mention2uri.pk"
+    uri2mention_file = "KBs/clean_kb_data/uri2mention_dis.pk"
+    output_cleaned_mention2uri_file = "KBs/clean_kb_data/cleaned_mention2uri.pk"
     output_DBindex_dir = "DBIndex"
 
     if os.path.exists(output_cleaned_mention2uri_file):
         mention2uri = pickle.load(open(output_cleaned_mention2uri_file, 'rb'))
     else:
         my_analyzer = FancyAnalyzer()
-        uri_2_mention = pickle.load(open(uri2mention_file,'rb'))
+        uri_2_mention = pickle.load(open(uri2mention_file, 'rb'))
 
         mention2uri = {}
         for uri in uri_2_mention.keys():
@@ -33,11 +34,9 @@ if __name__ == '__main__':
 
     schema = Schema(title=TEXT(stored=True, analyzer=StemmingAnalyzer()), content=TEXT(stored=True))
 
-   
     if not os.path.exists(output_DBindex_dir):
         os.mkdir(output_DBindex_dir)
     ix = create_in(output_DBindex_dir, schema)
-
 
     writer = ix.writer()
     for mention, uri in tqdm(mention2uri.items()):

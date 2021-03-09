@@ -46,9 +46,9 @@ We processed these datasets for cross-lingual entity linking task. We merged mul
 
 **2. Knowledge base**
 
-Notable, the used knowledge base for QALD dataset is DBpedia 2016-10. Please download this knowledge base from this [link](https://wiki.dbpedia.org/downloads-2016-10).
+Notable, the used knowledge base for QALD dataset is DBpedia 2016-10. This knowledge base can be downloadedfrom this [link](https://wiki.dbpedia.org/downloads-2016-10).
 
-We provided our code to download this knowledge base and extract its all entities (~6 million) for reference. The results files are available in this [link](https://drive.google.com/drive/folders/1p6U03OmIvk5JCDAEe9ryWx3UJ21nM6kL?usp=sharing).
+We provided our code to download this knowledge base and extract its all entities (~6 million) for reference. The results files (i.e., the dictionary of all uris in KB) are available in this [link](https://drive.google.com/drive/folders/1p6U03OmIvk5JCDAEe9ryWx3UJ21nM6kL?usp=sharing).
 The details of our code: 
  ``` ruby
 # download the KB files from http://downloads.dbpedia.org/2016-10/core-i18n/en/ and put them in "DBpedia_bz" folder
@@ -60,12 +60,15 @@ bash download.sh
 # generate all entities in these KB files
 python Gen_KB_entities.py 	
 # input: the name of folder contains KB files, i.e., "DBpedia_bz"
-# output: DBpedia_bz/clean_kb_data, with four pickle files: mention2uri_dis.pk, mention2uri_orig.pk, uri2mention_dis.pk, uri2mention_orig.pk
+# output: DBpedia_bz/clean_kb_data, 
 # uri2mention_dis.pk and mention2uri_dis.pk are used, which contain 6477011 and 6472104 items, respectively.
 # uri2mention_dis.pk is a dictionary contains all entities and their corresponding aliases. For example, 
 # {'<http://dbpedia.org/resource/World_of_Miracles>': 'world miracles', 
 #  '<http://dbpedia.org/resource/Antique_Beat>':'antique beat',...}
 ```
+Notes: 
+1) If we named the input folder as DBpedia_bz, the output files are in DBpedia_bz/clean_kb_data. uri2mention_dis.pk and mention2uri_dis.pk are used in experiments, which contain 6477011 and 6472104 items, respectively. uri2mention_dis.pk is a dictionary contains all entities and their corresponding aliases. 
+2) QALD dataset is used for question answering task over knowlege base. Thus, the isolate nodes(which do not have relations to other nodes) are not used in the task. In our implement, we removed the "isolate" nodes. The code of this step is Gen_KB_entities_remove_isolate.py. The output_file is named as uri2mention_dis_iso.pk, and it contains 6002089 entities.
 ## Code
 
 The code to implement our proposed "pivots-based candidate retrieval" method.
@@ -124,7 +127,8 @@ Notable, we used the MUSE method to generate aligned word embeddings in the pape
 **Step4:**  Lexical Retrieval and Generate TopN Candidates	
  - Build search index for all entities.  In this paper, we build the index of all entities in KB using [Whoosh](https://whoosh.readthedocs.io/en/latest/index.html), which is a library of classes and functions for indexing text and then searching the index. E.g.,
   	```ruby
-	python Build_KB_Index.py
+    # pip install Whoosh
+	python Build_KB_Index.py # This step took over 2 hours in our experiments.
 	
 	# input file: a dictionary of all entities in KB. E.g.,
 	# {'<http://dbpedia.org/resource/World_of_Miracles>': 'world miracles', '<http://dbpedia.org/resource/Antique_Beat>':'antique beat'}
@@ -132,11 +136,10 @@ Notable, we used the MUSE method to generate aligned word embeddings in the pape
 	``` 
  - Search the plausible mentions, return top-1000 candidates. E.g., 
  	```ruby
-	python LexicalSearch.py
-	
-	# input_file: toydata/plausible_de.json, the path of KB Index
-	# output_file: toydata/output_de.json. E.g., the "xel_cr_results" of German mention "sieben wunder der antiken welt" include:
-	# [('<http://dbpedia.org/resource/Category:Seven_Wonders_of_the_Ancient_World>', 0.04279009208377855),
-	# ('<http://dbpedia.org/resource/Seven_Wonders_of_the_Ancient_World>', 0.04279009208377855),
-	# ('<http://dbpedia.org/resource/World_of_Miracles>', 0.035886112485214505)...]
+	 python LexicalSearch.py
+	 # input_file: toydata/plausible_de.json, the path of KB Index
+	 # output_file: toydata/output_de.json. E.g., the "xel_cr_results" of German mention "sieben wunder der antiken welt" include:
+	 # [('<http://dbpedia.org/resource/Category:Seven_Wonders_of_the_Ancient_World>', 0.04279009208377855),
+	 # ('<http://dbpedia.org/resource/Seven_Wonders_of_the_Ancient_World>', 0.04279009208377855),
+	 # ('<http://dbpedia.org/resource/World_of_Miracles>', 0.035886112485214505)...]
 	``` 
