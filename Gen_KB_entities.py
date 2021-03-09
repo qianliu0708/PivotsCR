@@ -122,11 +122,14 @@ def generate_mention2uri(uri2mention_dict,output_file):
 if __name__ == '__main__':
 
     dir = "DBpedia_bz" # folder of download KB files
-    
-    output_uri2mention_file = "clean_kb_data/uri2mention_orig.pk"
-    output_mention2uri_file = "clean_kb_data/mention2uri_orig.pk"
-    output_uri2mention_file_dis = "clean_kb_data/uri2mention_dis.pk"
-    output_mention2uri_file_dis = "clean_kb_data/mention2uri_dis.pk"
+    if not os.path.exists(os.path.join(dir,"clean_kb_data")):
+        os.mkdir(os.path.join(dir,"clean_kb_data"))
+
+    output_uri2mention_file = os.path.join(dir,"clean_kb_data/uri2mention_orig.pk")
+    output_mention2uri_file = os.path.join(dir,"clean_kb_data/mention2uri_orig.pk")
+    output_uri2mention_file_dis = os.path.join(dir,"clean_kb_data/uri2mention_dis.pk")
+    output_mention2uri_file_dis = os.path.join(dir,"clean_kb_data/mention2uri_dis.pk")
+
 
     if os.path.exists(output_mention2uri_file) and os.path.exists(output_uri2mention_file):
         mention2uri_dict = pickle.load(open(output_mention2uri_file,'rb'))
@@ -147,21 +150,22 @@ if __name__ == '__main__':
         uri2mention_dict = {}
         for file in tqdm(labels):
             uri2mention_dict = generate_uri2mention_label(file, uri2mention_dict)
-            print(len(uri2mention_dict))
+            print("After add {}".format(file),len(uri2mention_dict))
         for file in tqdm(used_file_name):
             uri2mention_dict = generate_uri2mention(file, uri2mention_dict)
-            print(len(uri2mention_dict))
+            print("After adding {}".format(file),len(uri2mention_dict))
         uri2mention_dict = clear_uri2mention(uri2mention_dict, output_uri2mention_file)
-        print("uri2mention",uri2mention_dict['<http://dbpedia.org/ontology/River>'])
+        print("uri2mention of <http://dbpedia.org/ontology/River> is: ",uri2mention_dict['<http://dbpedia.org/ontology/River>'])
         mention2uri_dict = generate_mention2uri(uri2mention_dict, output_mention2uri_file)
-        print("mention2uri",mention2uri_dict['river'])
+        print("mention2uri of river is: ",mention2uri_dict['river'])
     #------------uri disambiguation--------------
     disambiguation_file_name = ["redirects_en",
                                 "disambiguations_en",
                                 "uri_same_as_iri_en",
                                 "transitive_redirects_en"]
 
-    qald_all_data = read_json_file("qald_data/qald_all.json")
+    qald_all_data = read_json_file("QALD_data/QALD_XEL/qald_en.json")
+    # This is a special process for QALD dataset. For general purpose, just skip this step and set all_used_uri as []
     all_used_uri = []
     for item in qald_all_data:
         all_used_uri.extend(item['uris'])
@@ -169,14 +173,15 @@ if __name__ == '__main__':
     orig_uri = set()
     for uri in uri2mention_dict.keys():
         orig_uri.add(uri)
-    print(len(orig_uri))
+    print("Original uris: ",len(orig_uri))
 
     for filename in tqdm(disambiguation_file_name):
         orig_uri = disamb_bz_process(filename, orig_uri, all_used_uri)
-        print(filename, len(orig_uri))
+        print("Disambiguation using {}".format(filename), len(orig_uri))
 
     new_uri2mention_dict = {}
     for uri in orig_uri:
         new_uri2mention_dict[uri] = uri2mention_dict[uri]
     pickle.dump(new_uri2mention_dict,open(output_uri2mention_file_dis,'wb'))
     generate_mention2uri(new_uri2mention_dict, output_mention2uri_file_dis)
+    print("After disambiguation, mention2uri of river:", mention2uri_dict['river'])

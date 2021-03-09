@@ -48,18 +48,24 @@ We processed these datasets for cross-lingual entity linking task. We merged mul
 
 Notable, the used knowledge base for QALD dataset is DBpedia 2016-10. Please download this knowledge base from this [link](https://wiki.dbpedia.org/downloads-2016-10).
 
-We provided our code to download this knowledge base and extract its all entities (~6 million) for reference. E.g., 
+We provided our code to download this knowledge base and extract its all entities (~6 million) for reference. The results files are available in this [link](https://drive.google.com/drive/folders/1p6U03OmIvk5JCDAEe9ryWx3UJ21nM6kL?usp=sharing).
+The details of our code: 
  ``` ruby
-# download the KB files and put them in "DBpedia_bz" folder
-bash download.sh	
+# download the KB files from http://downloads.dbpedia.org/2016-10/core-i18n/en/ and put them in "DBpedia_bz" folder
+# mkdir DBpedia_bz
+# cp download.sh DBpedia_bz/
+# dos2unix download.sh
+bash download.sh
+
 # generate all entities in these KB files
 python Gen_KB_entities.py 	
 # input: the name of folder contains KB files, i.e., "DBpedia_bz"
-# output: a dictionary contains all entities and their corresponding aliases. For example, 
+# output: DBpedia_bz/clean_kb_data, with four pickle files: mention2uri_dis.pk, mention2uri_orig.pk, uri2mention_dis.pk, uri2mention_orig.pk
+# uri2mention_dis.pk and mention2uri_dis.pk are used, which contain 6477011 and 6472104 items, respectively.
+# uri2mention_dis.pk is a dictionary contains all entities and their corresponding aliases. For example, 
 # {'<http://dbpedia.org/resource/World_of_Miracles>': 'world miracles', 
 #  '<http://dbpedia.org/resource/Antique_Beat>':'antique beat',...}
 ```
-
 ## Code
 
 The code to implement our proposed "pivots-based candidate retrieval" method.
